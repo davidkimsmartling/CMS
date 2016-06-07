@@ -1,0 +1,15 @@
+{
+    "smartling": {
+        "translate_paths": [
+            "/translation/*"
+        ],
+        "source_key_paths": [
+            "/translation/{*}"
+        ]
+    },
+    "translation": {
+        "key1": {
+            "key2": "You should see this."
+        }
+    }
+}
