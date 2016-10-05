@@ -41,6 +41,15 @@
         "smartling.file_charset = UTF-16LE"
       ]
          },
+         
+         // iOS
+         {
+      "type": "ios",
+      "pathRegex": "/en/.*\\.strings",
+      "smartlingDirectives": [
+        "smartling.file_charset = UTF-16LE"
+      ]
+    },
 
          // Translation set for docx files, translation results will be put to "translated" sub-folder and translated locale will be added to result file names.
          // Custom commit message is also defined
