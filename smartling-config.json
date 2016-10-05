@@ -36,7 +36,7 @@
          // Minimal recourse set definition. Translations won't be pushed back.
          {
             "type"      : "javaProperties",
-            "pathRegex" : "/en/.*\\.properties"
+            "pathRegex" : "/en/.*\\.properties",
              "smartlingDirectives": [
         "smartling.file_charset = UTF-16LE"
       ]
