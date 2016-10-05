@@ -1,0 +1,2403 @@
+/* Activity */
+"ACTIVITY.SCREEN_TITLE" = "Activity";
+
+/* Become a fan of these featured\nbroadcasters and you’ll be\nnotified when they go live here. */
+"ACTIVITY.USERS_MESSAGE" = "Become a fan of these featured\nbroadcasters and you’ll be\nnotified when they go live here.";
+
+/* Cancel */
+"ADMIN_ACTION_DIALOG.CANCEL" = "Cancel";
+
+/* Delete */
+"ADMIN_ACTION_DIALOG.DELETE" = "Delete";
+
+/* Fan User */
+"ADMIN_ACTION_DIALOG.FAN_USER" = "Fan User";
+
+/* Hide */
+"ADMIN_ACTION_DIALOG.HIDE" = "Hide";
+
+/* Report */
+"ADMIN_ACTION_DIALOG.REPORT" = "Report";
+
+/* Show User Profile */
+"ADMIN_ACTION_DIALOG.SHOW_USER_PROFILE" = "Show User Profile";
+
+/* OK */
+"ALERT.ACCEPT_FANMAIL.FAILURE_BUTTON1_TITLE" = "OK";
+
+/* Unable to accept fan mail request. */
+"ALERT.ACCEPT_FANMAIL.FAILURE_MESSAGE" = "Unable to accept fan mail request.";
+
+/* Cannot Accept */
+"ALERT.ACCEPT_FANMAIL.FAILURE_TITLE" = "Cannot Accept";
+
+/* OK */
+"ALERT.ACCEPT_TERMS.FAILURE_BUTTON1_TITLE" = "OK";
+
+/* OK */
+"ALERT.ACCESS_APPSTORE.FAILURE_BUTTON1_TITLE" = "OK";
+
+/* You are not authorized to access the Apple App Store. */
+"ALERT.ACCESS_APPSTORE.FAILURE_MESSAGE" = "You are not authorized to access the Apple App Store.";
+
+/* Cannot Access App Store */
+"ALERT.ACCESS_APPSTORE.FAILURE_TITLE" = "Cannot Access App Store";
+
+/* OK */
+"ALERT.ADD_BROADCAST.FAILURE_BUTTON1_TITLE" = "OK";
+
+/* Unable to add broadcast to YouNow server. */
+"ALERT.ADD_BROADCAST.FAILURE_MESSAGE" = "Unable to add broadcast to YouNow server.";
+
+/* Cannot Add Broadcast */
+"ALERT.ADD_BROADCAST.FAILURE_TITLE" = "Cannot Add Broadcast";
+
+/* OK */
+"ALERT.ADD_CHAT_COMMENT.FAILURE_BUTTON1_TITLE" = "OK";
+
+/* Unable to add chat comment. */
+"ALERT.ADD_CHAT_COMMENT.FAILURE_MESSAGE" = "Unable to add chat comment.";
+
+/* Cannot Add Comment */
+"ALERT.ADD_CHAT_COMMENT.FAILURE_TITLE" = "Cannot Add Comment";
+
+/* OK */
+"ALERT.ADD_POST.FAILURE_BUTTON1_TITLE" = "OK";
+
+/* Unable to add profile post. */
+"ALERT.ADD_POST.FAILURE_MESSAGE" = "Unable to add profile post.";
+
+/* Cannot Add Post */
+"ALERT.ADD_POST.FAILURE_TITLE" = "Cannot Add Post";
+
+/* OK */
+"ALERT.ADD_POST_COMMENT.FAILURE_BUTTON1_TITLE" = "OK";
+
+/* Unable to add profile post comment. */
+"ALERT.ADD_POST_COMMENT.FAILURE_MESSAGE" = "Unable to add profile post comment.";
+
+/* Cannot Add Comment */
+"ALERT.ADD_POST_COMMENT.FAILURE_TITLE" = "Cannot Add Comment";
+
+/* Cancel */
+"ALERT.ADMIN_ACTION.CONFIRM_BUTTON1_TITLE" = "Cancel";
+
+/* Yes */
+"ALERT.ADMIN_ACTION.CONFIRM_BUTTON2_TITLE" = "Yes";
+
+/* Are you sure you want to %1$@? */
+"ALERT.ADMIN_ACTION.CONFIRM_MESSAGE" = "Are you sure you want to %1$@?";
+
+/* OK */
+"ALERT.AGREE_PARTNER.FAILURE_BUTTON1_TITLE" = "OK";
+
+/* Unable to submit YouNow partner agreement. */
+"ALERT.AGREE_PARTNER.FAILURE_MESSAGE" = "Unable to submit YouNow partner agreement.";
+
+/* Uh oh! 😳 */
+"ALERT.AGREE_PARTNER.FAILURE_TITLE" = "Uh oh! 😳";
+
+/* OK */
+"ALERT.APPLY_PARTNER.FAILURE_BUTTON1_TITLE" = "OK";
+
+/* Unable to submit YouNow partner application. */
+"ALERT.APPLY_PARTNER.FAILURE_MESSAGE" = "Unable to submit YouNow partner application.";
+
+/* Uh oh! 😳 */
+"ALERT.APPLY_PARTNER.FAILURE_TITLE" = "Uh oh! 😳";
+
+/* No Thanks */
+"ALERT.APP_RATING.INFO_BUTTON1_TITLE" = "No Thanks";
+
+/* Rate YouNow */
+"ALERT.APP_RATING.INFO_BUTTON2_TITLE" = "Rate YouNow";
+
+/* Remind Me Later */
+"ALERT.APP_RATING.INFO_BUTTON3_TITLE" = "Remind Me Later";
+
+/* Rate us 5 stars to show your support! */
+"ALERT.APP_RATING.INFO_MESSAGE" = "Rate us 5 stars to show your support!";
+
+/* Loving the YouNow App? */
+"ALERT.APP_RATING.INFO_TITLE" = "Loving the YouNow App?";
+
+/* Cancel */
+"ALERT.BROADCAST_AUDIO.FAILURE_BUTTON1_TITLE" = "Cancel";
+
+/* End Broadcast */
+"ALERT.BROADCAST_AUDIO.FAILURE_BUTTON2_TITLE" = "End Broadcast";
+
+/* You may experience LOST AUDIO. */
+"ALERT.BROADCAST_AUDIO.FAILURE_MESSAGE" = "You may experience LOST AUDIO.";
+
+/* Broadcast Audio Failure */
+"ALERT.BROADCAST_AUDIO.FAILURE_TITLE" = "Broadcast Audio Failure";
+
+/* OK */
+"ALERT.CANCEL_INVITE.FAILURE_BUTTON1_TITLE" = "OK";
+
+/* Unable to cancel guest invite on YouNow server. */
+"ALERT.CANCEL_INVITE.FAILURE_MESSAGE" = "Unable to cancel guest invite on YouNow server.";
+
+/* Cannot Cancel Guest Invite */
+"ALERT.CANCEL_INVITE.FAILURE_TITLE" = "Cannot Cancel Guest Invite";
+
+/* OK */
+"ALERT.CAPTURE_MOMENT.FAILURE_BUTTON1_TITLE" = "OK";
+
+/* Unable to capture moment from this broadcast. Please try again. */
+"ALERT.CAPTURE_MOMENT.FAILURE_MESSAGE" = "Unable to capture moment from this broadcast. Please try again.";
+
+/* Cannot Capture Moment */
+"ALERT.CAPTURE_MOMENT.FAILURE_TITLE" = "Cannot Capture Moment";
+
+/* OK */
+"ALERT.CONFIGURE_BROADCAST.FAILURE_BUTTON1_TITLE" = "OK";
+
+/* Unable to configure broadcast connection. */
+"ALERT.CONFIGURE_BROADCAST.FAILURE_MESSAGE" = "Unable to configure broadcast connection.";
+
+/* Cannot Configure Broadcast */
+"ALERT.CONFIGURE_BROADCAST.FAILURE_TITLE" = "Cannot Configure Broadcast";
+
+/* OK */
+"ALERT.CONNECT_FACEBOOK.FAILURE_BUTTON1_TITLE" = "OK";
+
+/* Unable to connect your Facebook account to your YouNow account. */
+"ALERT.CONNECT_FACEBOOK.FAILURE_MESSAGE" = "Unable to connect your Facebook account to your YouNow account.";
+
+/* Cannot Connect Facebook */
+"ALERT.CONNECT_FACEBOOK.FAILURE_TITLE" = "Cannot Connect Facebook";
+
+/* OK */
+"ALERT.CONNECT_GOOGLE.FAILURE_BUTTON1_TITLE" = "OK";
+
+/* Unable to connect your Google account to your YouNow account. */
+"ALERT.CONNECT_GOOGLE.FAILURE_MESSAGE" = "Unable to connect your Google account to your YouNow account.";
+
+/* Cannot Connect Google */
+"ALERT.CONNECT_GOOGLE.FAILURE_TITLE" = "Cannot Connect Google";
+
+/* OK */
+"ALERT.CONNECT_INSTAGRAM.FAILURE_BUTTON1_TITLE" = "OK";
+
+/* Unable to connect your Instagram account to your YouNow account. */
+"ALERT.CONNECT_INSTAGRAM.FAILURE_MESSAGE" = "Unable to connect your Instagram account to your YouNow account.";
+
+/* Cannot Connect Instagram */
+"ALERT.CONNECT_INSTAGRAM.FAILURE_TITLE" = "Cannot Connect Instagram";
+
+/* Unable to connect your Tumblr account to your YouNow account. */
+"ALERT.CONNECT_TUMBLR.FAILURE_MESSAGE" = "Unable to connect your Tumblr account to your YouNow account.";
+
+/* Cannot Connect Tumblr */
+"ALERT.CONNECT_TUMBLR.FAILURE_TITLE" = "Cannot Connect Tumblr";
+
+/* OK */
+"ALERT.CONNECT_TWITTER.FAILURE_BUTTON1_TITLE" = "OK";
+
+/* Unable to connect your Twitter account to your YouNow account. */
+"ALERT.CONNECT_TWITTER.FAILURE_MESSAGE" = "Unable to connect your Twitter account to your YouNow account.";
+
+/* Cannot Connect Twitter */
+"ALERT.CONNECT_TWITTER.FAILURE_TITLE" = "Cannot Connect Twitter";
+
+/* OK */
+"ALERT.CONNECT_YOUTUBE.FAILURE_BUTTON1_TITLE" = "OK";
+
+/* Unable to connect your YouTube account to your YouNow account. */
+"ALERT.CONNECT_YOUTUBE.FAILURE_MESSAGE" = "Unable to connect your YouTube account to your YouNow account.";
+
+/* Cannot Connect YouTube */
+"ALERT.CONNECT_YOUTUBE.FAILURE_TITLE" = "Cannot Connect YouTube";
+
+/* No Thanks */
+"ALERT.CONTINUE_BROADCAST.CONFIRM_BUTTON1_TITLE" = "No Thanks";
+
+/* Yes */
+"ALERT.CONTINUE_BROADCAST.CONFIRM_BUTTON2_TITLE" = "Yes";
+
+/* Your %1$@ viewers are waiting for you! */
+"ALERT.CONTINUE_BROADCAST.CONFIRM_MESSAGE" = "Your %1$@ viewers are waiting for you!";
+
+/* Continue Your Broadcast? */
+"ALERT.CONTINUE_BROADCAST.CONFIRM_TITLE" = "Continue Your Broadcast?";
+
+/* OK */
+"ALERT.CREATE_BROADCAST.FAILURE_BUTTON1_TITLE" = "OK";
+
+/* Unable to create broadcast on YouNow server. */
+"ALERT.CREATE_BROADCAST.FAILURE_MESSAGE" = "Unable to create broadcast on YouNow server.";
+
+/* Cannot Create Broadcast */
+"ALERT.CREATE_BROADCAST.FAILURE_TITLE" = "Cannot Create Broadcast";
+
+/* Delete */
+"ALERT.DELETE_REPLAY.CONFIRM_BUTTON1_TITLE" = "Delete";
+
+/* Cancel */
+"ALERT.DELETE_REPLAY.CONFIRM_BUTTON2_TITLE" = "Cancel";
+
+/* Are you sure you want to delete this replay? */
+"ALERT.DELETE_REPLAY.CONFIRM_MESSAGE" = "Are you sure you want to delete this replay?";
+
+/* Delete replay */
+"ALERT.DELETE_REPLAY.CONFIRM_TITLE" = "Delete replay";
+
+/* OK */
+"ALERT.DELETE_REPLAY.FAILURE_BUTTON1_TITLE" = "OK";
+
+/* Unable to delete replay.  Please try again. */
+"ALERT.DELETE_REPLAY.FAILURE_MESSAGE" = "Unable to delete replay.  Please try again.";
+
+/* Failed to delete replay */
+"ALERT.DELETE_REPLAY.FAILURE_TITLE" = "Failed to delete replay";
+
+/* OK */
+"ALERT.DISCONNECT_FACEBOOK.FAILURE_BUTTON1_TITLE" = "OK";
+
+/* Unable to disconnect your Facebook account from your YouNow account. */
+"ALERT.DISCONNECT_FACEBOOK.FAILURE_MESSAGE" = "Unable to disconnect your Facebook account from your YouNow account.";
+
+/* Cannot Disconnect Facebook */
+"ALERT.DISCONNECT_FACEBOOK.FAILURE_TITLE" = "Cannot Disconnect Facebook";
+
+/* OK */
+"ALERT.DISCONNECT_GOOGLE.FAILURE_BUTTON1_TITLE" = "OK";
+
+/* Unable to disconnect your Google account from your YouNow account. */
+"ALERT.DISCONNECT_GOOGLE.FAILURE_MESSAGE" = "Unable to disconnect your Google account from your YouNow account.";
+
+/* Cannot Disconnect Google */
+"ALERT.DISCONNECT_GOOGLE.FAILURE_TITLE" = "Cannot Disconnect Google";
+
+/* OK */
+"ALERT.DISCONNECT_INSTAGRAM.FAILURE_BUTTON1_TITLE" = "OK";
+
+/* Unable to disconnect your Instagram account from your YouNow account. */
+"ALERT.DISCONNECT_INSTAGRAM.FAILURE_MESSAGE" = "Unable to disconnect your Instagram account from your YouNow account.";
+
+/* Cannot Disconnect Instagram */
+"ALERT.DISCONNECT_INSTAGRAM.FAILURE_TITLE" = "Cannot Disconnect Instagram";
+
+/* Unable to disconnect your Tumblr account from your YouNow account. */
+"ALERT.DISCONNECT_TUMBLR.FAILURE_MESSAGE" = "Unable to disconnect your Tumblr account from your YouNow account.";
+
+/* Cannot Disconnect Tumblr */
+"ALERT.DISCONNECT_TUMBLR.FAILURE_TITLE" = "Cannot Disconnect Tumblr";
+
+/* OK */
+"ALERT.DISCONNECT_TWITTER.FAILURE_BUTTON1_TITLE" = "OK";
+
+/* Unable to disconnect your Twitter account from your YouNow account. */
+"ALERT.DISCONNECT_TWITTER.FAILURE_MESSAGE" = "Unable to disconnect your Twitter account from your YouNow account.";
+
+/* Cannot Disconnect Twitter */
+"ALERT.DISCONNECT_TWITTER.FAILURE_TITLE" = "Cannot Disconnect Twitter";
+
+/* OK */
+"ALERT.DISCONNECT_YOUTUBE.FAILURE_BUTTON1_TITLE" = "OK";
+
+/* Unable to disconnect your YouTube account from your YouNow account. */
+"ALERT.DISCONNECT_YOUTUBE.FAILURE_MESSAGE" = "Unable to disconnect your YouTube account from your YouNow account.";
+
+/* Cannot Disconnect YouTube */
+"ALERT.DISCONNECT_YOUTUBE.FAILURE_TITLE" = "Cannot Disconnect YouTube";
+
+/* OK */
+"ALERT.ENABLE_APNS.FAILURE_BUTTON1_TITLE" = "OK";
+
+/* To enable push notifications for this app, open Settings > YouNow > Notifications and make sure Allow Notifications is turned on. */
+"ALERT.ENABLE_APNS.FAILURE_MESSAGE" = "To enable push notifications for this app, open Settings > YouNow > Notifications and make sure Allow Notifications is turned on.";
+
+/* Cannot Enable Push Notifications */
+"ALERT.ENABLE_APNS.FAILURE_TITLE" = "Cannot Enable Push Notifications";
+
+/* Cancel */
+"ALERT.END_BROADCAST.CONFIRM_BUTTON1_TITLE" = "Cancel";
+
+/* Yes */
+"ALERT.END_BROADCAST.CONFIRM_BUTTON2_TITLE" = "Yes";
+
+/* Are you sure you want to end your broadcast? */
+"ALERT.END_BROADCAST.CONFIRM_MESSAGE" = "Are you sure you want to end your broadcast?";
+
+/* End Broadcast? */
+"ALERT.END_BROADCAST.CONFIRM_TITLE" = "End Broadcast?";
+
+/* OK */
+"ALERT.END_BROADCAST.FAILURE_BUTTON1_TITLE" = "OK";
+
+/* Unable to end guest broadcast on YouNow server. */
+"ALERT.END_BROADCAST.FAILURE_MESSAGE" = "Unable to end guest broadcast on YouNow server.";
+
+/* Cannot End Guest Broadcast */
+"ALERT.END_BROADCAST.FAILURE_TITLE" = "Cannot End Guest Broadcast";
+
+/* OK */
+"ALERT.FAN_USER.FAILURE_BUTTON1_TITLE" = "OK";
+
+/* Unable to fan user. */
+"ALERT.FAN_USER.FAILURE_MESSAGE" = "Unable to fan user.";
+
+/* Cannot Fan User */
+"ALERT.FAN_USER.FAILURE_TITLE" = "Cannot Fan User";
+
+/* OK */
+"ALERT.INVITE_GUEST.FAILURE_BUTTON1_TITLE" = "OK";
+
+/* Unable to invite guest broadcaster. */
+"ALERT.INVITE_GUEST.FAILURE_MESSAGE" = "Unable to invite guest broadcaster.";
+
+/* Cannot Invite Guest */
+"ALERT.INVITE_GUEST.FAILURE_TITLE" = "Cannot Invite Guest";
+
+/* OK */
+"ALERT.JOIN_BROADCAST.FAILURE_BUTTON1_TITLE" = "OK";
+
+/* Unable to join broadcast on YouNow server as guest. */
+"ALERT.JOIN_BROADCAST.FAILURE_MESSAGE" = "Unable to join broadcast on YouNow server as guest.";
+
+/* Cannot Join Broadcast */
+"ALERT.JOIN_BROADCAST.FAILURE_TITLE" = "Cannot Join Broadcast";
+
+/* Cancel */
+"ALERT.LEAVE_BROADCAST_HOST.CONFIRM_BUTTON1_TITLE" = "Cancel";
+
+/* Leave Broadcast */
+"ALERT.LEAVE_BROADCAST_HOST.CONFIRM_BUTTON2_TITLE" = "Leave Broadcast";
+
+/* You will no longer be in the Guest List. */
+"ALERT.LEAVE_BROADCAST_HOST.CONFIRM_MESSAGE" = "You will no longer be in the Guest List.";
+
+/* Are you sure you want to leave this broadcast? */
+"ALERT.LEAVE_BROADCAST_HOST.CONFIRM_TITLE" = "Are you sure you want to leave this broadcast?";
+
+/* OK */
+"ALERT.LIKE_BROADCAST.FAILURE_BUTTON1_TITLE" = "OK";
+
+/* Unable to like broadcast. */
+"ALERT.LIKE_BROADCAST.FAILURE_MESSAGE" = "Unable to like broadcast.";
+
+/* Cannot Like Broadcast */
+"ALERT.LIKE_BROADCAST.FAILURE_TITLE" = "Cannot Like Broadcast";
+
+/* OK */
+"ALERT.NOT_ENOUGH_BARS.FAILURE_BUTTON1_TITLE" = "OK";
+
+/* Unfortunately buying bars is currently disabled. Sorry! */
+"ALERT.NOT_ENOUGH_BARS.FAILURE_MESSAGE2" = "Unfortunately buying bars is currently disabled. Sorry!";
+
+/* You don’t have enough bars! 😞 */
+"ALERT.NOT_ENOUGH_BARS.FAILURE_TITLE" = "You don’t have enough bars! 😞";
+
+/* OK */
+"ALERT.NO_VIDEO_CAMERA.FAILURE_BUTTON1_TITLE" = "OK";
+
+/* YouNow requires a video camera to broadcast.\nPlease try again on a device with a video camera. */
+"ALERT.NO_VIDEO_CAMERA.FAILURE_MESSAGE" = "YouNow requires a video camera to broadcast.\nPlease try again on a device with a video camera.";
+
+/* No Video Camera */
+"ALERT.NO_VIDEO_CAMERA.FAILURE_TITLE" = "No Video Camera";
+
+/* OK */
+"ALERT.PERFORM_ADMIN_ACTION.FAILURE_BUTTON1_TITLE" = "OK";
+
+/* Unable to do ‘%1$@’ on user %2$@. */
+"ALERT.PERFORM_ADMIN_ACTION.FAILURE_MESSAGE" = "Unable to do ‘%1$@’ on user %2$@.";
+
+/* Cannot Perform Action */
+"ALERT.PERFORM_ADMIN_ACTION.FAILURE_TITLE" = "Cannot Perform Action";
+
+/* %1$@ confirmed */
+"ALERT.PERFORM_ADMIN_ACTION.SUCCESS_MESSAGE" = "%1$@ confirmed";
+
+/* OK */
+"ALERT.PURCHASE_GIFT.FAILURE_BUTTON1_TITLE" = "OK";
+
+/* Unable to give %1$@ to broadcaster. */
+"ALERT.PURCHASE_GIFT.FAILURE_MESSAGE" = "Unable to give %1$@ to broadcaster.";
+
+/* Cannot Give Gift */
+"ALERT.PURCHASE_GIFT.FAILURE_TITLE" = "Cannot Give Gift";
+
+/* OK */
+"ALERT.PURCHASE_PREMIUM_GOODIE.FAILURE_BUTTON1_TITLE" = "OK";
+
+/* Unable to give %1$@ to broadcaster. */
+"ALERT.PURCHASE_PREMIUM_GOODIE.FAILURE_MESSAGE" = "Unable to give %1$@ to broadcaster.";
+
+/* Cannot Give Premium Gift */
+"ALERT.PURCHASE_PREMIUM_GOODIE.FAILURE_TITLE" = "Cannot Give Premium Gift";
+
+/* OK */
+"ALERT.PURCHASE_PRODUCT.FAILURE_BUTTON1_TITLE" = "OK";
+
+/* Unable to buy bars from Apple App Store. */
+"ALERT.PURCHASE_PRODUCT.FAILURE_MESSAGE1" = "Unable to buy bars from Apple App Store.";
+
+/* Unable to buy %1$@ bars (‘%2$@’) from Apple App Store. */
+"ALERT.PURCHASE_PRODUCT.FAILURE_MESSAGE2" = "Unable to buy %1$@ bars (‘%2$@’) from Apple App Store.";
+
+/* Cannot Buy Bars */
+"ALERT.PURCHASE_PRODUCT.FAILURE_TITLE" = "Cannot Buy Bars";
+
+/* OK */
+"ALERT.PURCHASE_PRODUCT.PENDING_BUTTON1_TITLE" = "OK";
+
+/* Unable to complete purchase of bars from Apple App Store at this time. */
+"ALERT.PURCHASE_PRODUCT.PENDING_MESSAGE1" = "Unable to complete purchase of bars from Apple App Store at this time.";
+
+/* Unable to complete purchase of %1$@ bars (‘%2$@’) from Apple App Store at this time. */
+"ALERT.PURCHASE_PRODUCT.PENDING_MESSAGE2" = "Unable to complete purchase of %1$@ bars (‘%2$@’) from Apple App Store at this time.";
+
+/* Purchase Pending */
+"ALERT.PURCHASE_PRODUCT.PENDING_TITLE" = "Purchase Pending";
+
+/* Bars bought */
+"ALERT.PURCHASE_PRODUCT.SUCCESS_MESSAGE1" = "Bars bought";
+
+/* %1$@ bars (‘%2$@’) bought */
+"ALERT.PURCHASE_PRODUCT.SUCCESS_MESSAGE2" = "%1$@ bars (‘%2$@’) bought";
+
+/* Cancel */
+"ALERT.RECOMMEND_BROADCAST.CONFIRM_BUTTON1_TITLE" = "Cancel";
+
+/* Invite */
+"ALERT.RECOMMEND_BROADCAST.CONFIRM_BUTTON2_TITLE" = "Invite";
+
+/* Tell your %1$@ fans why they should come watch this broadcast */
+"ALERT.RECOMMEND_BROADCAST.CONFIRM_MESSAGE" = "Tell your %1$@ fans why they should come watch.";
+
+/* Recommend This Broadcast? */
+"ALERT.RECOMMEND_BROADCAST.CONFIRM_TITLE" = "Recommend This Broadcast";
+
+/* OK */
+"ALERT.RECOMMEND_BROADCAST.FAILURE_BUTTON1_TITLE" = "OK";
+
+/* Unable to share broadcast. */
+"ALERT.RECOMMEND_BROADCAST.FAILURE_MESSAGE" = "Unable to share broadcast.";
+
+/* Cannot Share Broadcast */
+"ALERT.RECOMMEND_BROADCAST.FAILURE_TITLE" = "Cannot Share Broadcast";
+
+/* OK */
+"ALERT.RECOMMEND_REPLAY.FAILURE_BUTTON1_TITLE" = "OK";
+
+/* Unable to share replay. */
+"ALERT.RECOMMEND_REPLAY.FAILURE_MESSAGE" = "Unable to share replay.";
+
+/* Cannot Share Replay */
+"ALERT.RECOMMEND_REPLAY.FAILURE_TITLE" = "Cannot Share Replay";
+
+/* OK */
+"ALERT.RECONNECT_BROADCAST.FAILURE_BUTTON1_TITLE" = "OK";
+
+/* Unable to reconnect to broadcast on YouNow server. */
+"ALERT.RECONNECT_BROADCAST.FAILURE_MESSAGE" = "Unable to reconnect to broadcast on YouNow server.";
+
+/* Cannot Reconnect Broadcast */
+"ALERT.RECONNECT_BROADCAST.FAILURE_TITLE" = "Cannot Reconnect Broadcast";
+
+/* OK */
+"ALERT.REJECT_FANMAIL.FAILURE_BUTTON1_TITLE" = "OK";
+
+/* Unable to decline fan mail request. */
+"ALERT.REJECT_FANMAIL.FAILURE_MESSAGE" = "Unable to decline fan mail request.";
+
+/* Cannot Decline */
+"ALERT.REJECT_FANMAIL.FAILURE_TITLE" = "Cannot Decline";
+
+/* OK */
+"ALERT.REMOVE_BROADCAST.FAILURE_BUTTON1_TITLE" = "OK";
+
+/* Unable to end broadcast on YouNow server. */
+"ALERT.REMOVE_BROADCAST.FAILURE_MESSAGE" = "Unable to end broadcast on YouNow server.";
+
+/* Cannot End Broadcast */
+"ALERT.REMOVE_BROADCAST.FAILURE_TITLE" = "Cannot End Broadcast";
+
+/* OK */
+"ALERT.REMOVE_POST.FAILURE_BUTTON1_TITLE" = "OK";
+
+/* Unable to delete profile post. */
+"ALERT.REMOVE_POST.FAILURE_MESSAGE" = "Unable to delete profile post.";
+
+/* Cannot Delete Post */
+"ALERT.REMOVE_POST.FAILURE_TITLE" = "Cannot Delete Post";
+
+/* OK */
+"ALERT.REMOVE_POST_COMMENT.FAILURE_BUTTON1_TITLE" = "OK";
+
+/* Unable to delete profile post comment. */
+"ALERT.REMOVE_POST_COMMENT.FAILURE_MESSAGE" = "Unable to delete profile post comment.";
+
+/* Cannot Delete Comment */
+"ALERT.REMOVE_POST_COMMENT.FAILURE_TITLE" = "Cannot Delete Comment";
+
+/* OK */
+"ALERT.RESET_TWITTER_ACCOUNT.FAILURE_BUTTON1_TITLE" = "OK";
+
+/* To use your Twitter account with this app, open Settings > Twitter, delete your Twitter account, and then add your Twitter account again. */
+"ALERT.RESET_TWITTER_ACCOUNT.FAILURE_MESSAGE" = "To use your Twitter account with this app, open Settings > Twitter, delete your Twitter account, and then add your Twitter account again.";
+
+/* Must Reset Twitter Account */
+"ALERT.RESET_TWITTER_ACCOUNT.FAILURE_TITLE" = "Must Reset Twitter Account";
+
+/* OK */
+"ALERT.SEND_EMAIL.FAILURE_BUTTON1_TITLE" = "OK";
+
+/* Unable to send email message. */
+"ALERT.SEND_EMAIL.FAILURE_MESSAGE" = "Unable to send email message.";
+
+/* Uh oh! Looks like there’s no email account connected to this device. */
+"ALERT.SEND_EMAIL.FAILURE_MESSAGE_COOL" = "Uh oh! Looks like there’s no email account connected to this device.";
+
+/* Cannot Send Email */
+"ALERT.SEND_EMAIL.FAILURE_TITLE" = "Cannot Send Email";
+
+/* Thanks for your feedback! */
+"ALERT.SEND_EMAIL.SUCCESS_MESSAGE" = "Thanks for your feedback!";
+
+/* OK */
+"ALERT.SIGN_IN_FACEBOOK.FAILURE_BUTTON1_TITLE" = "OK";
+
+/* Unable to sign in with Facebook. */
+"ALERT.SIGN_IN_FACEBOOK.FAILURE_MESSAGE" = "Unable to sign in with Facebook.";
+
+/* Cannot Sign In */
+"ALERT.SIGN_IN_FACEBOOK.FAILURE_TITLE" = "Cannot Sign In";
+
+/* OK */
+"ALERT.SIGN_IN_GOOGLE.FAILURE_BUTTON1_TITLE" = "OK";
+
+/* Unable to sign in with Google. */
+"ALERT.SIGN_IN_GOOGLE.FAILURE_MESSAGE" = "Unable to sign in with Google.";
+
+/* Cannot Sign In */
+"ALERT.SIGN_IN_GOOGLE.FAILURE_TITLE" = "Cannot Sign In";
+
+/* OK */
+"ALERT.SIGN_IN_INSTAGRAM.FAILURE_BUTTON1_TITLE" = "OK";
+
+/* Unable to sign in with Instagram. */
+"ALERT.SIGN_IN_INSTAGRAM.FAILURE_MESSAGE" = "Unable to sign in with Instagram.";
+
+/* Cannot Sign In */
+"ALERT.SIGN_IN_INSTAGRAM.FAILURE_TITLE" = "Cannot Sign In";
+
+/* OK */
+"ALERT.SIGN_IN_TWITTER.FAILURE_BUTTON1_TITLE" = "OK";
+
+/* Unable to sign in with Twitter. */
+"ALERT.SIGN_IN_TWITTER.FAILURE_MESSAGE" = "Unable to sign in with Twitter.";
+
+/* Cannot Sign In */
+"ALERT.SIGN_IN_TWITTER.FAILURE_TITLE" = "Cannot Sign In";
+
+/* OK */
+"ALERT.SIGN_IN_UNKNOWN.FAILURE_BUTTON1_TITLE" = "OK";
+
+/* Unable to sign in with <Unknown Service>. */
+"ALERT.SIGN_IN_UNKNOWN.FAILURE_MESSAGE" = "Unable to sign in with <Unknown Service>.";
+
+/* Cannot Sign In */
+"ALERT.SIGN_IN_UNKNOWN.FAILURE_TITLE" = "Cannot Sign In";
+
+/* OK */
+"ALERT.SIGN_OUT.FAILURE_BUTTON1_TITLE" = "OK";
+
+/* Unable to sign out from your YouNow account. */
+"ALERT.SIGN_OUT.FAILURE_MESSAGE" = "Unable to sign out from your YouNow account.";
+
+/* Cannot Sign Out */
+"ALERT.SIGN_OUT.FAILURE_TITLE" = "Cannot Sign Out";
+
+/* Cancel */
+"ALERT.SKIP_TAG.CONFIRM_BUTTON1_TITLE" = "Cancel";
+
+/* Yes, Skip */
+"ALERT.SKIP_TAG.CONFIRM_BUTTON2_TITLE" = "Yes, Skip";
+
+/* Tagging your broadcast helps people discover your broadcast. */
+"ALERT.SKIP_TAG.CONFIRM_MESSAGE" = "Tagging your broadcast helps people discover your broadcast.";
+
+/* Are you sure you don’t want to tag your broadcast? */
+"ALERT.SKIP_TAG.CONFIRM_TITLE" = "Are you sure you don’t want to tag your broadcast?";
+
+/* Cancel */
+"ALERT.SKIP_UPDATE.CONFIRM_BUTTON1_TITLE" = "Cancel";
+
+/* Do It Later */
+"ALERT.SKIP_UPDATE.CONFIRM_BUTTON2_TITLE" = "Do It Later";
+
+/* Skipping will remove your Partner status until you accept the updated terms. You can always access the terms via your profile. */
+"ALERT.SKIP_UPDATE.CONFIRM_MESSAGE" = "Skipping will remove your Partner status until you accept the updated terms. You can always access the terms via your profile.";
+
+/* Sure you want to skip? */
+"ALERT.SKIP_UPDATE.CONFIRM_TITLE" = "Sure you want to skip?";
+
+/* OK */
+"ALERT.SPENDING_DISABLED.FAILURE_BUTTON1_TITLE" = "OK";
+
+/* Purchasing bars has been disabled on your account. Please contact Support for more information. */
+"ALERT.SPENDING_DISABLED.FAILURE_MESSAGE" = "Purchasing bars has been disabled on your account. Please contact Support for more information.";
+
+/* Purchasing Disabled */
+"ALERT.SPENDING_DISABLED.FAILURE_TITLE" = "Purchasing Disabled";
+
+/* Cancel */
+"ALERT.SUBSCRIPTION.SKU_VALIDATION_FAILURE.BUTTON" = "Cancel";
+
+/* This product is temporarily unavailable on the App Store. */
+"ALERT.SUBSCRIPTION.SKU_VALIDATION_FAILURE.MESSAGE" = "This product is temporarily unavailable on the App Store.";
+
+/* Error */
+"ALERT.SUBSCRIPTION.SKU_VALIDATION_FAILURE.TITLE" = "Error";
+
+/* OK */
+"ALERT.SUBSCRIPTION.STATUS_UNKNOWN.BUTTON.OK" = "OK";
+
+/* Unable to load your subscription settings. Please try again. */
+"ALERT.SUBSCRIPTION.STATUS_UNKNOWN.MESSAGE" = "Unable to load your subscription settings. Please try again.";
+
+/* An Error Occurred */
+"ALERT.SUBSCRIPTION.STATUS_UNKNOWN.TITLE" = "An Error Occurred";
+
+/* Contact Support */
+"ALERT.SUBSCRIPTION.STOREBUY_FAILURE.ACTION_BUTTON" = "Contact Support";
+
+/* Cancel */
+"ALERT.SUBSCRIPTION.STOREBUY_FAILURE.DISMISS_BUTTON" = "Cancel";
+
+/* There was an issue with subscribing. Please contact support for help. */
+"ALERT.SUBSCRIPTION.STOREBUY_FAILURE.MESSAGE" = "There was an issue with subscribing. Please contact support for help.";
+
+/* Cannot Subscribe */
+"ALERT.SUBSCRIPTION.STOREBUY_FAILURE.TITLE" = "Cannot Subscribe";
+
+/* You are already subscribed. Please go to your settings to manage your subscriptions */
+"ALERT.SUBSCRIPTION.SUBSCRIPTION_MANAGEMENT_MESSAGE" = "You are already subscribed. Please go to your settings to manage your subscriptions";
+
+/* Already Subscribed! */
+"ALERT.SUBSCRIPTION.SUBSCRIPTION_MANAGEMENT_TITLE" = "Already Subscribed!";
+
+/* Phew! 😅 Good choice, homie! 👍 */
+"ALERT.TERMINATE.CANCEL_MESSAGE" = "Phew! 😅 Good choice, homie! 👍";
+
+/* Cancel */
+"ALERT.TERMINATE.CONFIRM_BUTTON1_TITLE" = "Cancel";
+
+/* Yes, Terminate */
+"ALERT.TERMINATE.CONFIRM_BUTTON2_TITLE" = "Yes, Terminate";
+
+/* Terminating your account will remove all broadcasts from public view and you will lose all fan connections. */
+"ALERT.TERMINATE.CONFIRM_MESSAGE" = "Terminating your account will remove all broadcasts from public view and you will lose all fan connections.";
+
+/* Are you sure you want to terminate your account? Your fans will miss you! 😢 */
+"ALERT.TERMINATE.CONFIRM_TITLE" = "Are you sure you want to terminate your account? Your fans will miss you! 😢";
+
+/* OK */
+"ALERT.TERMINATE.FAILURE_BUTTON1_TITLE" = "OK";
+
+/* Unable to terminate your YouNow account. */
+"ALERT.TERMINATE.FAILURE_MESSAGE" = "Unable to terminate your YouNow account.";
+
+/* Cannot Terminate */
+"ALERT.TERMINATE.FAILURE_TITLE" = "Cannot Terminate";
+
+/* OK */
+"ALERT.UNFAN_USER.FAILURE_BUTTON1_TITLE" = "OK";
+
+/* Unable to unfan user. */
+"ALERT.UNFAN_USER.FAILURE_MESSAGE" = "Unable to unfan user.";
+
+/* Cannot Unfan User */
+"ALERT.UNFAN_USER.FAILURE_TITLE" = "Cannot Unfan User";
+
+/* OK */
+"ALERT.UPDATE_COVER_PHOTO.FAILURE_BUTTON1_TITLE" = "OK";
+
+/* Unable to update cover photo. */
+"ALERT.UPDATE_COVER_PHOTO.FAILURE_MESSAGE" = "Unable to update cover photo.";
+
+/* Cannot Update Profile */
+"ALERT.UPDATE_COVER_PHOTO.FAILURE_TITLE" = "Cannot Update Profile";
+
+/* OK */
+"ALERT.UPDATE_DESCRIPTION.FAILURE_BUTTON1_TITLE" = "OK";
+
+/* Unable to update profile description. */
+"ALERT.UPDATE_DESCRIPTION.FAILURE_MESSAGE" = "Unable to update profile description.";
+
+/* Cannot Update Profile */
+"ALERT.UPDATE_DESCRIPTION.FAILURE_TITLE" = "Cannot Update Profile";
+
+/* OK */
+"ALERT.UPDATE_NICKNAME.FAILURE_BUTTON1_TITLE" = "OK";
+
+/* Unable to update profile nickname & URL. */
+"ALERT.UPDATE_NICKNAME.FAILURE_MESSAGE" = "Unable to update profile nickname & URL.";
+
+/* Cannot Update Profile */
+"ALERT.UPDATE_NICKNAME.FAILURE_TITLE" = "Cannot Update Profile";
+
+/* Update */
+"ALERT.UPDATE_REQUIRED.INFO_BUTTON1_TITLE" = "Update";
+
+/* YouNow has been updated with new features and bug fixes.\nPlease update YouNow from the App Store to continue. */
+"ALERT.UPDATE_REQUIRED.INFO_MESSAGE" = "YouNow has been updated with new features and bug fixes.\nPlease update YouNow from the App Store to continue.";
+
+/* Update Required */
+"ALERT.UPDATE_REQUIRED.INFO_TITLE" = "Update Required";
+
+/* No Thanks */
+"ALERT.UPDATE_SUGGESTED.INFO_BUTTON1_TITLE" = "No Thanks";
+
+/* Update */
+"ALERT.UPDATE_SUGGESTED.INFO_BUTTON2_TITLE" = "Update";
+
+/* YouNow has been updated with new features and bug fixes.\nPlease update YouNow from the App Store soon. */
+"ALERT.UPDATE_SUGGESTED.INFO_MESSAGE" = "YouNow has been updated with new features and bug fixes.\nPlease update YouNow from the App Store soon.";
+
+/* Update Suggested */
+"ALERT.UPDATE_SUGGESTED.INFO_TITLE" = "Update Suggested";
+
+/* YouNow requires iOS %1$@ or later. */
+"ALERT.UPDATE_SYSTEM.INFO_MESSAGE" = "YouNow requires iOS %1$@ or later.";
+
+/* System Update Required */
+"ALERT.UPDATE_SYSTEM.INFO_TITLE" = "System Update Required";
+
+/* OK */
+"ALERT.UPDATE_THUMB_PHOTO.FAILURE_BUTTON1_TITLE" = "OK";
+
+/* Unable to update profile photo. */
+"ALERT.UPDATE_THUMB_PHOTO.FAILURE_MESSAGE" = "Unable to update profile photo.";
+
+/* Cannot Update Profile */
+"ALERT.UPDATE_THUMB_PHOTO.FAILURE_TITLE" = "Cannot Update Profile";
+
+/* OK */
+"ALERT.USE_CAMERA.FAILURE_BUTTON1_TITLE" = "OK";
+
+/* To use the camera with this app, open Settings > YouNow and make sure Camera is turned on. */
+"ALERT.USE_CAMERA.FAILURE_MESSAGE" = "To use the camera with this app, open Settings > YouNow and make sure Camera is turned on.";
+
+/* Cannot Use Camera */
+"ALERT.USE_CAMERA.FAILURE_TITLE" = "Cannot Use Camera";
+
+/* OK */
+"ALERT.USE_FACEBOOK_ACCOUNT.FAILURE_BUTTON1_TITLE" = "OK";
+
+/* To use your Facebook account with this app, open Settings > Facebook and make sure this app is turned on. */
+"ALERT.USE_FACEBOOK_ACCOUNT.FAILURE_MESSAGE" = "To use your Facebook account with this app, open Settings > Facebook and make sure this app is turned on.";
+
+/* Cannot Use Facebook Account */
+"ALERT.USE_FACEBOOK_ACCOUNT.FAILURE_TITLE" = "Cannot Use Facebook Account";
+
+/* OK */
+"ALERT.USE_MICROPHONE.FAILURE_BUTTON1_TITLE" = "OK";
+
+/* To use the microphone with this app, open Settings > YouNow and make sure Microphone is turned on. */
+"ALERT.USE_MICROPHONE.FAILURE_MESSAGE" = "To use the microphone with this app, open Settings > YouNow and make sure Microphone is turned on.";
+
+/* Cannot Use Microphone */
+"ALERT.USE_MICROPHONE.FAILURE_TITLE" = "Cannot Use Microphone";
+
+/* OK */
+"ALERT.USE_TWITTER_ACCOUNT.FAILURE_BUTTON1_TITLE" = "OK";
+
+/* To use your Twitter account with this app, open Settings > Twitter and make sure this app is turned on. */
+"ALERT.USE_TWITTER_ACCOUNT.FAILURE_MESSAGE" = "To use your Twitter account with this app, open Settings > Twitter and make sure this app is turned on.";
+
+/* Cannot Use Twitter Account */
+"ALERT.USE_TWITTER_ACCOUNT.FAILURE_TITLE" = "Cannot Use Twitter Account";
+
+/* gave %1$@ gifts this broadcast! */
+"AUDIENCE_MEMBER.GIFT_STATEMENT" = "gave %1$@ gifts this broadcast!";
+
+/* brought %1$@ viewers this broadcast! */
+"AUDIENCE_MEMBER.RESTREAM_STATEMENT" = "brought %1$@ viewers this broadcast!";
+
+/* your fan since %1$@! */
+"AUDIENCE_MEMBER.SIMPLE_STATEMENT_FAN" = "your fan since %1$@!";
+
+/* Now LIVE */
+"AUDIENCE_MEMBER.SIMPLE_STATEMENT_LIVE" = "Now LIVE";
+
+/* Subscriber since %1$@ */
+"AUDIENCE_MEMBER.SUBSCRIBER_STATEMENT" = "Subscriber since %1$@";
+
+/* You’ll be notified */
+"BANNER.INFO_TITLE_FAN" = "You’ll be notified";
+
+/* Fan to be notified */
+"BANNER.INFO_TITLE_NONFAN" = "Fan to be notified";
+
+/* Cancel */
+"BAN_DIALOG.CANCEL" = "Cancel";
+
+/* Reason for banning %1$@ */
+"BAN_DIALOG.TITLE" = "Reason for banning %1$@";
+
+/*  + %1$@ bars & %2$@ coins */
+"BAR_PRODUCT.DETAILS_MESSAGE" = " + %1$@ bars & %2$@ coins";
+
+/* MOST POPULAR */
+"BAR_PRODUCT.POPULAR" = "MOST POPULAR";
+
+/* %1$@ (%2$@ bars) */
+"BAR_PRODUCT.ROW_TITLE" = "%1$@ (%2$@ bars)";
+
+/* Your Bars */
+"BAR_PRODUCTS.BARS.ITEM_TITLE" = "Your Bars";
+
+/* Get Bars */
+"BAR_PRODUCTS.SCREEN_TITLE" = "Get Bars";
+
+/* view */
+"BROADCAST.VIEW" = "view";
+
+/* views */
+"BROADCAST.VIEWS" = "views";
+
+/* Cancel */
+"BROADCASTER_SETTINGS_DIALOG.CANCEL" = "Cancel";
+
+/* Search here… */
+"BROADCAST_CONFIGURE.PLACEHOLDER" = "Search here…";
+
+/* Tag Your Broadcast! */
+"BROADCAST_CONFIGURE.SCREEN_TITLE" = "Tag Your Broadcast!";
+
+/* OK */
+"BROADCAST_CONFIGURE.TAG.FAILURE_BUTTON" = "OK";
+
+/* Tag must contain at least %1$@ characters. */
+"BROADCAST_CONFIGURE.TAG.FAILURE_MESSAGE1" = "Tag must contain at least %1$@ characters.";
+
+/* Tag can contain no more than %1$@ characters. */
+"BROADCAST_CONFIGURE.TAG.FAILURE_MESSAGE2" = "Tag can contain no more than %1$@ characters.";
+
+/* Share this Broadcast! */
+"BROADCAST_INVITE.SCREEN_TITLE" = "Share this Broadcast!";
+
+/* The more you broadcast, the higher your level increases, and the more perks you get. */
+"BROADCAST_PROLOG.LEVEL.PANEL_SUBTITLE" = "The more you broadcast, the higher your level increases, and the more perks you get.";
+
+/* Receiving “Likes” will help new viewers discover your broadcast. */
+"BROADCAST_PROLOG.LIKES.PANEL_SUBTITLE" = "Receiving “Likes” will help new viewers discover your broadcast.";
+
+/* We’ve notified your %1$@ fans, so hang tight while they arrive! */
+"BROADCAST_PROLOG.LIVE.PANEL_SUBTITLE" = "We’ve notified your %1$@ fans, so hang tight while they arrive!";
+
+/* You are now live */
+"BROADCAST_PROLOG.LIVE.PANEL_TITLE" = "You are now live";
+
+/* The longer you broadcast, the more viewers will join, so be patient. */
+"BROADCAST_PROLOG.PATIENT.PANEL_SUBTITLE" = "The longer you broadcast, the more viewers will join, so be patient.";
+
+/* Tap anywhere to get started. */
+"BROADCAST_PROLOG.PREMIERE.PANEL_SUBTITLE" = "Tap anywhere to get started.";
+
+/* This is your first broadcast! */
+"BROADCAST_PROLOG.PREMIERE.PANEL_TITLE" = "This is your first broadcast!";
+
+/* Are you ready? */
+"BROADCAST_PROLOG.READY.PANEL_TITLE" = "Are you ready?";
+
+/* Improve signal strength or broadcast will end!\nAttempting to reconnect… */
+"BROADCAST_RECONNECT.PANEL_SUBTITLE" = "Improve signal strength or broadcast will end!\nAttempting to reconnect…";
+
+/* Connectivity Problem */
+"BROADCAST_RECONNECT.PANEL_TITLE" = "Connectivity Problem";
+
+/* Duration */
+"BROADCAST_RESULTS.DURATION.ROW_TITLE" = "Duration";
+
+/* Est. Premium Gift Earnings */
+"BROADCAST_RESULTS.EARNINGS3.ROW_TITLE" = "Est. Premium Gift Earnings ";
+
+/* Est. New Subscription Earnings */
+"BROADCAST_RESULTS.EARNINGS_SUBSCRIPTION.ROW_TITLE" = "Est. New Subscription Earnings";
+
+/* New Fans */
+"BROADCAST_RESULTS.FANS.ROW_TITLE" = "New Fans";
+
+/* Premium Gift Givers */
+"BROADCAST_RESULTS.GIFT_GIVERS.ROW_TITLE" = "Premium Gift Givers";
+
+/* Likes */
+"BROADCAST_RESULTS.LIKES.ROW_TITLE" = "Likes";
+
+/* This Broadcast */
+"BROADCAST_RESULTS.MESSAGE" = "This Broadcast";
+
+/* New Paid Subscribers */
+"BROADCAST_RESULTS.NEW_PAID_SUBSCRIBERS.ROW_TITLE" = "New Paid Subscribers";
+
+/* Level Progress */
+"BROADCAST_RESULTS.PROGRESS.ROW_TITLE" = "Level Progress";
+
+/* Level %1$@ Achieved! */
+"BROADCAST_RESULTS.PROGRESS.ROW_VALUE1" = "Level %1$@ Achieved!";
+
+/* %1$@ to Level %2$@ */
+"BROADCAST_RESULTS.PROGRESS.ROW_VALUE2" = "%1$@ to Level %2$@";
+
+/* You may qualify as a YouNow partner. */
+"BROADCAST_RESULTS.SCREEN_SUBTITLE1A" = "You may qualify as a YouNow partner.";
+
+/* You could have earned revenue for this broadcast. */
+"BROADCAST_RESULTS.SCREEN_SUBTITLE1B" = "You could have earned revenue for this broadcast.";
+
+/* Apply today to start monetizing your broadcasts. */
+"BROADCAST_RESULTS.SCREEN_SUBTITLE2A" = "Apply today to start monetizing your broadcasts.";
+
+/* You need to accept our Partner Agreement. */
+"BROADCAST_RESULTS.SCREEN_SUBTITLE2B" = "You need to accept our Partner Agreement.";
+
+/* Broadcast Results */
+"BROADCAST_RESULTS.SCREEN_TITLE" = "Broadcast Results";
+
+/* Congratulations! */
+"BROADCAST_RESULTS.SCREEN_TITLE1A" = "Congratulations!";
+
+/* Wait a Minute! */
+"BROADCAST_RESULTS.SCREEN_TITLE1B" = "Wait a Minute!";
+
+/* Shares */
+"BROADCAST_RESULTS.SHARES.ROW_TITLE" = "Shares";
+
+/* Viewers */
+"BROADCAST_RESULTS.VIEWERS.ROW_TITLE" = "Viewers";
+
+/* Go Live */
+"BROADCAST_SETUP.GO_LIVE_NOW" = "Go Live";
+
+/* Nice pic! Share with friends\nto get more viewers! */
+"BROADCAST_SETUP.SHARE_LABEL" = "Nice pic! Share with friends\nto get more viewers!";
+
+/* Please take a broadcast snapshot. */
+"BROADCAST_SETUP.SNAPSHOT.FAILURE_MESSGE" = "Please take a broadcast snapshot.";
+
+/* Take a snapshot */
+"BROADCAST_SETUP.SNAPSHOT_PLACEHOLDER" = "Take a snapshot";
+
+/* Pick a tag */
+"BROADCAST_SETUP.TAG_PLACEHOLDER" = "Pick a tag";
+
+/* Broadcast Now */
+"BROADCAST_SETUP.TITLE" = "Broadcast Now";
+
+/* Add a title */
+"BROADCAST_SETUP.TITLE_PLACEHOLDER" = "Add a title";
+
+/* OK */
+"BROADCAST_SHARE.SHARE_UNAVAILABLE.BUTTON1_TITLE" = "OK";
+
+/* Please download Snapchat to share. */
+"BROADCAST_SHARE.SNAPCHAT_UNAVAILABLE" = "Please download Snapchat to share.";
+
+/* Sign in to broadcast live now! */
+"BROADCAST_SIGNIN.SCREEN_TITLE" = "Sign in to broadcast live now!";
+
+/* Smile for your snapshot! */
+"BROADCAST_SNAPSHOT.SCREEN_TITLE1" = "Smile for your snapshot!";
+
+/* Go live with %1$@ */
+"BROADCAST_SNAPSHOT.SCREEN_TITLE2" = "Go live with %1$@";
+
+/* Go live */
+"BROADCAST_SNAPSHOT.SCREEN_TITLE3" = "Go live";
+
+/* Moderator */
+"CHAT_COMMENT.MODERATOR" = "Moderator";
+
+/* @%1$@\nis here! */
+"CHAT_COMMENT.P2P_HERE_TWO_LINES" = "@%1$@\nis here!";
+
+/* Cancel */
+"COMMENT_DIALOG.CANCEL" = "Cancel";
+
+/* Delete Comment */
+"COMMENT_DIALOG.DELETE_COMMENT" = "Delete Comment";
+
+/* Accept */
+"COMMON.ACCEPT_BUTTON.NORMAL_TITLE" = "Accept";
+
+/* Agree */
+"COMMON.AGREE1_BUTTON.NORMAL_TITLE" = "Agree";
+
+/* Yes, I Agree */
+"COMMON.AGREE2_BUTTON.NORMAL_TITLE" = "Yes, I Agree";
+
+/*  in %1$@ */
+"COMMON.APPEND_IN" = " in %1$@";
+
+/* Apply */
+"COMMON.APPLY_BUTTON.NORMAL_TITLE" = "Apply";
+
+/* Broadcast Again */
+"COMMON.BROADCAST_AGAIN_BUTTON.NORMAL_TITLE" = "Broadcast Again";
+
+/* + Buy More */
+"COMMON.BUY_MORE_BUTTON.NORMAL_TITLE" = "+ Buy More";
+
+/* Cancel */
+"COMMON.CANCEL_BUTTON.NORMAL_TITLE" = "Cancel";
+
+/* Continue */
+"COMMON.CONTINUE_BUTTON.NORMAL_TITLE" = "Continue";
+
+/* copied link */
+"COMMON.COPIED_LINK_MESSAGE" = "copied link";
+
+/* Copy Link */
+"COMMON.COPY_LINK_BUTTON.NORMAL_TITLE" = "Copy Link";
+
+/* Decline */
+"COMMON.DECLINE_BUTTON.NORMAL_TITLE" = "Decline";
+
+/* Edit */
+"COMMON.EDIT_BUTTON.NORMAL_TITLE" = "Edit";
+
+/* Facebook */
+"COMMON.FACEBOOK_BUTTON.NORMAL_TITLE" = "Facebook";
+
+/* Fan */
+"COMMON.FAN_BUTTON.NORMAL_TITLE" = "Fan";
+
+/* Fanned */
+"COMMON.FAN_BUTTON.SELECTED_TITLE" = "Fanned";
+
+/* Go Live */
+"COMMON.GOLIVE_BUTTON.NORMAL_TITLE" = "Go Live";
+
+/* Google */
+"COMMON.GOOGLE_BUTTON.NORMAL_TITLE" = "Google";
+
+/* Yep, Got It */
+"COMMON.GOT_IT2_BUTTON.NORMAL_TITLE" = "Yep, Got It";
+
+/* Guest */
+"COMMON.GUEST_BUTTON.NORMAL_TITLE" = "Guest";
+
+/* Instagram */
+"COMMON.INSTAGRAM_BUTTON.NORMAL_TITLE" = "Instagram";
+
+/* Share */
+"COMMON.INVITE_BUTTON.NORMAL_TITLE" = "Share";
+
+/* Learn More */
+"COMMON.LEARN_MORE_BUTTON.NORMAL_TITLE" = "Learn More";
+
+/* terms of use */
+"COMMON.LICENSE_BUTTON.NORMAL_BOLD_LINK" = "terms of use";
+
+/* By signing in you agree to\nour terms of use */
+"COMMON.LICENSE_BUTTON.NORMAL_TITLE" = "By signing in you agree to\nour terms of use";
+
+/* Like */
+"COMMON.LIKE_BUTTON.NORMAL_TITLE" = "Like";
+
+/* Liked */
+"COMMON.LIKE_BUTTON.SELECTED_TITLE" = "Liked";
+
+/* More */
+"COMMON.MORE_BUTTON.NORMAL_TITLE" = "More";
+
+/* More Options */
+"COMMON.MORE_OPTIONS_BUTTON.NORMAL_TITLE" = "More Options";
+
+/* Next */
+"COMMON.NEXT_BUTTON.NORMAL_TITLE" = "Next";
+
+/* OK */
+"COMMON.OK_BUTTON.NORMAL_TITLE" = "OK";
+
+/* Post */
+"COMMON.POST_BUTTON.NORMAL_TITLE" = "Post";
+
+/* Save */
+"COMMON.SAVE_BUTTON.NORMAL_TITLE" = "Save";
+
+/* See More */
+"COMMON.SEE_MORE_BUTTON.NORMAL_TITLE" = "See More";
+
+/* See Profile */
+"COMMON.SEE_PROFILE_BUTTON.NORMAL_TITLE" = "See Profile";
+
+/* Share */
+"COMMON.SHARE_BUTTON.TITLE" = "Share";
+
+/* Skip */
+"COMMON.SKIP_BUTTON.NORMAL_TITLE" = "Skip";
+
+/* Sounds Good! */
+"COMMON.SOUNDS_GOOD_BUTTON.NORMAL_TITLE" = "Sounds Good!";
+
+/* Submit */
+"COMMON.SUBMIT_BUTTON.NORMAL_TITLE" = "Submit";
+
+/* Subscribe */
+"COMMON.SUBSCRIBE_BUTTON.NORMAL_TITLE" = "Subscribe";
+
+/* Subscribed */
+"COMMON.SUBSCRIBE_BUTTON.SELECTED_TITLE" = "Subscribed";
+
+/* Now */
+"COMMON.TIME_AGO.NOW" = "Now";
+
+/*  Trending  */
+"COMMON.TRENDING.TITLE_LABEL" = " Trending ";
+
+/* Twitter */
+"COMMON.TWITTER_BUTTON.NORMAL_TITLE" = "Twitter";
+
+/* Unknown */
+"COMMON.VERSION.UNKNOWN" = "Unknown";
+
+/* View Monthly Earnings */
+"COMMON.VIEW_MONTHLY_EARNINGS.NORMAL_TITLE" = "View Monthly Earnings";
+
+/* Editor’s Choice */
+"EDITORS_CHOICE_EXPIRED.BADGE_TITLE" = "Editor’s Choice";
+
+/* Hi %1$@, we’re excited we were able to help you grow your audience! We hope you’ve enjoyed your time as Editor’s Choice %2$@. To be considered for Editor’s Choice in the future, keep creating great broadcast content! */
+"EDITORS_CHOICE_EXPIRED.SCREEN_SUBTITLE" = "Hi %1$@, we’re excited we were able to help you grow your audience! We hope you’ve enjoyed your time as Editor’s Choice %2$@. To be considered for Editor’s Choice in the future, keep creating great broadcast content!";
+
+/* Your Editor’s Choice status is up */
+"EDITORS_CHOICE_EXPIRED.SCREEN_TITLE" = "Your Editor’s Choice status is up";
+
+/* Editor’s Choice */
+"EDITORS_CHOICE_INFO.BADGE_TITLE" = "Editor’s Choice";
+
+/* As Editor’s Choice in %1$@, this means:\n\n• Your profile will display the “Editor’s Choice” badge for a period of time, letting others know you have been handpicked by YouNow staff. */
+"EDITORS_CHOICE_INFO.SCREEN_SUBTITLE1" = "As Editor’s Choice in %1$@, this means:\n\n• Your profile will display the “Editor’s Choice” badge for a period of time, letting others know you have been handpicked by YouNow staff.";
+
+/* • When you broadcast on %1$@, you will receive a boost to give your broadcast more visibility.\n\n• You will gain more fans who are specifically interested in what you do. */
+"EDITORS_CHOICE_INFO.SCREEN_SUBTITLE2" = "• When you broadcast on %1$@, you will receive a boost to give your broadcast more visibility.\n\n• You will gain more fans who are specifically interested in what you do.";
+
+/* What does Editor’s Choice mean? */
+"EDITORS_CHOICE_INFO.SCREEN_TITLE" = "What does Editor’s Choice mean?";
+
+/* Editor’s Choice */
+"EDITORS_CHOICE_SELECTED.BADGE_TITLE" = "Editor’s Choice";
+
+/* Because of your talent and broadcast\nquality, you have been selected as\nEditor’s Choice in %1$@! */
+"EDITORS_CHOICE_SELECTED.SCREEN_SUBTITLE" = "Because of your talent and broadcast\nquality, you have been selected as\nEditor’s Choice in %1$@!";
+
+/* Congratulations! */
+"EDITORS_CHOICE_SELECTED.SCREEN_TITLE" = "Congratulations!";
+
+/* Feedback */
+"EMAIL_FEEDBACK.FEEDBACK_SUBJECT" = "Feedback";
+
+/* Partner feedback */
+"EMAIL_FEEDBACK.PARTNER_SUBJECT" = "Partner feedback";
+
+/* Error Loading \n Tap to retry. */
+"ERROR_LOADING.TAP_RETRY" = "Error Loading \n Tap to retry.";
+
+/* Coming Up */
+"EXPLORE.BANNERS.ROW_TITLE" = "Coming Up";
+
+/* Your Community */
+"EXPLORE.IDOL_USERS.ROW_TITLE" = "Your Community";
+
+/* Explore */
+"EXPLORE.SCREEN_TITLE" = "Explore";
+
+/* Trending */
+"EXPLORE.TRENDING.ROW_TITLE" = "Trending";
+
+/*  Live Now: */
+"EXPLORE_TOPICS.LIVE_NOW" = " Live Now:";
+
+/* Fan mail sent. Waiting for %1$@ to accept. */
+"FANMAIL.PENDING_TEXT" = "Fan mail sent. Waiting for %1$@ to accept.";
+
+/* Cancel */
+"FLAG_DIALOG.CANCEL" = "Cancel";
+
+/* Reason for reporting %1$@\nFalse reporting may result in suspension/ban */
+"FLAG_DIALOG.TITLE" = "Reason for reporting %1$@\nFalse reporting may result in suspension/ban";
+
+/* Cancel */
+"FOLLOW_DIALOG.CANCEL" = "Cancel";
+
+/* Follow */
+"FOLLOW_DIALOG.FOLLOW" = "Follow";
+
+/* View Instagram profile */
+"FOLLOW_DIALOG.INSTAGRAM_PROFILE" = "View Instagram profile";
+
+/* Subscribe */
+"FOLLOW_DIALOG.SUBSCRIBE" = "Subscribe";
+
+/* Following */
+"FOLLOW_DIALOG.TITLE.FOLLOWING" = "Following";
+
+/* Subscribed */
+"FOLLOW_DIALOG.TITLE.SUBSCRIBED" = "Subscribed";
+
+/* View Twitter profile */
+"FOLLOW_DIALOG.TWITTER_PROFILE" = "View Twitter profile";
+
+/* View YouTube channel */
+"FOLLOW_DIALOG.YOUTUBE_CHANNEL" = "View YouTube channel";
+
+/* Send */
+"GOODIE.BUY_BUTTON_PREFIX" = "Send";
+
+/* Get Bars */
+"GOODIE.GET_BARS_BUTTON" = "Get Bars";
+
+/* Chat Now */
+"GOODIE_COOLDOWN.BUY_BUTTON_PREFIX" = "Chat Now";
+
+/* Wait time: */
+"GOODIE_COOLDOWN.SCREEN_SUBTITLE" = "Wait time:";
+
+/* The chat is busy! */
+"GOODIE_COOLDOWN.SCREEN_TITLE" = "The chat is busy!";
+
+/* Send */
+"GOODIE_FANMAIL.BUY_BUTTON_PREFIX" = "Send";
+
+/* Enter your message */
+"GOODIE_FANMAIL.PLACEHOLDER" = "Enter your message";
+
+/* Guest */
+"GUEST_CALLERS.BECOME_GUEST" = "Guest";
+
+/* %1$@ Waiting */
+"GUEST_CALLERS.GUESTS_DETAIL" = "%1$@ Waiting";
+
+/* %1$@’s Guests */
+"GUEST_CALLERS.GUESTS_TITLE" = "%1$@’s Guests";
+
+/* No guests waiting */
+"GUEST_CALLERS.NO_GUESTS" = "No guests waiting";
+
+/* You can be chosen at any time */
+"GUEST_CALLERS.READY_DETAIL" = "You can be chosen at any time";
+
+/* Ready to Guest Broadcast? */
+"GUEST_CALLERS.READY_TITLE" = "Ready to Guest Broadcast?";
+
+/* Remove */
+"GUEST_CALLERS.REMOVE_ME" = "Remove";
+
+/* Select a Guest Broadcaster */
+"GUEST_CALLERS.SELECT_TITLE" = "Select a Guest Broadcaster";
+
+/* Cancel */
+"GUEST_END.CANCEL" = "Cancel";
+
+/* Drop */
+"GUEST_END.DROP_ACTION" = "Drop";
+
+/* Make Guest */
+"GUEST_END.DROP_ADD_ACTION" = "Make Guest";
+
+/* Drop %1$@\nand add %2$@ */
+"GUEST_END.DROP_ADD_TITLE" = "Drop %1$@\nand add %2$@";
+
+/* Drop guest broadcast? */
+"GUEST_END.DROP_TITLE" = "Drop guest broadcast?";
+
+/* End */
+"GUEST_END.END_ACTION" = "End";
+
+/* End guest broadcast? */
+"GUEST_END.END_TITLE" = "End guest broadcast?";
+
+/* Cancel */
+"GUEST_MESSAGE.CANCEL" = "Cancel";
+
+/* Connecting… %1$@ */
+"GUEST_MESSAGE.CONNECTING_TITLE" = "Connecting… %1$@";
+
+/* Invite declined by %1$@ */
+"GUEST_MESSAGE.DECLINED_TITLE" = "Invite declined by %1$@";
+
+/* Invite failed for %1$@ */
+"GUEST_MESSAGE.FAILED_TITLE" = "Invite failed for %1$@";
+
+/* Inviting… %1$@ */
+"GUEST_MESSAGE.INVITING_TITLE" = "Inviting… %1$@";
+
+/* No Response from %1$@ */
+"GUEST_MESSAGE.TIMEOUT_TITLE" = "No Response from %1$@";
+
+/* Try Again */
+"GUEST_MESSAGE.TRY_AGAIN" = "Try Again";
+
+/* %1$@\nselected you to guest broadcast! */
+"GUEST_PROLOG.CONGRATS_DETAIL" = "%1$@\nselected you\nto guest broadcast!";
+
+/* Congratulations! */
+"GUEST_PROLOG.CONGRATS_TITLE" = "Congratulations!";
+
+/* Decline */
+"GUEST_PROLOG.DECLINE" = "Decline";
+
+/* Go Live */
+"GUEST_PROLOG.GO_LIVE" = "Go Live";
+
+/* %1$@\ninvited you\nto guest broadcast! */
+"GUEST_PROLOG.INVITE_DETAIL" = "%1$@\ninvited you\nto guest broadcast!";
+
+/* Congratulations! */
+"GUEST_PROLOG.INVITE_TITLE" = "Congratulations!";
+
+/* Cancel */
+"GUEST_REMOVE.CANCEL" = "Cancel";
+
+/* Confirm */
+"GUEST_REMOVE.CONFIRM" = "Confirm";
+
+/* Are you sure you want to\nbe removed from the guest list? */
+"GUEST_REMOVE.CONFIRMATION" = "Are you sure you want to\nbe removed from the guest list?";
+
+/* OK */
+"GUEST_REMOVE.ERROR_BUTTON" = "OK";
+
+/* Unable to remove you from guest callers. Please try again. */
+"GUEST_REMOVE.ERROR_MESSAGE" = "Unable to remove you from guest callers. Please try again.";
+
+/* Failure to remove */
+"GUEST_REMOVE.ERROR_TITLE" = "Failure to remove";
+
+/* Success! Removed from guest list. */
+"GUEST_REMOVE.SUCCESS" = "Success! Removed from guest list.";
+
+/* Show %1$@ why they should\nchoose you as their guest. */
+"GUEST_SNAPSHOT.DIRECTIONS_DETAIL" = "Show %1$@ why they should\nchoose you as their guest.";
+
+/* Smile for your guest snapshot! */
+"GUEST_SNAPSHOT.DIRECTIONS_TITLE" = "Smile for your guest snapshot!";
+
+/* OK */
+"GUEST_SNAPSHOT.ERROR_BUTTON" = "OK";
+
+/* Unable to add you to guest callers. Please try again. */
+"GUEST_SNAPSHOT.ERROR_MESSAGE" = "Unable to add you to guest callers. Please try again.";
+
+/* Failure to add */
+"GUEST_SNAPSHOT.ERROR_TITLE" = "Failure to add";
+
+/* Chat with %1$@ viewers */
+"HOME_CHAT.NORMAL_MODE.COUNT_PLACEHOLDER" = "Chat with %1$@ viewers";
+
+/* Subscriber-only Mode. Chat here… */
+"HOME_CHAT.SUBSCRIBER_MODE.PLACEHOLDER" = "Subscriber-only Mode. Chat here…";
+
+/* Explore more broadcasts */
+"HOME_DASHBOARD.EXPLORE_MORE" = "Explore more broadcasts";
+
+/*  You’re a fan  */
+"HOME_DASHBOARD.IS_FAN_LABEL" = " You’re a fan ";
+
+/* OK */
+"HOME_DASHBOARD.THROTTLED_ALERT.BUTTON.OK" = "OK";
+
+/* Try Again */
+"HOME_DASHBOARD.THROTTLED_ALERT.BUTTON.TRY_AGAIN" = "Try Again";
+
+/* Unable to load data */
+"HOME_DASHBOARD.THROTTLED_ALERT.MESSAGE" = "Unable to load data";
+
+/* Ooooops! */
+"HOME_DASHBOARD.THROTTLED_ALERT.TITLE" = "Ooooops!";
+
+/* search younowers */
+"HOME_SEARCH.PLACEHOLDER" = "search younowers";
+
+/* Share */
+"HOME_SHARE.FACEBOOK.NORMAL_NAME" = "Share";
+
+/* Shared */
+"HOME_SHARE.FACEBOOK.SELECTED_NAME" = "Shared";
+
+/* Sharing */
+"HOME_SHARE.GUEST_RECAP.INPROG_NAME" = "Sharing";
+
+/* Share */
+"HOME_SHARE.GUEST_RECAP.NORMAL_NAME" = "Share";
+
+/* I just broadcasted with %1$@! */
+"HOME_SHARE.GUEST_RECAP.PLACEHOLDER" = "I just broadcasted with %1$@!";
+
+/* Shared */
+"HOME_SHARE.GUEST_RECAP.SELECTED_NAME" = "Shared";
+
+/* Inviting */
+"HOME_SHARE.PROMOTE_BROADCAST.INPROG_NAME" = "Inviting";
+
+/* Invite */
+"HOME_SHARE.PROMOTE_BROADCAST.NORMAL_NAME" = "Invite";
+
+/* Invited */
+"HOME_SHARE.PROMOTE_BROADCAST.SELECTED_NAME" = "Invited";
+
+/* Tweet */
+"HOME_SHARE.TWITTER.NORMAL_NAME" = "Tweet";
+
+/* Tweeted */
+"HOME_SHARE.TWITTER.SELECTED_NAME" = "Tweeted";
+
+/* Broadcaster */
+"HOME_WATCH.BROADCASTER_TITLE" = "Broadcaster";
+
+/* Whoa, the chat’s busy! */
+"HOME_WATCH.CHAT_COOLDOWN_TEXT" = "Whoa, the chat’s busy!";
+
+/* Subscriber-only chat mode activated. */
+"HOME_WATCH.CHAT_MODE_ACTIVATED" = "Subscriber-only chat mode activated.";
+
+/* %1$@ broadcasts */
+"HOME_WATCH.QUEUE_BROADCAST_COUNT" = "%1$@ broadcasts";
+
+/* Dude, stop spamming! */
+"HOME_WATCH.SPAM_COOLDOWN_TEXT" = "Dude, stop spamming!";
+
+/* Level %1$@ */
+"HOME_WATCH_GOODIE.ITEM_PRICE" = "Level %1$@";
+
+/* Subscribe */
+"HOME_WATCH_GOODIE.SUBSCRIBE" = "Subscribe";
+
+/* Support %1@! */
+"HOME_WATCH_GOODIES.SECTION_TITLE1" = "Support %1@!";
+
+/* Chat Stickers */
+"HOME_WATCH_GOODIES.SECTION_TITLE2" = "Chat Stickers";
+
+/* Subscriptions Stickers */
+"HOME_WATCH_GOODIES.SECTION_TITLE3" = "Subscriptions Stickers";
+
+/* Show love to %1@! */
+"HOME_WATCH_GOOODIES.SECTION_TITLE1_NONPARTNER" = "Show love to %1@!";
+
+/* Next broadcast in… %1$@ */
+"HOME_WATCH_INTRO.MESSAGE" = "Next broadcast in… %1$@";
+
+/* Ending Broadcast… */
+"HOME_WATCH_RESULTS.ENDING_BROADCAST" = "Ending broadcast…";
+
+/* Audience */
+"LANDSCAPE_OVERLAY.AUDIENCE_LABEL" = "Audience";
+
+/* Our Top Picks */
+"LEADERBOARD.EDITORS_CHOICE.SCREEN_SUBTITLE" = "Our Top Picks";
+
+/* Editor’s Choice */
+"LEADERBOARD.EDITORS_CHOICE.SCREEN_TITLE" = "Editor’s Choice";
+
+/* %1$@ fan */
+"LEADERBOARD.EDITORS_CHOICE.STATEMENT1" = "%1$@ fan";
+
+/* %1$@ fans */
+"LEADERBOARD.EDITORS_CHOICE.STATEMENT2" = "%1$@ fans";
+
+/* Last %1$@ */
+"LEADERBOARD.TOP_BROADCASTERS.SCREEN_SUBTITLE" = "Last %1$@";
+
+/* Top Broadcasters */
+"LEADERBOARD.TOP_BROADCASTERS.SCREEN_TITLE" = "Top Broadcasters";
+
+/* Last %1$@ */
+"LEADERBOARD.TOP_CREATORS.SCREEN_SUBTITLE" = "Last %1$@";
+
+/* Top Moment Makers */
+"LEADERBOARD.TOP_CREATORS.SCREEN_TITLE" = "Top Moment Makers";
+
+/* %1$@ like */
+"LEADERBOARD.TOP_CREATORS.STATEMENT1" = "%1$@ like";
+
+/* %1$@ likes */
+"LEADERBOARD.TOP_CREATORS.STATEMENT2" = "%1$@ likes";
+
+/* Last %1$@ */
+"LEADERBOARD.TOP_SPENDERS.SCREEN_SUBTITLE" = "Last %1$@";
+
+/* Top Fans */
+"LEADERBOARD.TOP_SPENDERS.SCREEN_TITLE" = "Top Fans";
+
+/* $$$ for %1$@ */
+"LEADERBOARD.TOP_SPENDERS.STATEMENT1" = "$$$ for %1$@";
+
+/* $$$ for %1$@ +%2$@ */
+"LEADERBOARD.TOP_SPENDERS.STATEMENT2" = "$$$ for %1$@ +%2$@";
+
+/* Trending Moments */
+"LEADERBOARD.TRENDING_MOMENTS.SCREEN_TITLE" = "Trending Moments";
+
+/* License Agreement */
+"LICENSE.SCREEN_TITLE" = "License Agreement";
+
+/* Broadcaster */
+"MINI_PROFILE.BROADCASTER_TITLE" = "Broadcaster";
+
+/* Guest Broadcaster */
+"MINI_PROFILE.GUEST_BROADCASTER_TITLE" = "Guest Broadcaster";
+
+/* Post Moment */
+"MOMENT.CAPTURE.INSTRUCTION_TEXT" = "Post Moment";
+
+/* Add caption */
+"MOMENT.CAPTURE.PLACEHOLDER_TEXT" = "Add caption";
+
+/* captured this moment */
+"MOMENT.NO_CAPTION_TEXT" = "captured this moment";
+
+/* Moment captured from %1$@’s broadcast */
+"MOMENT.OVERLAY_BANNER1" = "Moment captured from %1$@’s broadcast";
+
+/* This broadcast ended\n%1$@ ago */
+"MOMENT.OVERLAY_BANNER2" = "This broadcast ended\n%1$@ ago";
+
+/* Here is the best moment */
+"MOMENT.OVERLAY_MESSAGE1" = "Here is the best moment";
+
+/* Here are the best moments */
+"MOMENT.OVERLAY_MESSAGE2" = "Here are the best moments";
+
+/* captured by %1$@ */
+"MOMENT.ROW_TITLE.CAPTURE" = "captured by %1$@";
+
+/* Top %1$@ broadcast moments */
+"MOMENT.ROW_TITLE.COLLECTION_MULTI" = "Top %1$@ broadcast moments";
+
+/* Top broadcast moment */
+"MOMENT.ROW_TITLE.COLLECTION_SINGLE" = "Top broadcast moment";
+
+/* %1$@ commented on this moment */
+"MOMENT.ROW_TITLE.COMMENT" = "%1$@ commented on this moment";
+
+/* Featured moment */
+"MOMENT.ROW_TITLE.FEATURED" = "Featured moment";
+
+/* guest broadcasted with %3$@ */
+"MOMENT.ROW_TITLE.GUEST" = "guest broadcasted with %1$@";
+
+/* %1$@ liked this moment */
+"MOMENT.ROW_TITLE.LIKE" = "%1$@ liked this moment";
+
+/* selfie featured by %1$@ */
+"MOMENT.ROW_TITLE.SELFIE" = "selfie featured by %1$@";
+
+/* Trending */
+"MOMENT.TRENDING_LABEL" = "Trending";
+
+/* Views */
+"MOMENT.VIEWS_MULTI" = "Views";
+
+/* View */
+"MOMENT.VIEWS_SINGLE" = "View";
+
+/* Moments */
+"MOMENTS.SCREEN_TITLE" = "Moments";
+
+/* Liked this moment */
+"MOMENT_LIKERS.SCREEN_TITLE" = "Liked this moment";
+
+/* \nthe video to capture a moment */
+"MOMENT_ONBOARD.MESSAGE_BOTTOM" = "\nthe video to capture a moment";
+
+/* Press & Hold */
+"MOMENT_ONBOARD.MESSAGE_TOP" = "Press & Hold";
+
+/* Moment posted to your profile */
+"MOMENT_SUCCESS.MESSAGE" = "Moment posted to your profile";
+
+/* Not reachable */
+"NETWORK_STATUS.NOT_REACHABLE" = "Not reachable";
+
+/* Unknown */
+"NETWORK_STATUS.UNKNOWN" = "Unknown";
+
+/* Reachable via Wi-Fi */
+"NETWORK_STATUS.WIFI_REACHABLE" = "Reachable via Wi-Fi";
+
+/* Reachable via WWAN */
+"NETWORK_STATUS.WWAN_REACHABLE" = "Reachable via WWAN";
+
+/* You must connect to a Wi-Fi or cellular data network to access YouNow. */
+"NOSERVICE.SCREEN_SUBTITLE" = "You must connect to a Wi-Fi or cellular data network to access YouNow.";
+
+/* Cannot Connect to YouNow */
+"NOSERVICE.SCREEN_TITLE" = "Cannot Connect to YouNow";
+
+/* OK */
+"OK" = "OK";
+
+/* Continue */
+"ONBOARD_IDOLS.CONTINUE_BUTTON_TITLE" = "Continue";
+
+/* Selected by YouNow’s editors */
+"ONBOARD_IDOLS.SCREEN_SUBTITLE" = "Selected by YouNow’s editors";
+
+/* Fan Amazing Broadcasters */
+"ONBOARD_IDOLS.SCREEN_TITLE" = "Fan Amazing Broadcasters";
+
+/* Skip */
+"ONBOARD_IDOLS.SKIP_BUTTON_TITLE" = "Skip";
+
+/* %1$@ fans */
+"ONBOARD_IDOLS.STATEMENT.ROW_TITLE" = "%1$@ fans";
+
+/* Live Stream Video Chat */
+"ONBOARD_SIGNIN.SCREEN_TITLE" = "Live Stream Video Chat";
+
+/* Please come back in\na few minutes. */
+"PACKED.SCREEN_SUBTITLE" = "Please come back in\na few minutes.";
+
+/* We are packed! */
+"PACKED.SCREEN_TITLE" = "We are packed!";
+
+/* You have been accepted into our exclusive Partner Program! */
+"PARTNER_ACCEPTED.SCREEN_SUBTITLE" = "You have been accepted into our exclusive Partner Program!";
+
+/* Congratulations */
+"PARTNER_ACCEPTED.SCREEN_TITLE" = "Congratulations";
+
+/* Partner Guidelines */
+"PARTNER_AGREEMENT.GUILDELINES_LINK" = "Partner Guidelines";
+
+/* Our standard for signing up partners is high, so it is a testament to your talent that you are one of the very few in our selective program. As a Partner you must agree to the following:\n\n• Treat all YouNow viewers/users with respect.\n\n• To receive payment you are legally required to sign a W9 tax form or its international equivalent.\n\n• You will receive payment at the beginning of each month following your broadcasts, provided you have earned at least $100 that month. If you’ve earned less, money will be rolled over into the following month — assuming there is a minimum of $100.\n\n• We reserve the right to review your broadcasts and revoke earnings if they violate our Partner Agreement or Partner Guidelines. */
+"PARTNER_AGREEMENT.SCREEN_MESSAGE" = "Our standard for signing up partners is high, so it is a testament to your talent that you are one of the very few in our selective program. As a Partner you must agree to the following:\n\n• Treat all YouNow viewers/users with respect.\n\n• To receive payment you are legally required to sign a W9 tax form or its international equivalent.\n\n• You will receive payment at the beginning of each month following your broadcasts, provided you have earned at least $100 that month. If you’ve earned less, money will be rolled over into the following month — assuming there is a minimum of $100.\n\n• We reserve the right to review your broadcasts and revoke earnings if they violate our Partner Agreement or Partner Guidelines.";
+
+/* I also agree to the Partner Agreement & Terms and Conditions */
+"PARTNER_AGREEMENT.SCREEN_SUBTITLE" = "I also agree to the Partner Agreement & Terms and Conditions";
+
+/* Partner Agreement */
+"PARTNER_AGREEMENT.SCREEN_TITLE" = "Partner Agreement";
+
+/* Terms and Conditions */
+"PARTNER_AGREEMENT.TERMS_AND_CONDITIONS_LINK" = "Terms and Conditions";
+
+/* We update our terms of service to our partners from time to time. Please be sure to review and accept the Updated Partner Agreement (shown below) before you proceed.\n\n• Our standard for signing up partners is high, so it is a testament to your talent that you are one of the very few in our selective program. As a Partner you must agree to the following:\n\n• Treat all YouNow viewers/users with respect.\n\n• To receive payment you are legally required to sign a W9 tax form or its international equivalent.\n\n• You will receive payment at the beginning of each month following your broadcasts, provided you have earned at least $100 that month. If you’ve earned less, money will be rolled over into the following month — assuming there is a minimum of $100.\n\n• We reserve the right to review your broadcasts and revoke earnings if they violate our Updated Partner Agreement or Partner Guidelines. */
+"PARTNER_AGREEMENT.UPDATED_SCREEN_MESSAGE" = "We update our terms of service to our partners from time to time. Please be sure to review and accept the Updated Partner Agreement (shown below) before you proceed.\n\n• Our standard for signing up partners is high, so it is a testament to your talent that you are one of the very few in our selective program. As a Partner you must agree to the following:\n\n• Treat all YouNow viewers/users with respect.\n\n• To receive payment you are legally required to sign a W9 tax form or its international equivalent.\n\n• You will receive payment at the beginning of each month following your broadcasts, provided you have earned at least $100 that month. If you’ve earned less, money will be rolled over into the following month — assuming there is a minimum of $100.\n\n• We reserve the right to review your broadcasts and revoke earnings if they violate our Updated Partner Agreement or Partner Guidelines.";
+
+/* I also agree to the Partner Agreement & Terms and Conditions */
+"PARTNER_AGREEMENT.UPDATED_SCREEN_SUBTITLE" = "I also agree to the Updated Partner Agreement & Terms and Conditions";
+
+/* Updated Partner Agreement */
+"PARTNER_AGREEMENT.UPDATED_SCREEN_TITLE" = "Updated Partner Agreement";
+
+/* Awesome. We’re excited you’re interested in working with us.\n\nWe will contact you within\nthe coming days. */
+"PARTNER_APPLIED.SCREEN_SUBTITLE" = "Awesome. We’re excited you’re interested in working with us.\n\nWe will contact you within\nthe coming days.";
+
+/* Thank You */
+"PARTNER_APPLIED.SCREEN_TITLE" = "Thank You";
+
+/* You may qualify to earn revenue for your broadcasts as a YouNow Partner! */
+"PARTNER_CANDIDATE.SCREEN_SUBTITLE" = "You may qualify to earn revenue for your broadcasts as a YouNow Partner!";
+
+/* Congratulations */
+"PARTNER_CANDIDATE.SCREEN_TITLE" = "Congratulations";
+
+/* Earnings dashboard refreshes every 24 hours (data from broadcasts in the last 24 hours may not be included) */
+"PARTNER_EARNINGS.DETAIL1" = "Earnings dashboard refreshes every 24 hours (data from broadcasts in the last 24 hours may not be included)";
+
+/* All earnings are estimates.\nYour total earnings/payment details will be mailed to you monthly.  Money transfer fees apply.  Questions? partnerpayments@younow.com */
+"PARTNER_EARNINGS.DETAIL2" = "All earnings are estimates.\nYour total earnings/payment details will be mailed to you monthly.  Money transfer fees apply.  Questions? partnerpayments@younow.com";
+
+/* partnerpayments@younow.com */
+"PARTNER_EARNINGS.EMAIL" = "partnerpayments@younow.com";
+
+/* Estimated */
+"PARTNER_EARNINGS.ESTIMATED" = "Estimated";
+
+/* Last Payment: %1$@ */
+"PARTNER_EARNINGS.LAST_PAYMENT" = "Last Payment: %1$@";
+
+/* Refreshes daily */
+"PARTNER_EARNINGS.REFRESHES_DAILY" = "Refreshes daily";
+
+/* Estimated Earnings\nfor the Past 30 Days */
+"PARTNER_EARNINGS.TITLE" = "Estimated Earnings\nfor the Past 30 Days";
+
+/* Email* */
+"PARTNER_FORM.EMAIL.HEADER_TITLE" = "Email*";
+
+/* Tell us more about yourself and your desire to become a YouNow partner* */
+"PARTNER_FORM.MORE.HEADER_TITLE" = "Tell us more about yourself and your desire to become a YouNow partner*";
+
+/* Full name* */
+"PARTNER_FORM.NAME.HEADER_TITLE" = "Full name*";
+
+/* Phone number* */
+"PARTNER_FORM.PHONE.HEADER_TITLE" = "Phone number*";
+
+/* We just need a little more info. */
+"PARTNER_FORM.SCREEN_SUBTITLE" = "We just need a little more info.";
+
+/* Partner Application */
+"PARTNER_FORM.SCREEN_TITLE" = "Partner Application";
+
+/* Social links* */
+"PARTNER_FORM.SOCIAL.HEADER_TITLE" = "Social links*";
+
+/* Comma-separated URLs like: www.twitter.com/yourhandle,youtube.com/username */
+"PARTNER_FORM.SOCIAL.PLACEHOLDER" = "Comma-separated URLs like: www.twitter.com/yourhandle,youtube.com/username";
+
+/* Our Partner Program rewards top talent on YouNow. Earn revenue based on audience participation – not someone else’s ads. */
+"PARTNER_INFO1.SCREEN_SUBTITLE" = "Our Partner Program rewards top talent on YouNow. Earn revenue based on audience participation – not someone else’s ads.";
+
+/* Earning Is Easy */
+"PARTNER_INFO1.SCREEN_TITLE" = "Earning Is Easy";
+
+/* Broadcast and Earn! */
+"PARTNER_INFO2.SCREEN_TITLE" = "Broadcast and Earn!";
+
+/* DMCA Guidelines */
+"PARTNER_INFO3.DMCA_GUIDELINES_LINK" = "DMCA Guidelines";
+
+/* The YouNow Partner Program is open exclusively to our top broadcasters.\nAs a partner, you see earnings after every broadcast, and get paid out once a month.\n\nWe expect the following:\n\n1. Average concurrent viewership of 500+\n\n2. Regular broadcasts of at least 3 times per week\n\n3. Content that conforms to our Terms of Service and DMCA Guidelines */
+"PARTNER_INFO3.SCREEN_SUBTITLE" = "The YouNow Partner Program is open exclusively to our top broadcasters.\nAs a partner, you see earnings after every broadcast, and get paid out once a month.\n\nWe expect the following:\n\n1. Average concurrent viewership of 500+\n\n2. Regular broadcasts of at least 3 times per week\n\n3. Content that conforms to our Terms of Service and DMCA Guidelines";
+
+/* What You Need\nto Know */
+"PARTNER_INFO3.SCREEN_TITLE" = "What You Need\nto Know";
+
+/* Terms of Service */
+"PARTNER_INFO3.TERMS_LINK" = "Terms of Service";
+
+/* Congrats %1$@. As a Partner you can now earn revenue by broadcasting.\n\nCheck your estimated earnings at any time from your profile! */
+"PARTNER_WELCOME.SCREEN_MESSAGE" = "Congrats %1$@. As a Partner you can now earn revenue by broadcasting.\n\nCheck your estimated earnings at any time from your profile!";
+
+/* You’re In! */
+"PARTNER_WELCOME.SCREEN_TITLE" = "You’re In!";
+
+/* Cancel */
+"PHOTO_DIALOG.CANCEL" = "Cancel";
+
+/* Choose Photo */
+"PHOTO_DIALOG.CHOOSE_PHOTO" = "Choose Photo";
+
+/* Delete Photo */
+"PHOTO_DIALOG.DELETE_PHOTO" = "Delete Photo";
+
+/* Take Photo */
+"PHOTO_DIALOG.TAKE_PHOTO" = "Take Photo";
+
+/* Cancel */
+"POST_DIALOG.CANCEL" = "Cancel";
+
+/* Delete Post */
+"POST_DIALOG.DELETE_POST" = "Delete Post";
+
+/* Pin Post */
+"POST_DIALOG.PIN_POST" = "Pin Post";
+
+/* Unpin Post */
+"POST_DIALOG.UNPIN_POST" = "Unpin Post";
+
+/* Your Bars:  */
+"PROFILE.BARS_COUNT.ROW_TITLE_PREFIX" = "Your Bars: ";
+
+/* Chat with your %1$@ fans… */
+"PROFILE.CHAT_BUTTON.CURRENT_ACCOUNT_FANS" = "Chat with your %1$@ fans…";
+
+/* Chat with your fans… */
+"PROFILE.CHAT_BUTTON.CURRENT_ACCOUNT_NO_FANS" = "Chat with your fans…";
+
+/* Chat with %1$@ and fans… */
+"PROFILE.CHAT_BUTTON.VIEWER" = "Chat with %1$@ and fans…";
+
+/* Your Coins:  */
+"PROFILE.COINS_COUNT.ROW_TITLE_PREFIX" = "Your Coins: ";
+
+/* Earnings */
+"PROFILE.EARNINGS.ROW_TITLE_PREFIX1" = "Earnings";
+
+/* Partner Program */
+"PROFILE.EARNINGS.ROW_TITLE_PREFIX2" = "Partner Program";
+
+/* No moments captured yet. */
+"PROFILE.EMPTY_TAB_TITLE.MOMENTS" = "No moments captured yet.";
+
+/* No replays available. */
+"PROFILE.EMPTY_TAB_TITLE.REPLAYS" = "No replays available.";
+
+/* No wall posts yet. */
+"PROFILE.EMPTY_TAB_TITLE.WALL" = "No wall posts yet.";
+
+/* Go Live */
+"PROFILE.GO_LIVE" = "Go Live";
+
+/* Fan */
+"PROFILE.POST_ALERT.NOT_FAN.ACTION_BUTTON" = "Fan";
+
+/* Cancel */
+"PROFILE.POST_ALERT.NOT_FAN.CANCEL.BUTTON" = "Cancel";
+
+/* Become a fan of %1$@ to chat. */
+"PROFILE.POST_ALERT.NOT_FAN_MESSAGE" = "Become a fan of %1$@ to chat.";
+
+/* Fan %1$@ */
+"PROFILE.POST_ALERT.NOT_FAN_TITLE" = "Fan %1$@";
+
+/* Progress:  */
+"PROFILE.PROGRESS_COUNT.ROW_TITLE_PREFIX" = "Progress: ";
+
+/*  to Level %1$@ */
+"PROFILE.PROGRESS_COUNT.ROW_TITLE_SUFFIX" = " to Level %1$@";
+
+/* Profile */
+"PROFILE.SCREEN_TITLE" = "Profile";
+
+/* Social Accounts:  */
+"PROFILE.SOCIAL_COUNT.ROW_TITLE_PREFIX" = "Social Accounts: ";
+
+/* Subscribers */
+"PROFILE.SUBSCRIBERS.TITLE" = "Subscribers";
+
+/* Moments */
+"PROFILE.TAB_TITLE.MOMENTS" = "Moments";
+
+/* Replays */
+"PROFILE.TAB_TITLE.REPLAYS" = "Replays";
+
+/* Wall */
+"PROFILE.TAB_TITLE.WALL" = "Wall";
+
+/* Fans */
+"PROFILE_FANS.SCREEN_TITLE" = "Fans";
+
+/* Fan Of */
+"PROFILE_IDOLS.SCREEN_TITLE" = "Fan Of";
+
+/* Fans */
+"PROFILE_INFO.FANS_FOOTER" = "Fans";
+
+/* Fan Of */
+"PROFILE_INFO.FAN_OF_FOOTER" = "Fan Of";
+
+/* Subscribers */
+"PROFILE_INFO.SUBSCRIBERS_FOOTER" = "Subscribers";
+
+/* Write a comment… */
+"PROFILE_POST.PLACEHOLDER" = "Write a comment…";
+
+/* Write something… */
+"PROFILE_POST_EDIT.PLACEHOLDER" = "Write something…";
+
+/* on #%1$@ • %2$@ */
+"PROFILE_REPLAY.DESCRIPTION_WITH_TAG" = "on #%1$@ • %2$@";
+
+/* Subscribers */
+"PROFILE_SUBSCRIBERS.TITLE" = "Subscribers";
+
+/* Fan Of */
+"PROFILE_SUMMARY.FANOF_TITLE" = "Fan Of";
+
+/* %1$@ Fans */
+"PROFILE_SUMMARY.FANS_COUNT.ROW_TITLE" = "%1$@ Fans";
+
+/* Fans */
+"PROFILE_SUMMARY.FANS_TITLE" = "Fans";
+
+/* Following @%1$@ */
+"PROFILE_SUMMARY.NOTIFICATION.FOLLOWING" = "Following @%1$@";
+
+/* Subscribed */
+"PROFILE_SUMMARY.NOTIFICATION.SUBSCRIBED" = "Subscribed";
+
+/* Top Fans */
+"PROFILE_TOPFANS.TITLE" = "Top Fans";
+
+/* View More */
+"PROFILE_TOPFANS.VIEW_MORE.BUTTON_TITLE" = "View More";
+
+/* Cancel */
+"REASON_DIALOG.CANCEL" = "Cancel";
+
+/* OK */
+"REASON_DIALOG.OK" = "OK";
+
+/* Enter reason to ‘%1$@’ */
+"REASON_DIALOG.TITLE" = "Enter reason to ‘%1$@’";
+
+/* %1$@ is a fan */
+"RECOMMEND_IDOL.SOCIAL_PROOF" = "%1$@ is a fan";
+
+/* Who To Fan */
+"RECOMMEND_IDOLS.SCREEN_TITLE" = "Who To Fan";
+
+/* Delete */
+"REPLAY.DELETE_BUTTON_NORMAL_TITLE" = "Delete";
+
+/* Deleted */
+"REPLAY.DELETE_BUTTON_SELECTED_TITLE" = "Deleted";
+
+/* Replay unavailable! */
+"REPLAY.ERROR_TITLE" = "Replay unavailable!";
+
+/* OK */
+"SETTINGS.PURCHASES_RESTORED_ALERT.BUTTON.OK" = "OK";
+
+/* All of your eligible purchases have been restored. */
+"SETTINGS.PURCHASES_RESTORED_ALERT.MESSAGE" = "All of your eligible purchases have been restored.";
+
+/* Purchases Restored */
+"SETTINGS.PURCHASES_RESTORED_ALERT.TITLE" = "Purchases Restored";
+
+/* Disconnect */
+"SETTINGS_ACCOUNT.DISCONNECT.ROW_TITLE" = "Disconnect";
+
+/* Facebook */
+"SETTINGS_ACCOUNT.SCREEN_TITLE.FACEBOOK" = "Facebook";
+
+/* Google */
+"SETTINGS_ACCOUNT.SCREEN_TITLE.GOOGLE" = "Google";
+
+/* Instagram */
+"SETTINGS_ACCOUNT.SCREEN_TITLE.INSTAGRAM" = "Instagram";
+
+/* Tumblr */
+"SETTINGS_ACCOUNT.SCREEN_TITLE.TUMBLR" = "Tumblr";
+
+/* Twitter */
+"SETTINGS_ACCOUNT.SCREEN_TITLE.TWITTER" = "Twitter";
+
+/* <Unknown Service> */
+"SETTINGS_ACCOUNT.SCREEN_TITLE.UNKNOWN" = "<Unknown Service>";
+
+/* YouTube */
+"SETTINGS_ACCOUNT.SCREEN_TITLE.YOUTUBE" = "YouTube";
+
+/* Facebook */
+"SETTINGS_ACCOUNTS.ACCOUNT1_FACEBOOK.ROW_TITLE" = "Facebook";
+
+/* Instagram */
+"SETTINGS_ACCOUNTS.ACCOUNT1_INSTAGRAM.ROW_TITLE" = "Instagram";
+
+/* Tumblr */
+"SETTINGS_ACCOUNTS.ACCOUNT1_TUMBLR.ROW_TITLE" = "Tumblr";
+
+/* Twitter */
+"SETTINGS_ACCOUNTS.ACCOUNT1_TWITTER.ROW_TITLE" = "Twitter";
+
+/* YouTube */
+"SETTINGS_ACCOUNTS.ACCOUNT1_YOUTUBE.ROW_TITLE" = "YouTube";
+
+/* Google */
+"SETTINGS_ACCOUNTS.ACCOUNT2_GOOGLE.ROW_TITLE" = "Google";
+
+/* Connected Accounts */
+"SETTINGS_ACCOUNTS.SCREEN_TITLE" = "Connected Accounts";
+
+/* Sign Out */
+"SETTINGS_ACCOUNTS.SIGNOUT.ROW_TITLE" = "Sign Out";
+
+/* ADVANCED */
+"SETTINGS_DEVELOPER.ADVANCED.HEADER_TITLE" = "ADVANCED";
+
+/* DEBUG */
+"SETTINGS_DEVELOPER.DEBUG.HEADER_TITLE" = "DEBUG";
+
+/* Ignore on-board action backend completion states */
+"SETTINGS_DEVELOPER.DEBUG_BACKEND.ROW_TITLE" = "Ignore on-board action backend completion states";
+
+/* Trace HTTP requests and responses */
+"SETTINGS_DEVELOPER.DEBUG_HTTP.ROW_TITLE" = "Trace HTTP requests and responses";
+
+/* Always show premiere broadcast experience */
+"SETTINGS_DEVELOPER.DEBUG_PREMIERE.ROW_TITLE" = "Always show premiere broadcast experience";
+
+/* Trace pusher events */
+"SETTINGS_DEVELOPER.DEBUG_PUSHER.ROW_TITLE" = "Trace pusher events";
+
+/* Reset all local saved state after signing out (show on-boarding) */
+"SETTINGS_DEVELOPER.DEBUG_RESET.ROW_TITLE" = "Reset all local saved state after signing out (show on-boarding)";
+
+/* Use TCP for RTP stream playback */
+"SETTINGS_DEVELOPER.DEBUG_TCP.ROW_TITLE" = "Use TCP for RTP stream playback";
+
+/* Load streams from local Wowza server */
+"SETTINGS_DEVELOPER.DEBUG_WOWZA.ROW_TITLE" = "Load streams from local Wowza server";
+
+/* Developer */
+"SETTINGS_DEVELOPER.SCREEN_TITLE" = "Developer";
+
+/* Note: Changes to ‘Use test server’ will force you to sign in again. */
+"SETTINGS_DEVELOPER.SYSTEM.FOOTER_TITLE" = "Note: Changes to ‘Use test server’ will force you to sign in again.";
+
+/* SYSTEM */
+"SETTINGS_DEVELOPER.SYSTEM.HEADER_TITLE" = "SYSTEM";
+
+/* Use test server */
+"SETTINGS_DEVELOPER.SYSTEM_TEST.ROW_TITLE" = "Use test server";
+
+/* Terminate Account */
+"SETTINGS_DEVELOPER.TERMINATE.ROW_TITLE" = "Terminate Account";
+
+/* © 2016 YouNow, Inc. */
+"SETTINGS_INFO.INFO.FOOTER_TITLE" = "© 2016 YouNow, Inc.";
+
+/* App version */
+"SETTINGS_INFO.INFO_APP_VERSION.ROW_TITLE" = "App version";
+
+/* Carrier name */
+"SETTINGS_INFO.INFO_CARRIER_NAME.ROW_TITLE" = "Carrier name";
+
+/* Device ID */
+"SETTINGS_INFO.INFO_DEVICE_ID.ROW_TITLE" = "Device ID";
+
+/* iOS version */
+"SETTINGS_INFO.INFO_IOS_VERSION.ROW_TITLE" = "iOS version";
+
+/* User ID */
+"SETTINGS_INFO.INFO_USER_ID.ROW_TITLE" = "User ID";
+
+/* App Info */
+"SETTINGS_INFO.SCREEN_TITLE" = "App Info";
+
+/* Localized Content */
+"SETTINGS_LOCALE.SCREEN_TITLE" = "Localized Content";
+
+/* ABOUT */
+"SETTINGS_MASTER.ABOUT.HEADER_TITLE" = "ABOUT";
+
+/* Follow Us on Facebook */
+"SETTINGS_MASTER.ABOUT_FACEBOOK.ROW_TITLE" = "Follow Us on Facebook";
+
+/* App & Device Info */
+"SETTINGS_MASTER.ABOUT_INFO.ROW_TITLE" = "App & Device Info";
+
+/* Follow Us on Twitter */
+"SETTINGS_MASTER.ABOUT_TWITTER.ROW_TITLE" = "Follow Us on Twitter";
+
+/* Account */
+"SETTINGS_MASTER.ACCOUNT.HEADER_TITLE" = "ACCOUNT";
+
+/* Connected Accounts */
+"SETTINGS_MASTER.ACCOUNT_CONNECTED.ROW_TITLE" = "Connected Accounts";
+
+/* Developer */
+"SETTINGS_MASTER.ACCOUNT_DEVELOPER.ROW_TITLE" = "Developer";
+
+/* Edit Profile */
+"SETTINGS_MASTER.ACCOUNT_EDIT.ROW_TITLE" = "Edit Profile";
+
+/* Localized Content */
+"SETTINGS_MASTER.ACCOUNT_LOCALIZED.ROW_TITLE" = "Localized Content";
+
+/* Notifications */
+"SETTINGS_MASTER.ACCOUNT_NOTIFICATIONS.ROW_TITLE" = "Notifications";
+
+/* Subscriptions */
+"SETTINGS_MASTER.ACCOUNT_SUBSCRIPTIONS.ROW_TITLE" = "Subscriptions";
+
+/* HELP & FEEDBACK */
+"SETTINGS_MASTER.HELP.HEADER_TITLE" = "HELP & FEEDBACK";
+
+/* Frequently Asked Questions */
+"SETTINGS_MASTER.HELP_FAQ.ROW_TITLE" = "Frequently Asked Questions";
+
+/* Leave Feedback */
+"SETTINGS_MASTER.HELP_FEEDBACK.ROW_TITLE" = "Leave Feedback";
+
+/* Rate or Review YouNow */
+"SETTINGS_MASTER.HELP_RATE.ROW_TITLE" = "Rate or Review YouNow";
+
+/* YouNow Rules */
+"SETTINGS_MASTER.HELP_RULES.ROW_TITLE" = "YouNow Rules";
+
+/* Your Account */
+"SETTINGS_MASTER.SCREEN_TITLE" = "Your Account";
+
+/* Settings */
+"SETTINGS_MASTER.SETTINGS.HEADER_TITLE" = "Settings";
+
+/* Producer Help */
+"SETTINGS_MASTER.VIP_HELP.ROW_TITLE" = "Producer Help";
+
+/* EMAIL */
+"SETTINGS_NOTIFICATIONS.EMAIL.HEADER_TITLE" = "EMAIL";
+
+/* IN-APP */
+"SETTINGS_NOTIFICATIONS.INAPP.HEADER_TITLE" = "IN-APP";
+
+/* PUSH */
+"SETTINGS_NOTIFICATIONS.PUSH.HEADER_TITLE" = "PUSH";
+
+/* Notifications */
+"SETTINGS_NOTIFICATIONS.SCREEN_TITLE" = "Notifications";
+
+/* COVER PHOTO */
+"SETTINGS_PROFILE.COVER.HEADER_TITLE" = "COVER PHOTO";
+
+/* NICKNAME AND URL */
+"SETTINGS_PROFILE.NICKNAME.HEADER_TITLE" = "NICKNAME AND URL";
+
+/* Nickname must contain at least %1$@ characters. */
+"SETTINGS_PROFILE.NICKNAME1.FAILURE_MESSAGE1" = "Nickname must contain at least %1$@ characters.";
+
+/* Nickname can contain no more than %1$@ characters. */
+"SETTINGS_PROFILE.NICKNAME1.FAILURE_MESSAGE2" = "Nickname can contain no more than %1$@ characters.";
+
+/* nickname */
+"SETTINGS_PROFILE.NICKNAME1.PLACEHOLDER" = "nickname";
+
+/* Replace your real name with your nickname */
+"SETTINGS_PROFILE.NICKNAME2.ROW_TITLE" = "Replace your real name with your nickname";
+
+/* Edit Profile */
+"SETTINGS_PROFILE.SCREEN_TITLE" = "Edit Profile";
+
+/* DESCRIPTION */
+"SETTINGS_PROFILE.STATEMENT.HEADER_TITLE" = "DESCRIPTION";
+
+/* Add a description… */
+"SETTINGS_PROFILE.STATEMENT.PLACEHOLDER" = "Add a description…";
+
+/* PROFILE PHOTO */
+"SETTINGS_PROFILE.THUMB.HEADER_TITLE" = "PROFILE PHOTO";
+
+/* Benefits Expire: %1$@ */
+"SETTINGS_SUBSCRIPTION.BENEFITS_EXPIRE" = "Benefits Expire: %1$@";
+
+/* Canceled */
+"SETTINGS_SUBSCRIPTION.CANCELED" = "Canceled";
+
+/* Update your payment information in your Web Settings */
+"SETTINGS_SUBSCRIPTION.EXTRA_MESSAGE" = "Update your payment information in your Web Settings";
+
+/* Paid Through: %1$@ */
+"SETTINGS_SUBSCRIPTION.PAID_THROUGH" = "Paid Through: %1$@";
+
+/* Payment Due: */
+"SETTINGS_SUBSCRIPTION.PAYMENT_DUE" = "Payment Due:";
+
+/* Payment past due */
+"SETTINGS_SUBSCRIPTION.PAYMENT_PAST_DUE" = "Payment past due";
+
+/* %1$@/month */
+"SETTINGS_SUBSCRIPTION.PRICE" = "%1$@/month";
+
+/* Subscription Ended */
+"SETTINGS_SUBSCRIPTION.SUBSCRIPTION_ENDED" = "Subscription Ended";
+
+/* Subscriptions cannot be purchased through the app at this time. Look for the “Subscribe” button online and you can enjoy: */
+"SETTINGS_SUBSCRIPTIONS.NO_SUBSCRIPTIONS_INFO" = "Subscriptions cannot be purchased through the app at this time. Look for the “Subscribe” button online and you can enjoy:";
+
+/* Support your favorite\nbroadcaster by becoming\na Subscriber today! */
+"SETTINGS_SUBSCRIPTIONS.NO_SUBSCRIPTIONS_INTRO" = "Support your favorite\nbroadcaster by becoming\na Subscriber today!";
+
+/* • An awesome badge\n• Bold, VIP text in chat\n• Priority when the chat is busy\n• Chat with your favorite Partner in Subscriber-Only mode\n• The satisfaction of directly supporting a broadcaster! */
+"SETTINGS_SUBSCRIPTIONS.NO_SUBSCRIPTIONS_LIST" = "• An awesome badge\n• Bold, VIP text in chat\n• Priority when the chat is busy\n• Chat with your favorite Partner in Subscriber-Only mode\n• The satisfaction of directly supporting a broadcaster!";
+
+/* Subscriptions */
+"SETTINGS_SUBSCRIPTIONS.SCREEN_TITLE" = "Subscriptions";
+
+/* Failed to save moment to camera roll */
+"SHARE.CAMERA_ROLL_ERROR_MESSAGE" = "Failed to save moment to camera roll";
+
+/* Error */
+"SHARE.CAMERA_ROLL_ERROR_TITLE" = "Error";
+
+/* saved to camera roll */
+"SHARE.CAMERA_ROLL_SUCCESS_MESSAGE" = "saved to camera roll";
+
+/* Facebook share failed %1$@ */
+"SHARE.FACEBOOK_FAILURE" = "Facebook share failed %1$@";
+
+/* Please install this app to share! */
+"SHARE.INSTALL_APP_TO_SHARE_MESSAGE" = "Please install this app to share!";
+
+/* 🔴 LIVE @%1$@ on #YouNow */
+"SHARE.LIVE.TWITTER_HANDLE_STATUS" = "🔴 LIVE @%1$@ on #YouNow";
+
+/* 🔴 LIVE %1$@ on #YouNow */
+"SHARE.LIVE.TWITTER_NO_HANDLE_STATUS" = "🔴 LIVE %1$@ on #YouNow";
+
+/* Cannot download moment */
+"SHARE.MOMENT.EXPORT_FAILURE" = "Cannot download moment";
+
+/* Share Moment */
+"SHARE.MOMENT.INSTRUCTION_TEXT" = "Share Moment";
+
+/* Please connect Twitter to share */
+"SHARE.MOMENT.TWITTER_CONNECT_MESSAGE" = "Please connect Twitter to share";
+
+/* Check out this moment of @%1$@ on @YouNow %2$@ */
+"SHARE.MOMENT.TWITTER_HANDLE_STATUS" = "Check out this moment of @%1$@ on @YouNow %2$@";
+
+/* Check out this moment of %1$@ on @YouNow %2$@ */
+"SHARE.MOMENT.TWITTER_NO_HANDLE_STATUS" = "Check out this moment of %1$@ on @YouNow %2$@";
+
+/* posted successfully */
+"SHARE.POST_SUCCESS_MESSAGE" = "posted successfully";
+
+/* Twitter share failed %1$@ */
+"SHARE.TWITTER_FAILURE" = "Twitter share failed %1$@";
+
+/* shared to twitter successfully */
+"SHARE.TWITTER_SUCCESS" = "shared to twitter successfully";
+
+/* %1$@ on */
+"SHARE.WATERMARK_USER_LABEL" = "%1$@ on";
+
+/* Buying bars… */
+"SPINNER_MESSAGE.BUYING_BARS" = "Buying bars…";
+
+/* Contacting Facebook… */
+"SPINNER_MESSAGE.CONTACTING_FACEBOOK" = "Contacting Facebook…";
+
+/* Contacting Google… */
+"SPINNER_MESSAGE.CONTACTING_GOOGLE" = "Contacting Google…";
+
+/* Contacting Instagram… */
+"SPINNER_MESSAGE.CONTACTING_INSTAGRAM" = "Contacting Instagram…";
+
+/* Contacting Tumblr… */
+"SPINNER_MESSAGE.CONTACTING_TUMBLR" = "Contacting Tumblr…";
+
+/* Contacting Twitter… */
+"SPINNER_MESSAGE.CONTACTING_TWITTER" = "Contacting Twitter…";
+
+/* Contacting YouNow… */
+"SPINNER_MESSAGE.CONTACTING_YOUNOW" = "Contacting YouNow…";
+
+/* Contacting YouTube… */
+"SPINNER_MESSAGE.CONTACTING_YOUTUBE" = "Contacting YouTube…";
+
+/* Giving premium gift… */
+"SPINNER_MESSAGE.GIVING_PREMIUM_GIFT" = "Giving premium gift…";
+
+/* Loading… */
+"SPINNER_MESSAGE.LOADING" = "Loading…";
+
+/* Searching… */
+"SPINNER_MESSAGE.SEARCHING" = "Searching…";
+
+/* Uploading snapshot… */
+"SPINNER_MESSAGE.UPLOADING_SNAPSHOT" = "Uploading snapshot…";
+
+/* Monthly limit reached */
+"SUBSCRIPTION_ALERT.LIMIT_REACHED.MESSAGE" = "Monthly limit reached";
+
+/* Super Messages not available */
+"SUBSCRIPTION_ALERT.LIMIT_REACHED.TITLE" = "Super Messages not available";
+
+/* Unlock %@'s Super gift */
+"SUBSCRIPTION_DIALOG.BULLET_1" = "Unlock %@'s Super gift";
+
+/* Get 20 onscreen messages (per month) + priority chat */
+"SUBSCRIPTION_DIALOG.BULLET_2" = "Get 20 onscreen messages (per month) + priority chat";
+
+/* Access %@'s subscriber-only chat */
+"SUBSCRIPTION_DIALOG.BULLET_3" = "Access %@'s subscriber-only chat";
+
+/* Get access to all of %@'s replays */
+"SUBSCRIPTION_DIALOG.BULLET_4" = "Get access to all of %@'s replays";
+
+/* %@ per month */
+"SUBSCRIPTION_DIALOG.BUTTON_SUBTITLE" = "%@ per month";
+
+/* Subscribe */
+"SUBSCRIPTION_DIALOG.BUTTON_TITLE" = "Subscribe";
+
+/* Subscribe to support %@ and unlock replays */
+"SUBSCRIPTION_DIALOG.TITLE.REPLAYS" = "Subscribe to support %@ and unlock replays";
+
+/* Subscribe to support %@ and unlock a Super sticker */
+"SUBSCRIPTION_DIALOG.TITLE.STICKER" = "Subscribe to support %@ and unlock a Super sticker";
+
+/* Subscribe to support %@ and gain Super powers */
+"SUBSCRIPTION_DIALOG.TITLE.SUBSCRIBE" = "Subscribe to support %@ and gain Super powers";
+
+/* Subscribe to support %@ and chat during subscriber-only chat */
+"SUBSCRIPTION_DIALOG.TITLE.SUBSCRIBE_ONLY_CHAT" = "Subscribe to support %@ and chat during subscriber-only chat";
+
+/* Subscribe to support %@ and unlock Super messages */
+"SUBSCRIPTION_DIALOG.TITLE.SUPERMESSAGES" = "Subscribe to support %@ and unlock Super messages";
+
+/* Super Messages can contain 30 chars max.\nRemove %@ of them. */
+"SUPER_MESSAGE.CHARS_LIMIT_REACHED" = "Super Messages can contain 30 chars max.\nRemove %@ of them.";
+
+/* Cancel */
+"SUSPEND_DIALOG.CANCEL" = "Cancel";
+
+/* Reason for suspending %1$@ */
+"SUSPEND_DIALOG.TITLE" = "Reason for suspending %1$@";
+
+/* Give %1$@ a premium gift\nto become a Top Fan! */
+"TOP_FAN.GIFT_PROMO_CELL" = "Give %1$@ a premium gift\nto become a Top Fan!";
+
+/* #%1$@ Fan */
+"TOP_FAN.PANEL_TITLE" = "#%1$@ Fan";
+
+/* %1$@ Views */
+"TOTAL_VIEWS.BADGE_TITLE" = "%1$@ Views";
+
+/* Accept */
+"USER_AGREEMENT.ACCEPT_BUTTON_TITLE" = "Accept";
+
+/* Before you go live or enjoy your favorite broadcaster, note that we’ve made some changes to the following: */
+"USER_AGREEMENT.DETAIL_LABEL" = "Before you go live or enjoy your favorite broadcaster, note that we’ve made some changes to the following:";
+
+/* I have read the foregoing and I agree to its terms */
+"USER_AGREEMENT.FOOTER_LABEL" = "I have read the foregoing and I agree to its terms";
+
+/* We’ve made some changes! */
+"USER_AGREEMENT.HEADER_LABEL" = "We’ve made some changes!";
+
+/* Sign Out */
+"USER_AGREEMENT.LOGOUT_BUTTON_TITLE" = "Sign Out";
+
+/* The Partner Broadcasting Amendment to the Terms of Use */
+"USER_AGREEMENT.PARTNER_TERMS" = "The Partner Broadcasting Amendment to the Terms of Use";
+
+/* Terms of Use */
+"USER_AGREEMENT.USER_TERMS" = "Terms of Use";
+
+/* Plus, you’ll get a sneak peek at new YouNow features! */
+"VIP_DIALOG.BODY_FOOTER" = "Plus, you’ll get a sneak peek at new YouNow features!";
+
+/* As a Producer, you’ll have access to VIP perks, including: */
+"VIP_DIALOG.BODY_HEADER" = "As a Producer, you’ll have access to VIP perks, including:";
+
+/* 5% bar bonus on every purchase */
+"VIP_DIALOG.BODY_ITEM1" = "5% bar bonus on every purchase";
+
+/* 3x coin bonus for every purchase */
+"VIP_DIALOG.BODY_ITEM2" = "3x coin bonus for every purchase";
+
+/* Exclusive red crown tip jar */
+"VIP_DIALOG.BODY_ITEM3" = "Exclusive red crown tip jar";
+
+/* Access to priority support */
+"VIP_DIALOG.BODY_ITEM4" = "Access to priority support";
+
+/* Congratulations on becoming a YouNow Producer! */
+"VIP_DIALOG.TITLE" = "Congratulations on becoming a YouNow Producer!";
+
+/* Welcome back to the YouNow Producer program! */
+"VIP_DIALOG.TITLE_RETURN" = "Welcome back to the YouNow Producer program!";
+
+/* Cancel */
+"WEB_VIEW.AUTHENTICATION_CANCEL" = "Cancel";
+
+/* %1$@ requires a username and password */
+"WEB_VIEW.AUTHENTICATION_MESSAGE" = "%1$@ requires a username and password";
+
+/* OK */
+"WEB_VIEW.AUTHENTICATION_OK" = "OK";
+
+/* Password */
+"WEB_VIEW.AUTHENTICATION_PASSWORD" = "Password";
+
+/* Authentication */
+"WEB_VIEW.AUTHENTICATION_TITLE" = "Authentication";
+
+/* Username */
+"WEB_VIEW.AUTHENTICATION_USERNAME" = "Username";
+
