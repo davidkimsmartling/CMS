@@ -36,19 +36,13 @@
          // Minimal recourse set definition. Translations won't be pushed back.
          {
             "type"      : "javaProperties",
-            "pathRegex" : "/en/.*\\.properties",
-             "smartlingDirectives": [
-        "smartling.file_charset = UTF-16LE"
-      ]
+            "pathRegex" : "/en/.*\\.properties"
          },
          
          // iOS
          {
       "type": "ios",
-      "pathRegex": "/en/.*\\.strings",
-      "smartlingDirectives": [
-        "smartling.file_charset = UTF-16LE"
-      ]
+      "pathRegex": "/en/.*\\.strings"
     },
 
          // Translation set for docx files, translation results will be put to "translated" sub-folder and translated locale will be added to result file names.
