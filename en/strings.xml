@@ -1,0 +1,2288 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="loading">Loading&#8230;</string>
+    <string name="family">family</string>
+
+    <!--Partner-->
+
+    <string name="partner_life360_for">Life360 for</string>
+    <string name="partner_carrier_billing">Carrier Billing</string>
+    <string name="partner_premium">Premium gives your Circle access to:</string>
+    <string name="use_google_wallet">Use Google Wallet</string>
+    <string name="partner_limitations">Available in the USA and Italy only</string>
+
+    <!-- Multiple Pending Invites Screen -->
+    <string name="send_a_quick_reminder_to_join">Send a quick reminder to join the</string>
+    <string name="pending_invites">Pending Invites</string>
+    <string name="reminders_sent">Reminders Sent</string>
+    <string name="reminders_cancelled">Reminders Cancelled</string>
+    <string name="please_select_one_contact">Please Select At Least One Contact</string>
+
+    <!-- Onboarding -->
+    <string name="tour_title_1">Welcome</string>
+    <string name="tour_body_1">Sign up or login to your private family Circle</string>
+    <string name="tour_title_2">Connective</string>
+    <string name="tour_body_2">See everyone at once on your private map</string>
+    <string name="tour_title_3">Seamless</string>
+    <string name="tour_body_3">Get notified when Anna arrives at soccer practice or when Dad leaves work</string>
+    <string name="tour_title_4">Peace of Mind</string>
+    <string name="tour_body_4">Grandpa\'s home, Anna\'s on her way and you\'re resting easy</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="new_account">New Account</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in">Sign In</string>
+    <string name="please_enter_your_password">Please enter your password</string>
+    <string name="select_profile_image">Select Profile Image</string>
+    <string name="upload_real_picture_incentive">Share your smiling face with your family</string>
+    <string name="choose_your_picture">Choose your picture</string>
+    <string name="select">Select</string>
+    <string name="upload_profile_picture_from">Upload profile picture from</string>
+    <string name="onboarding_add_family_title">Locate, message &amp; connect</string>
+    <string name="onboarding_add_family_description">Get the most out of Life360 by inviting those you love</string>
+    <string name="onboarding_add_family_button">Add Family</string>
+    <string name="recommended_caps">RECOMMENDED</string>
+    <string name="address_book_caps">ADDRESS BOOK</string>
+    <string name="search">Search</string>
+    <string name="no_results">No results.</string>
+    <string name="no_contacts_found">We unfortunately didn\'t find any contacts. No worries, you\'ll have the opportunity to invite people later on.</string>
+    <string name="add_member">Add Member</string>
+    <string name="button_invite_x">Invite (%d)</string>
+    <string name="button_add_x">Add (%d)</string>
+    <string name="are_you_sure">Are you sure?</string>
+    <string name="no_invite_confirmation">Life360 works best with others. And it\'s private! You decide who\'s in and who\'s out &amp; when to share locations.</string>
+    <string name="add_emails_title">Add Emails</string>
+    <string name="add_emails_incentive">Friends and family are 9 times more likely to respond to your invitation if you provide an email</string>
+    <string name="add_emails_skip_popup">Should we use the emails you\'ve entered to send invitations?</string>
+    <string name="add_emails_invalid_skip_popup">Please enter a valid email for everyone you wish to invite, so they can join your Circle.</string>
+    <string name="try_again">Try again</string>
+    <string name="onboarding_place_notifications">Place Notifications</string>
+    <string name="onboarding_place_notifications_description">Location based alerts automatically notify you when Karen arrives at soccer practice or when Dad leaves work</string>
+    <string name="add_a_place">Add a Place</string>
+    <string name="place_name">Place Name</string>
+    <string name="place_address">Place Address</string>
+    <string name="add_more_circles">Add More Circles</string>
+    <string name="circles_for_everyone">Circles for Everyone</string>
+    <string name="create_a_circle_for">Make another Circle for grandparents, workout buddies, carpools, or a vacation group. You choose who\'s in and when to share.</string>
+    <string name="add_a_circle">Add a Circle</string>
+    <string name="name_your_new_circle">Name Your New Circle</string>
+    <string name="circle_name">Circle name</string>
+    <string name="suggested_circles_names">Suggested Circle names</string>
+    <string name="circle_name_suggestion_extended_family">Extended family</string>
+    <string name="circle_name_suggestion_special_someones">Special someones</string>
+    <string name="circle_name_suggestion_friends">Friends</string>
+    <string name="circle_name_suggestion_carpool">Carpool</string>
+    <string name="circle_name_suggestion_siblings">Siblings</string>
+    <string name="circle_name_suggestion_field_trip_group">Field trip group</string>
+    <string name="circle_name_suggestion_vacation_group">Vacation group</string>
+    <string name="circle_name_suggestion_babysitter">Babysitter</string>
+    <string name="congratulations">Congratulations!</string>
+    <string name="phone_number_verify_title">Phone Number Verification</string>
+    <string name="phone_number_verify_subtext1">We have sent an SMS with a verification code to your phone number</string>
+    <string name="phone_number_verify_subtext2">Please enter the 6 digit verification code.</string>
+    <string name="phone_number_verify_button">Verify</string>
+    <string name="phone_number_verify_resend">Resend Code</string>
+    <string name="phone_number_verify_hint">SMS Code</string>
+    <string name="phone_number_verify_send_toast">Sending code&#8230;</string>
+    <string name="phone_number_verify_resend_toast">Resending code&#8230;</string>
+    <string name="phone_number_verify_error_wrong_code">Incorrect code</string>
+    <string name="kids_accounts">Kids Accounts</string>
+    <string name="kids_accounts_description">Keep your kids safe on Life360 by setting up Kid Accounts.</string>
+    <string name="account_type_column">Account Type</string>
+    <string name="name_column">Name</string>
+    <string name="kid_caps">KID</string>
+    <string name="adult_caps">ADULT</string>
+    <string name="add_place_description">Get notified when members arrive or leave</string>
+    <string name="add_family_description">Invite those closest to you to Life360</string>
+    <string name="skip_this">Skip this</string>
+    <string name="no_thanks_with_comma">No, thanks</string>
+
+    <!-- Perfect Circle Demo -->
+    <string name="its_lonely_in_here">It\'s lonely in here</string>
+    <string name="remind_those_youve_invited_to_join_you">Remind those you\'ve invited to join you on Life360!</string>
+    <string name="resend_invites">Resend Invites</string>
+    <string name="hi_there">Hi there!</string>
+    <string name="gain_peace_of_mind_by_seeing_your_family">Gain peace of mind by seeing your family on the map</string>
+
+    <!-- Invitee Onboarding -->
+    <string name="add_photo_capitalized">Add Photo</string>
+    <string name="looking_good">Looking good!</string>
+    <string name="welcome_to_the_x_circle">Welcome to the %s Circle. Now you can send messages and see each other on a private map.</string>
+    <string name="welcome_exclamation">Welcome!</string>
+    <string name="you_are_invited_to_join_the_x_circle">You are invited to join the %s Circle. Please create your account to get started.</string>
+    <string name="join_the_x_circle">Join the %s Circle!</string>
+    <string name="would_you_like_to_become_a_member">Would you like to become a member of this Circle?</string>
+    <string name="will_you_join_1">Will you join %s?</string>
+    <string name="will_you_join_2">Will you join %1$s and %2$s?</string>
+    <string name="will_you_join_3">Will you join %1$s, %2$s and %3$s?</string>
+    <string name="will_you_join_4">Will you join %1$s, %2$s, %3$s and %4$d other?</string>
+    <string name="will_you_join_5_plus">Will you join %1$s, %2$s, %3$s and %4$d others?</string>
+    <string name="make_your_own_circle_for">Make your own Circle for your best friends, special someone, or your soccer team. Meet up faster, &amp; send private messages without texting. You choose who\'s in and when to share.</string>
+    <string name="onboarding_welcome_to_the_x_circle">Welcome to the %s Circle!</string>
+
+    <!-- Mini-apps Onboarding -->
+    <string name="onboarding_miniapps_intro">This app can do way more than just track your family!</string>
+    <string name="onboarding_miniapps_intro_gps_tracking">This app can do way more than just track your family!</string>
+    <string name="onboarding_add_family_title_gps_tracking">Keep Track of Your Family</string>
+    <string name="onboarding_add_family_description_gps_tracking">Invite your family to stay connected and know they are safe</string>
+    <string name="onboarding_miniapps_intro_friend_locator">This app can do way more than just find your friends!</string>
+    <string name="onboarding_add_family_title_friend_locator">Connect with Friends Instantly</string>
+    <string name="onboarding_add_family_description_friend_locator">Add friends to keep in touch when you\'re on the go</string>
+    <string name="onboarding_add_family_button_friend_locator">Add Friends</string>
+    <string name="onboarding_miniapps_intro_find_my_kids">This app can do way more than just find your kids!</string>
+    <string name="onboarding_add_family_title_find_my_kids">Connect with Kids Instantly</string>
+    <string name="onboarding_add_family_description_find_my_kids">Add kids to keep in touch when you\'re on the go</string>
+    <string name="onboarding_add_family_button_find_my_kids">Add Kids</string>
+    <string name="onboarding_miniapps_intro_offender_search">This app can do way more than just track offenders!</string>
+    <string name="onboarding_add_family_title_offender_search">See Offenders on a map</string>
+    <string name="onboarding_add_family_description_offender_search">Add your family so you always know they\'re safe</string>
+    <string name="onboarding_miniapps_intro_phone_tracker">This app can do way more than just find your phone!</string>
+    <string name="onboarding_add_family_title_phone_tracker">Find Lost Phones Instantly</string>
+    <string name="onboarding_add_family_description_phone_tracker">Invite your family to find their lost phones as well</string>
+    <string name="you_can_also">You can also:</string>
+    <string name="create_private_circles_to_track_friends_etc">Create private Circles to track friends, spouses, etc.</string>
+    <string name="locate_message_and_connect_instantly">Locate, message &amp; connect instantly</string>
+    <string name="create_automated_alerts_for_places">Create automated alerts for favorite places</string>
+    <string name="you_control_when_you_share_and_with_whom">You control when you share &amp; with whom</string>
+    <string name="get_started_capitalized">Get Started</string>
+
+    <string name="intro_invite_members">Invite Members</string>
+    <string name="intro_recommended">Recommended</string>
+    <string name="places_cap">PLACES</string>
+    <string name="places_with_alerts_cap">PLACES WITH ALERTS</string>
+    <string name="intro_loading">Loading&#8230;</string>
+    <string name="switching_circle">Switching to %s</string>
+
+    <string name="life360">Life360</string>
+    <string name="panic_failed">Help Alert failed</string>
+    <string name="checkin_failed">Check in failed</string>
+    <string name="message_not_sent">Message not sent</string>
+
+    <!-- Battery Alerts -->
+    <string name="battery_alerts">Battery Alerts</string>
+    <string name="battery_alerts_header_copy">Get an alert when someone\'s battery level is low, so you\'ll know where they are in case their phone goes offline.</string>
+    <string name="get_low_battery_alerts_for_caps">GET LOW BATTERY ALERTS FOR</string>
+    <string name="could_not_load_alerts">Could not load alerts</string>
+
+    <!-- Emergency Contacts -->
+    <string name="emergency_contact_add">Add Emergency Contact</string>
+    <string name="emergency_contacts_title">Emergency Contacts</string>
+    <string name="emergency_contacts_add">Add Emergency Contacts</string>
+    <string name="emergency_contacts_info_message">Add friends or family outside of your Circle that your family can call or text in an emergency.</string>
+    <string name="emergency_contacts_info_sharing">Your location will not be shared with emergency contacts.</string>
+    <string name="emergency_contacts_recommender_title">Select Contact</string>
+    <string name="emergency_contacts_error_loading_alert">This contact has been removed</string>
+    <string name="emergency_contacts_delete_contact_x_alert">Are you sure you want to delete %s from your Emergency Contacts?</string>
+    <string name="emergency_contacts_add_copy_with_link">Will you be my emergency contact on Life360? Tap here to say yes: %s</string>
+    <string name="emergency_contacts_message_send_error">Sending your invite failed. Check if you have SMS enabled on your phone.</string>
+    <string name="emergency_contacts_message_contact_added">Contact Added</string>
+    <string name="emergency_contacts_alert_text_cannot_add_circle_members">All Circle members are emergency contacts. Please add someone outside of this Circle for backup.</string>
+    <string name="emergency_contacts_alert_text_contact_already_added">This person is already an emergency contact for your Circle. Please add someone else.</string>
+    <string name="help_alert_info_message">If anyone in this Circle needs help, we\'ll share their location with everyone in the circle and the emergency contacts below</string>
+    <string name="help_alert_button_active_info">Tap above to send a Help Alert</string>
+    <string name="help_alert_button_inactive_info">To activate, add %d emergency contacts</string>
+    <string name="help_alert_title">Set Up Help Alert</string>
+    <string name="contact_">Contact %d</string>
+    <string name="pending">Pending</string>
+    <string name="emergency_contacts_title_love_and_care">Keep Your Loved Ones Safe</string>
+    <string name="emergency_contacts_message_love_and_care">Make sure Fido and friends stay safe by adding a few emergency contacts today</string>
+    <string name="emergency_contacts_title_fear_and_prep">Life Happens</string>
+    <string name="emergency_contacts_message_fear_and_prep">Add a few emergency contacts in case your Circle\'s in trouble</string>
+    <string name="emergency_contacts_title_feature_focus">Who should we contact if you can\'t be reached?</string>
+    <string name="emergency_contacts_message_feature_focus">Add a few emergency contacts for this Circle</string>
+
+    <string name="emergency_contacts_message_keep_loved_ones_safe">Keep your loved ones safe</string>
+    <string name="emergency_contacts_message_be_prepared">Make sure your Circle is prepared</string>
+    <string name="emergency_contacts_message_who_should_we_contact">Who should we contact if you can\'t be reached?</string>
+
+    <!--Circles Strings-->
+    <string name="circle_members">CIRCLE MEMBERS</string>
+    <string name="leave_this_circle">Leave this Circle</string>
+    <string name="will_not_dlt_circle">This will not delete the circle for other members</string>
+    <string name="circle_dlt_all">This will delete your entire account and remove you from all Circles on Life360!</string>
+    <string name="circle_leave_info">Leaving the Circle will not automatically cancel your Premium Subscription. If you would like to leave a Circle and keep your account, go to Circle Settings and leave the Circle.</string>
+    <string name="circle_remove_user_msg">Are you sure you want to delete this user from %s?</string>
+    <string name="yes_continue">Yes, Continue</string>
+
+    <string name="delete_place_progress">Deleting place&#8230;</string>
+    <string name="password_login">Login</string>
+
+    <string name="place_saved">Place saved</string>
+    <string name="name_your_place">You need to name your place</string>
+    <string name="invalid_location">Invalid location</string>
+    <string name="delete_place_confirm">Are you sure you want to delete %s?</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="signing_in">Signing in&#8230;</string>
+    <string name="welcome_back">Welcome %s, please enter your password</string>
+    <string name="forgot_password_link">Forgot Password?</string>
+    <string name="not_you_link">Not you?</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_submit">Submit</string>
+    <string name="wait_txt">Please wait&#8230;</string>
+    <string name="btn_create">Create</string>
+    <string name="btn_save">Save</string>
+    <string name="btn_copy">Copy</string>
+    <string name="btn_delete">Delete</string>
+    <string name="btn_continue">Continue</string>
+    <string name="btn_send">Send</string>
+    <string name="btn_send_invitations">Invite</string>
+
+    <string name="server_fail">Unable to connect to server</string>
+    <string name="unable_to_modify_setting">Unable to modify setting. Please try again later.</string>
+
+    <string name="sending_panic_title">Sending Help Alert&#8230;</string>
+    <string name="sending_checkin_title">Checking In&#8230;</string>
+    <string name="sending">Sending&#8230;</string>
+    <string name="success_checkin_label">Checked in At:</string>
+    <string name="sending_panic_notification_title">Sending Help Alert</string>
+    <string name="sending_checkin_notification_title">Checking in&#8230;</string>
+    <string name="sending_panic_notification_sent">Help Alert sent</string>
+    <string name="sending_checkin_notification_sent">You checked in</string>
+
+    <string name="success_panic_title">Help Alert Sent</string>
+    <string name="location_sharing_is_on">Location sharing is on</string>
+    <string name="location_sharing_on">Location sharing on</string>
+    <string name="call_x">Call %s</string>
+    <string name="text_message">Text Message</string>
+    <string name="call_now">Call Now</string>
+    <string name="call_live_advisor">Call a Live Advisor agent</string>
+
+    <string name="invalid_email_body">Please enter a valid email</string>
+
+    <!-- Miniprofile -->
+    <!-- (s) is a timestamp -->
+    <string name="location_sharing_turned_off_">Location sharing turned off %1$s. Ask them to share location.</string>
+    <string name="location_paused">Location paused</string>
+    <string name="last_updated_x">Last updated %s</string>
+    <string name="last_updated_yesterday_x">Last updated yesterday %s</string>
+    <string name="logged_out">Logged out</string>
+    <string name="gps_turned_off">GPS turned off</string>
+    <string name="out_of_battery">Out of battery</string>
+    <string name="no_network_phone_off">No network or phone off</string>
+    <!-- (s1) is the reason why that user is stale, (s2) is a timestamp -->
+    <string name="tap_to_resend_invite">Tap to resend invite</string>
+
+    <!-- Map Family Gallery -->
+    <string name="map_family_gallery_location_off_banner_self">&lt;b&gt;Location sharing was turned off&lt;/b&gt;&lt;br/&gt;%s. Tap to share your location.</string>
+    <string name="map_family_gallery_location_off_banner">&lt;b&gt;%2$s turned off location sharing:&lt;/b&gt;&lt;br/&gt;%1$s. Tap to request location.</string>
+    <string name="location_sharing_on_toast">Location sharing is ON</string>
+
+    <!-- Members Activity -->
+    <string name="members_self_title">My Location Sharing</string>
+    <string name="members_self_location_on_body">You are sharing your location with this Circle</string>
+    <string name="members_self_location_off_body">Unless you Check in or send a Help Alert, your location will not be shared with this Circle</string>
+    <string name="members_last_location">Last: %1$s\n%2$s</string>
+    <string name="location_sharing_turned_off">Location sharing turned off</string>
+    <string name="sharelocation_button">Ask to Share Location</string>
+    <string name="awaiting_reply">Awaiting reply to invitation</string>
+
+    <!-- Settings for Place Alerts -->
+    <string name="member_not_sharing_location">This member is not sharing their location</string>
+    <string name="location_sharing_off_footer">You will not receive alerts for Circle members who are disconnected from Life360 or have turned location sharing off</string>
+
+    <string name="add_member_other_phone_updates">You have %1$d updates left this month.\nTry Premium for FREE for unlimited updates.</string>
+
+
+    <string name="error_loading_place">There was an error loading your Place, please try again</string>
+
+
+    <string name="location_self_failed_title">Location Failed</string>
+    <string name="location_self_failed_message">We are temporarily unable to display your current location.</string>
+
+    <string name="faq">FAQs</string>
+    <string name="faq_title">Frequently Asked Questions</string>
+    <string name="help_center">Help Center</string>
+
+    <string name="faq01_title">What is Life360? </string>
+    <string name="faq01_data">Life360 is a free smartphone app that helps keep families and close friends stay in sync throughout their busy day. With Life360, you can see where your family and friends are on a private map, stay in touch with group and one-on-one messaging, and get help in an emergency. Life360 was started in 2008 and has 70 million members and growing!</string>
+    <string name="faq02_title">Is Life360 free?</string>
+    <string name="faq02_data">Yes! Our core service is (and always will be) 100%% free of charge.  However, we do offer some premium features for a small monthly fee.  Life360 Premium is $%1$.2f/month and gives you more of the app you love. Plus, you can try it for free for 30 days!</string>
+    <string name="faq03_title">What phones will run Life360?</string>
+    <string name="faq03_data">We work on iPhone, Android, and Windows devices or over SMS using a non-smartphone. We were previously able to offer a beta app in Blackberry, but this app has been discontinued.\n\nYou can also use our app on iPods, iPads and some other tablet devices, but your location will only update when you are connected to the internet.\n\nTo locate someone who owns a non-smartphone, you will need to upgrade to Life360 Premium, which is $%1$.2f per month.</string>
+    <string name="faq04_title">What is 24/7 Live Advisor?</string>
+    <string name="faq04_data">With the push of a button, the app will instantly connect you to a real person who can:\n\n· See your current location\n· Give you personalized crisis care\n· Access your emergency profile\n\nCan you limit the number of emergencies in your life? Of course not. That’s why you will have unlimited use of the service and there is not a limit to the number of calls you can make.</string>
+    <string name="faq05_title">A Circle Member stopped updating. How do I fix this?</string>
+    <string name="faq05_data">First, make sure they have the newest version of the app and are logged in — you’d be surprised how often this is what is wrong!  If you still are having issues, take a look at our troubleshooting guide.</string>
+    <string name="faq06_title">Can I lock the app on a Circle Member’s phone?</string>
+    <string name="faq06_data">No.  Anyone in your Circle can uninstall the app at any time.  We don’t see ourselves as a “tracking” company, and believe our app is at its best when we are used as a communication and safety tool, not as a big brother.</string>
+    <string name="faq07_title">What is the Crime Alert feature?</string>
+    <string name="faq07_data">The purple pins you see on your map are areas where a crime was reported.  This feature is available inside the Life360 app in the US and parts of the UK, but some cities will not have crime stats available.\n\nTo select how often you want the crime data to update, follow the steps below.\n\nOpen Menu\nTap on Settings\nTap on Map Options\nTap Crime\nChoose Time Frame (The feature will default to Auto-Select which means we will show you the most recent crime in the area you are searching)</string>
+    <string name="faq08_title">How do I turn the Crime Alert pins off?</string>
+    <string name="faq08_data">To hide the purple Crime Alert pins, follow these steps in the app:\n\nOpen Menu\nTap on Settings\nTap on Map Options\nTap Crime\nSelect OFF</string>
+    <string name="faq09_title">Can someone locate me without me knowing it?</string>
+    <string name="faq09_data">No, for someone to find your location using Life360, you will need to give us your explicit permission by installing our app and logging into your account or if you have a non-smartphone, replying YES to the text message invitation which asks you to join a Circle.  As soon as you logout of Life360, no one will be able to locate you.  Similarly, if you reply NO to the text message invitation on your non-smartphone, you cannot be located.</string>
+    <string name="faq10_title">How do I improve an inaccurate location?</string>
+    <string name="faq10_data">The first thing you should do is make sure your Circle member has all location services turned ON on their phone, including GPS and WiFi.\n\nPlease note that accuracy depends on many factors, such as your environment and your phone.  At times, a highly accurate location won’t be available.</string>
+    <string name="faq11_title">Does the app drain my battery?</string>
+    <string name="faq11_data">Life360 has the lowest battery drain of all locator apps on the market.  We have an advanced algorithm that helps us decide when to wake up your phone and update your location—so we never just leave your GPS on.\n\nBut, every app that uses location will use some extra battery.  Most users should expect about 10% shorter battery life when running Life360.</string>
+    <string name="faq12_title">Is my information secure?</string>
+    <string name="faq12_data">Yes, we use bank level SSL (Secure Sockets Layer) encryption and other military grade security protocols. We are independently verified by VeriSign.</string>
+    <string name="faq13_title">How do I cancel my free account?</string>
+    <string name="faq13_data">Canceling your account is easy!\n\nGo to the Menu screen\nTap on Settings\nSelect “Account”\nChoose Delete Account.\n\nThis will delete your entire account and remove you from all Circles on Life360!</string>
+    <string name="faq14_title">Where do I get more help or send feedback?</string>
+    <string name="faq14_data">We’d love to hear from you!  Feel free to send any feedback or stories of how you’ve used the app to support@life360.com.  If you are having problems with your account,  you can visit our support forum at support.life360.com.  If you can’t find an answer there, send an email to support@life360.com</string>
+    <string name="faq15_title">I don’t want to share my location.</string>
+    <string name="faq15_data">You can turn off your location in any of your Circles. Turning off your location in one Circle will not affect your location sharing in other Circles. Keep in mind, check ins will update your location for that Circle even if location sharing is turned off. If you press the Help Alert button, this will turn location sharing back on for that Circle.\n\nTo stop sharing your location, follow these steps:\n\nGo to the Circle you want to edit\nOpen the Menu\nGo to Location Sharing\nSwitch your Location Sharing to OFF</string>
+    <string name="faq16_title">What does it mean to be a Circle Admin?</string>
+    <string name="faq16_data">Only Admins can invite people to join the Circle, edit Places, and deleted Circle members.\n\nTo give Admin rights, follow these steps\n\nGo to the Settings\nGo to Circles\nChoose the Circle you want to edit\nCheck the Admin box</string>
+    <string name="faq17_title">What are the symbols above a member’s icon?</string>
+    <string name="faq17_data">· The speech bubble will take you directly into creating a new message\n· The phone gives you the option to call that person\n· The trail opens up that person’s location history\n· The circular arrow manually updates that person’s location\n· The check mark send them a request to check in\n· The pin with a plus lets you set up a Place</string>
+    <string name="faq18_title">Can I download Life360 to my Blackberry phone?</string>
+    <string name="faq18_data">The Life360 app is not available for Blackberry phones.  However, Blackberry devices can be added as non-smartphones to your Circle and located by purchasing our Life360 Premium service for $%1$.2f/month.</string>
+    <string name="faq19_title">How do I update or change my credit card information?</string>
+    <string name="faq19_data">To edit your payment information, log in to our website at Life360.com with your current email address and password used for the Life360 application. On the upper right-hand corner, select the drop box next to your name and then select "Billing" to edit your credit card.</string>
+    <string name="faq20_title">How do I stop receiving Circle email notifications?</string>
+    <string name="faq20_data">You can control all Circle notifications in Settings.\n\nOpen Menu\nSettings\nAlert Options\nChoose the Circle for which you’d like to disable email notifications\nDisable Email Alerts by unchecking the box</string>
+    <string name="faq21_title">There’s a new street that’s not on the map, is the map outdated?</string>
+    <string name="faq21_data">We use Google (Android), Apple (iOS) and Microsoft (Windows) as our mapping provider. When they update the map, it is automatically updated in our app! Unfortunately we have no control over when that might happen.</string>
+    <string name="faq22_title">Can I use Life360 to locate my lost phone?</string>
+    <string name="faq22_data">If you log into your account at www.life360.com, you will be able to see the last location where your phone updated. You can also have Circle Members open the Life360 app on their phone and update the lost phone’s location. For the best location possible on your phone, we recommend having your GPS and Wifi always on. If the app is not logged in or if the phone is turned off, the location will not update.</string>
+    <string name="faq23_title">How do I invite someone that does not have a smartphone?</string>
+    <string name="faq23_data">First, add them to your Circle in the app. On the invite page, choose the “No Smartphone” option. They will receive an SMS invitation to join your Circle. Once they accept by replying YES, you can update their location at any time.  This service can only be used in the United States and works on any of these carriers: AT&amp;T, Verizon, TMobile, or Sprint.</string>
+    <string name="faq24_title">How can I delete messages?</string>
+    <string name="faq24_data">If you log into your account at www.life360.com, you will see a message icon on the left side menu. Here, you can delete any message that you have sent to your Circle members.  Note: System messages can not be deleted.</string>
+    <string name="faq25_title">Is the History feature available on all smartphones?</string>
+    <string name="faq25_data">Currently, the History feature is available on iPhone and Android devices. You can also access History for any Circle member on our website at life360.com. Follow these steps to view History on the website:\n\n1) Log into your account at www.life360.com\n2) On the left side menu, click on History\n3) Choose the user whose History you want to view</string>
+    <string name="faq26_title">Why am I not receiving sms/text messages?</string>
+    <string name="faq26_data">This is a Life360 Premium service. To receive sms/texts of private messages, upgrade to our Life360 Premium service for $%1$.2f per month. This will include all of our other Life360 Premium service as well!</string>
+    <string name="faq27_title">Can I get sms/text messages for Place notifications?</string>
+    <string name="faq27_data">We are unable to support text messages for Place alerts, but you can receive push notifications and emails for each Place you set up.</string>
+    <string name="faq28_title">How do I unsubscribe? I do not want to be a part of Life360.</string>
+    <string name="faq28_data">You can reply #stop to any text message from Life360 to add your number to our unsubscribe list. If you received an email, there is an unsubscribe link at the bottom of the email message.</string>
+    <string name="faq29_title">How do I contact you?</string>
+    <string name="faq29_data">To contact us, please email us at support@life360.com .\nIf you’re a Premium member, you also have the option to call support from the Premium menu in the app.</string>
+    <string name="faq30_title">Why would the application show me in a wrong location?</string>
+    <string name="faq30_data">When the app is running in the background on a device, it can lose accuracy which can make it appear that a user is somewhere they are not. The solution for this is for the person viewing your location to run a manual update, which will bring the location back to the most accurate we can get, based on signal quality.\n\nIf it was bouncing between work and home, it is possible you’re logged in on more than one device with the same email address (being simultaneously logged in an iPad and an iPhone can cause all sorts of issues with updates.)</string>
+    <string name="faq31_title">What is Life360 Premium and how much does it cost?</string>
+    <string name="faq31_data">Life360 Premium offers more of the app you love, for just $%1$.2f/month or $%2$.2f/year!\n\n24/7 Live Advisor gives your Circle Members access to a real person, no matter what time day or night, who can help in case of emergency. You’ll also get unlimited location updates for non-smartphones, unlimited Places, %3$s in stolen phone protection, and expanded History data. Some features not available outside of the US.</string>
+    <string name="faq32_title">How do I receive the %1$s for my stolen phone?</string>
+    <string name="faq32_data">Send an email to stolenphone@life360.com to receive the correct claim form to fill out.</string>
+    <string name="faq33_title">Does the $%1$.2f/month non-smartphone locating service work outside of the USA?</string>
+    <string name="faq33_data">You can locate any Circle member that downloads the app to their phone. However, the locating service for non-smartphones will not work outside of the US.  We hope to expand this services to other countries in the future.</string>
+    <string name="faq34_title">How do I cancel Life360 Premium?</string>
+    <string name="faq34_data">It’s easy! If you purchased Life360 Premium with Google Wallet, manage your subscription’s billing by visiting the Play Store on your device.\n\nOn the Play Store, search for Life360. At the top of the page, click the Cancel button to stop your Life360 Premium subscription. For more information of Google Play subscriptions: https://support.google.com/googleplay/answer/2476088?topic=1046717&amp;ctx=topic&amp;hl=en&amp;rd=1\n\nIf you purchased Life360 Premium with your credit card, follow these steps to cancel your subscription:\n\nLog into your account at www.life360.com\nIn the upper right hand corner, click the drop-down arrow and select Billing\nSelect the desired Premium Circle to cancel and click Continue\nThere will be an option below Premium Subscription to cancel\n\nFor further help, you can always email support@life360.com\n\nAlso- be aware that uninstalling an app will not cancel your subscription. You must cancel your subscription in order to not be billed. If you uninstall the app without canceling your subscription, you will still be billed.</string>
+    <string name="faq35_title">How do I purchase the $%1$.2f/month Life360 Premium service to locate a non-smartphone?</string>
+    <string name="faq35_data">You will first need to complete the set-up process for the Circle member you wish to locate using this service.  Add the member to your Circle and have them accept the invite to join.  They will be sent a text message asking if they agree to be located.  Once they reply YES, you can update their location at any time. After the first update, you will be given the option to purchase the service.\n\nTo edit your billing information:\n\nLog on to www.life360.com with your email and password\nIn the top right drop down menu, select Billing\nEdit credit card and billing information\n\n\nCan I purchase Premium service outside the United States?\n\nLife360 Premium can be purchased in most countries. However, be aware that some Premium features are only available in the USA and Canada.</string>
+    <string name="faq36_title">Can I purchase Premium service outside the United States?</string>
+    <string name="faq36_data">Life360 Premium can be purchased in most countries. However, be aware that some Premium features are only available in the USA and Canada.</string>
+    <string name="faq37_title">What are Circles?</string>
+    <string name="faq37_data">Circles are a way to stay connected to all of the most important people in your life in individual, private groups. It allows you to be a part of multiple families or groups easily within your Life360 app. Try it out! Create a Circle for your babysitters, dog walkers, or work pals.</string>
+    <string name="faq38_title">How many members can be in my Circle?</string>
+    <string name="faq38_data">Add as many friends and family to your Circles as you need!</string>
+    <string name="faq39_title">How do I make two Circles into just one Circle?</string>
+    <string name="faq39_data">You cannot merge two Circles together at this time, but you can invite anyone you want into your Circle. You can also leave any Circle you no longer want to be in.</string>
+    <string name="faq40_title">Can I be in two different Circles?</string>
+    <string name="faq40_data">Yes! You can join multiple, private groups easily inside the Life360 app.</string>
+    <string name="faq41_title">If I have Life360 Premium for one Circle, do I have it for all Circles?</string>
+    <string name="faq41_data">No, you will need to purchase Life360 Premium for each Circle.</string>
+    <string name="faq42_title">How do I remove someone from my Circle?</string>
+    <string name="faq42_data">All Admins have the ability to delete Circle members. You can delete a Circle member online or in the app.\n\nGo to the Menu\nGo to Settings\nTap Circle Options\nChoose the Circle you want to edit\nPress the trash bin icon next to their name</string>
+    <string name="faq43_title">How do I add profile photos for my Circles?</string>
+    <string name="faq43_data">Each user must add their own photo. There are a few ways to add a photo to your account.\n\nOpen the Menu\nSettings\nTap your silhouette\nClick Edit\nClick your silhouette\nAdd a photo from your gallery</string>
+    <string name="faq44_title">How do I remove myself from a Circle?</string>
+    <string name="faq44_data">Removing yourself from a Circle doesn’t delete your account.  To remove yourself from a Circle, follow these steps:\n\nOpen the Menu\nGo to Settings\nGo to Circle Options\nChoose the Circle you want to leave\nPress Leave This Circle</string>
+    <string name="faq45_title">How do I create a Circle?</string>
+    <string name="faq45_data">To create a Circle, follow these steps:\n\nOpen the Menu\nSelect "add circle"\nChoose what type of Circle you want to create.  You can use one of our handy suggestions or customize your own!</string>
+    <string name="faq46_title">Why is the app showing latitude and longitude instead of address?</string>
+    <string name="faq46_data">We work with a mapping provider to show the street address of your location. The map provider occasionally has problems giving us the exact street address. Instead of showing "Unknown" for the address, we show your Latitude and Longitude. We are working with the map provider to improve this.</string>
+    <string name="faq47_title">Why Do My Circles Have Different Colors?</string>
+    <string name="faq47_data">Circle color is based on order or how many Circles created (so they don’t look exactly the same since you can’t customize yet).</string>
+    <string name="faq48_title">Will any phone, anywhere work with Places?</string>
+    <string name="faq48_data">This service can be used anywhere in the world. For the service to work, the phone you are locating will need to be an iPhone, Android, or Windows device with the Life360 app installed, connected to the internet, and have location sharing turned on.</string>
+    <string name="faq49_title">How can I delete a Place? </string>
+    <string name="faq49_data">You can delete the Place as long as you are an Admin. To delete the Place, follow these steps:\n\nOpen the Menu in the Life360 app\nTap on Places\nTap on the place you would like to delete\nHit the Edit Place button\nSelect "Delete"</string>
+    <string name="faq50_title">How do I change my Places addresses, if incorrect?</string>
+    <string name="faq50_data">Only Circle Admins can edit Places. To edit a Place, follow these steps:\n\nOpen Menu\nSelect Places\nSelect the Place you want to edit\nTap "Edit"\nMove the Pin Icon on the map to the correct address or manually enter the correct address\nSelect Save</string>
+    <string name="faq51_title">Do I need to be at the location I want to set up as a Place?</string>
+    <string name="faq51_data">No, you can set a location from anywhere.</string>
+    <string name="faq52_title">What are Places and how do I set them up?</string>
+    <string name="faq52_data">Places are a great way to know when your loved ones are leaving work or just arrived at school! Places are areas you can define inside the Life360 app so that you are alerted when a Circle member enters or leaves a location. Some places you might want to set up are work, home, and school. To set up Places, follow these steps:\n\nOpen Menu\nSelect Places\nClick Add Place\nMove the Pin Icon on the map to the correct address or manually enter the correct address\nSelect Save</string>
+    <string name="faq53_title">How do I set up more than two Places?</string>
+    <string name="faq53_data">To set up more Places, you can purchase Life360 Premium for just $%1$.2f/month.</string>
+    <string name="faq_try_support">If you can’t find an answer here, please send an email to support@life360.com</string>
+
+    <!-- Troubleshooting check the basics -->
+
+    <!-- Troubleshooting settings -->
+
+    <!-- Troubleshooting contact support -->
+
+    <!-- Troubleshooting restart and install -->
+
+    <string name="reg_tos_on_submit">I certify I am at least 13 years old and accept the &lt;a href="com.life360.webview://app-tos"&gt;TOS&lt;/a&gt; and &lt;a href="com.life360.webview://app-privacy"&gt;Privacy Policy&lt;/a&gt;. To invite a family member under 13, you must submit a &lt;a href="http://www.life360.com/pdf/consent.pdf"&gt;Parental Consent Form&lt;/a&gt;.</string>
+    <string name="tos_split_screen_account_create">By signing up you accept our &lt;a href="com.life360.webview://app-tos"&gt;Terms of Service&lt;/a&gt; and &lt;a href="com.life360.webview://app-privacy"&gt;Privacy Policy&lt;/a&gt;. For members under 13, submit a &lt;a href="http://www.life360.com/pdf/consent.pdf"&gt;Consent Form&lt;/a&gt;.</string>
+
+    <string name="err_first_name_noenter">You didn’t enter a first name. Please complete all fields.</string>
+    <string name="err_last_name_noenter">You didn’t enter a last name. Please complete all fields.</string>
+    <string name="err_zipcode_noenter">Invalid zipcode</string>
+    <string name="err_email_noenter">Invalid email address</string>
+    <string name="err_passwd_noenter">Invalid password (must be between 6 and 64 characters)</string>
+    <string name="err_phone_number_noenter">Invalid phone number</string>
+
+    <string name="show_password_checkbox">Show Password</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="new_password">New Password</string>
+    <string name="change_password">Change Password</string>
+    <string name="current_password">Current Password</string>
+    <string name="password">Password</string>
+    <string name="alert_close_button">Close</string>
+
+    <string name="member_view_limited_functionality_device_line1">%s has a</string>
+
+    <!-- Registration Flow Strings -->
+    <string name="continue_string">Continue</string>
+    <string name="reg_add_email">Add Email</string>
+    <string name="reg_add_email_couldnt">Looks like we couldn\'t find an email for everyone</string>
+    <string name="reg_add_email_sms">SMS is not available in all countries.\nAdd an email to make sure invites are received.</string>
+
+    <string name="add_home_home_name">Home</string>
+    <string name="setting_home">Setting Home&#8230;</string>
+    <string name="add_home">Add Home</string>
+    <string name="btn_skip">Skip</string>
+    <string name="add_home_btn_save">Save</string>
+    <string name="add_home_label">Add your home address\nto get Place alerts when\nfamily members arrive</string>
+    <string name="enter_address_home">Enter an address or drag the map to find your home</string>
+
+    <!-- Map Options Settings -->
+    <string name="local_services">LOCAL SERVICES</string>
+    <string name="crime_and_offenders">CRIME &amp; OFFENDERS</string>
+
+    <!-- Title -->
+    <string name="add_family">Invite Member</string>
+    <string name="add_family_droid_email">Invitation Sent</string>
+    <string name="reg_invite_featurephone_sent">A text invitation has been sent. Once %1$s replies YES they will join your account.</string>
+    <string name="geofence_add_your_place_no_places">Places let you know\nwhen Circle members come and go</string>
+    <string name="geofence_edit_name_hint">Place Name (e.g. Home, School, Work)</string>
+    <string name="geofence_edit_address_hint">Address</string>
+    <string name="geofence_add_place_tip">Tip: Change alert settings by clicking here</string>
+    <string name="geofence_feature_phone_warning">We\'re sorry, but this feature is only available for smartphones</string>
+    <string name="geofence_added_alert_text">You will receive automatic alerts when family members arrive here. To add departure alerts, or to turn off alerts altogether, tap “Edit Alerts.”</string>
+    <string name="geofence_added_alert_edit">Edit Alerts</string>
+    <string name="family_places">Family Places</string>
+    <string name="family_places_header_copy">Save your favorite places and get notified when others arrive and leave</string>
+    <string name="settings_title">Settings</string>
+    <string name="help_title">Help</string>
+    <string name="places_title">Places</string>
+    <string name="messages_title">Messages</string>
+    <string name="lists_title">Lists</string>
+    <string name="reminders_title">Reminders</string>
+
+    <string name="notification_locating">Locating %s</string>
+    <string name="notification_locating_plural">Locating %d members</string>
+
+    <string name="month_prompt">Month</string>
+    <string name="year_prompt">Year</string>
+    <string-array name="months_array">
+        <item>01</item>
+        <item>02</item>
+        <item>03</item>
+        <item>04</item>
+        <item>05</item>
+        <item>06</item>
+        <item>07</item>
+        <item>08</item>
+        <item>09</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+
+    <string name="error">ERROR</string>
+    <string name="bad_input">Bad input</string>
+    <string name="advisor_247_live_advisor">Call a Live Advisor agent</string>
+    <string name="advisor_help_your_family">Help for your family when they need it most</string>
+    <string name="advisor_reach_person">Reach a real person, 24/7, in case of emergency</string>
+    <string name="advisor_roadside_assistance">Instant roadside assistance</string>
+    <string name="advisor_help_in_crisis">Help in any crisis situation</string>
+
+
+    <string name="only_admins_can_edit_places">Only Admins or Place creators can edit Places</string>
+    <string name="places_notify_me_when">NOTIFY ME WHEN:</string>
+    <string name="get_notified_when_all_caps">GET NOTIFIED WHEN:</string>
+    <string name="places_arrives">Arrives:</string>
+    <string name="places_leaves">Leaves:</string>
+    <string name="edit_place">Edit Place</string>
+    <string name="remove_place">Remove Place</string>
+    <string name="accuracy_label">Accuracy:</string>
+    <string name="accuracy_unknown">Unknown</string>
+    <string name="could_not_find_location">Could not find location</string>
+    <string name="done">Done</string>
+    <string name="arrived">Arrived %s</string>
+    <string name="you_havent_added_any_places_yet">You haven\'t added any places yet</string>
+    <string name="youll_need_to_add_at_least_one_member_">You\'ll need to add at least one member to your circle for battery alerts to work</string>
+
+
+    <string name="countdown_we_will">We will call, email and text everyone in this Circle.</string>
+    <string name="countdown_we_will_email_and_send_notification">We will email and send a push notification to everyone in this circle</string>
+
+    <string name="first_name_hint">First Name</string>
+    <string name="email">Email</string>
+    <string name="phone_number_hint">Number</string>
+    <string name="need_to_add_family">Sorry! You\'ll need to add at least one member to your account for Places to work.</string>
+    <string name="show_password">SHOW</string>
+    <string name="hide_password">HIDE</string>
+    <string name="hide">Hide</string>
+    <string name="nice_work_eclamation">Nice work!</string>
+    <string name="your_checkin_is_complete">Your check in is complete</string>
+    <string name="add_another_member">Invite Another Member</string>
+    <string name="unable_to_lookup_address">Sorry! Temporarily unable to lookup address</string>
+    <string name="edit">Edit</string>
+    <string name="save">Save</string>
+    <string name="contact_support">Contact Support</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="unable_to_load_member">Sorry! Problem loading family member</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="password_hint">Password</string>
+    <string name="create_password">Create Password</string>
+    <string name="update_at_least_once_every">Update at least once every:</string>
+    <string name="your_location_will_also_update">Your location will also update automatically when you change locations</string>
+    <string name="learn_more">Learn More</string>
+    <string name="view_details">View details</string>
+    <string name="view_details_capital_d">View Details</string>
+    <string name="live_advisor_title">24/7 Live Advisor</string>
+    <string name="live_advisor_summary">Peace of mind when you need it most</string>
+    <string name="learn_more_about_premium">Learn More About Premium</string>
+    <string name="sorry">Sorry!</string>
+
+    <string name="live_advisor_details">Let Life360 Premium throw you and your family a lifeline. Push the Live Advisor button, and we will instantly connect you to a real person who can:\n• Direct emergency responders to your exact location\n• Give you personalized crisis care\n• Access your emergency profile</string>
+    <string name="advisor_roadside_assistance_title">Roadside Assistance</string>
+    <string name="advisor_roadside_assistance_summary">Let us coordinate the tow truck the next time you need one!</string>
+    <string name="advisor_roadside_assistance_details">Our live dispatchers are available 24/7, and they’ll use your exact coordinates to minimize the time you spend waiting by the side of the road.</string>
+    <string name="unlimited_lookups_title">Locate Non-Smartphones</string>
+    <string name="unlimited_lookups_summary">Do you have family members without smartphones?</string>
+    <string name="unlimited_lookups_details">We’ve got you covered. With Life360 Premium, you can locate up to six phones free. We’ll be honest – the locations will not be as accurate due to the lack of GPS technology, but you’ll still have peace of mind.</string>
+    <string name="unlimited_places_title">Unlimited Places</string>
+    <string name="unlimited_places_summary">Your family is like a hive of bees, scurrying to and fro.</string>
+    <string name="unlimited_places_details">With Life360 Premium, you’ll be able to synchronize more of their locations, so you don’t have to send those annoying text messages to make sure everyone is where you expect them to be.</string>
+    <string name="stolen_phone_title">%1$s Stolen Phone Protection</string>
+    <string name="stolen_phone_summary">Sad, but true: it\'s sometimes hard to hang on to your cellphone, especially if someone else decides to walk off with it.</string>
+    <string name="stolen_phone_details">Life360 can potentially help you get it back, but in the event that you can\'t, we’ll give you %1s toward your next phone with a qualifying claim.</string>
+    <string name="expanded_history_title">Expanded History Data</string>
+    <string name="expanded_history_summary">In this case, more is more.</string>
+    <string name="expanded_history_details">See your family\'s location points over past 30 days and maybe you will alter your carpool route or vow to spend less time at the office.</string>
+    <string name="premium_upgrade_title">Your family,\nwith superpowers</string>
+    <string name="premium_big_text">Upgrade this Circle to get more of the app you love, 80% less than comparable services from OnStar and your cellular carrier</string>
+    <string name="usa_only_feature_limitation">USA and Canada only</string>
+    <string name="try_free">Try Premium for FREE</string>
+    <string name="premium_checkout_title">Try Premium</string>
+    <string name="premium_checkout_description">&lt;b&gt;Upgrade %1$s for free.&lt;/b&gt;&lt;br/&gt;Cancel within %2$d days and you won\'t be billed.</string>
+    <string name="premium_checkout_select">SELECT PLAN TYPE</string>
+    <string name="premium_plan_info">Cancel within first %d days and you won\'t be billed. Love it? Keep enjoying Premium with the plan you select below.</string>
+    <string name="premium_title">Premium</string>
+    <string name="premium_checkout_disclaimer">Upgrade any Circle, just %s/month after free trial.</string>
+    <string name="premium_checkout_disclaimer_year">Upgrade any Circle, just %s/year after free trial.</string>
+    <string name="see_tos_for_details">See TOS for details.</string>
+    <string name="premium_checkout_billing_info">ENTER CREDIT CARD</string>
+    <string name="premium_checkout_start_trial">Start Free Trial</string>
+    <string name="premium_checkout_confirmation_title">Life360 Premium is yours!</string>
+    <string name="premium_checkout_required_name">Please input a name as it appears on your card to continue</string>
+    <string name="premium_checkout_required_valid_card_number">Credit card number is invalid. Please correct it to continue</string>
+    <string name="premium_checkout_required_valid_expiration_date">Date is invalid. Please input a date in a MM/YY format (i.e. 01/78)</string>
+    <string name="premium_checkout_required_valid_security_code">Security code is invalid. Please correct it to continue</string>
+    <string name="premium_checkout_required_valid_zip_code">Oops&#8230; ZIP number is invalid. Please correct it to continue</string>
+    <string name="premium_checkout_card_name_hint">Name on Credit Card</string>
+    <string name="premium_checkout_card_number_hint">Credit Card Number</string>
+    <string name="premium_checkout_expiration_hint">Exp:MM/YY</string>
+    <string name="premium_checkout_security_code_hint">Security Code</string>
+    <string name="premium_checkout_zip_code_hint">Zip Code</string>
+    <string name="premium_checkout_confirmation_copy">We\'ve sent you an email with details to get the most of your account</string>
+    <string name="premium_support">Premium Support</string>
+    <string name="premium_nudge_title">Try Premium</string>
+    <string name="premium_nudge_action">TRY PREMIUM</string>
+    <string name="premium_nudge_places">You\'ve already got two places &#8212; why not add a third?</string>
+    <string name="premium_nudge_history">See where your Circle has been with more History</string>
+    <string name="premium_nudge_advisor">Keep your Circle safe on the road with a 24/7 Live Advisor</string>
+    <string name="email_support">Email support</string>
+    <string name="for_emergency_and_concierge">Emergency &amp; roadside assistance (USA &amp; Canada only)</string>
+    <string name="lost_or_stolen_phone_protection">%1$s Stolen Phone Protection</string>
+    <string name="resend_email_for_stolen_phone">Resend email with setup instructions</string>
+    <string name="as_premium_subscriber">This Circle has been upgraded to Life360 Premium, giving you access to:</string>
+    <string name="unlimited_lookup_explanation">(For family members without smartphones. USA &amp; Canada only.)</string>
+    <string name="subscriber_feature_listing">• Unlimited Places \n• Extended History\n• Unlimited Location Lookups</string>
+    <!-- we dont support unlimited location lookups for partner users (TIM) -->
+    <string name="for_enhanced_med_alerts">For enhanced medical assistance, login to life360.com from your desktop to create your emergency medical profile.</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="terms_of_service">Terms of Service</string>
+    <string name="subject_hint">Subject</string>
+    <string name="error_creating_email">Sorry, we could not create the email. Please use another email app and send to premium@life360.com</string>
+    <string name="no_email_client_installed">There are no email clients installed.</string>
+    <string name="sending_mail">Sending mail&#8230;</string>
+    <string name="premium_upgrade_dialog_title">Upgrade to Premium</string>
+    <string name="premium_upgrade_dialog_copy">You currently have two free Places. Try Premium for FREE to add more.</string>
+    <string name="add_photo">Add\nPhoto</string>
+    <string name="invite_member">Invite Member</string>
+    <string name="smart_phone_caps">SMARTPHONE</string>
+    <string name="no_smart_phone_caps">NO SMARTPHONE</string>
+    <string name="or_caps">OR</string>
+    <string name="or_camel">Or</string>
+    <string name="or">or</string>
+    <string name="smartphone_description">A smartphone is an Android, iPhone, or Windows device</string>
+    <string name="send">Send</string>
+    <string name="close">Close</string>
+    <string name="non_smartphone_warning">Non-Smartphone Warning</string>
+    <string name="non_smartphone_warning_list">• Locations may be inaccurate\n• 5 FREE location lookups per month\n• US and Canada only</string>
+    <string name="no_updates_left_title">Upgrade</string>
+    <string name="no_updates_left_copy1">All free updates used.</string>
+    <string name="no_updates_left_copy2">Get unlimited location updates with Life360 Premium.</string>
+    <string name="no_updates_left_copy3">To continue getting location updates for this phone, upgrade to Premium for FREE now.</string>
+    <string name="no_updates_has_been_located">has been located</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="ok_caps">OK</string>
+    <string name="sending_invitation">Sending invitation&#8230;</string>
+    <string name="to_complete_the_process">Want to help %1$s set up Life360?</string>
+    <string name="download_instruction">Download the Life360 app on %s\'s phone</string>
+    <string name="login_instruction">Login with %s</string>
+    <string name="select_instruction">Sign up and accept the invitation to join the %s Circle</string>
+    <string name="one_bullet">1</string>
+    <string name="two_bullet">2</string>
+    <string name="three_bullet">3</string>
+    <string name="alert_me_when">ALERT ME WHEN:</string>
+    <string name="invitation_has_been_sent">We sent %1$s an invitation to join the %2$s Circle</string>
+    <string name="resend_caps">RESEND</string>
+    <string name="resend_copy">%1$s, has not connected to Life360. Would you like to resend your invitation?</string>
+    <string name="today">Today</string>
+    <string name="tomorrow">Tomorrow</string>
+    <string name="update">Update</string>
+    <string name="troubleshooting_guide_title">Troubleshooting</string>
+    <string name="send_invitation">Send Invitation</string>
+    <string name="resend_invitation">Resend Invitation</string>
+    <string name="list">List</string>
+    <string name="map">Map</string>
+    <string name="history_title">History</string>
+    <string name="want_more_history">Want More History?</string>
+    <string name="get_unlimited_history">Get extended History\n and more with Premium</string>
+    <string name="history_not_available">Location is unavailable or location sharing has been turned off</string>
+    <string name="invalid_phone_message">Please enter a valid phone number.</string>
+    <string name="invalid_email_title">Invalid Email Address</string>
+    <string name="all">All</string>
+    <string name="unknown">Unknown</string>
+    <string name="new_message">New Message</string>
+    <string name="me">Me</string>
+    <string name="no_emergency_profile">%1s does not have an emergency profile</string>
+    <string name="expiration">Expiration</string>
+    <string name="premium_upgrade_sms_dialog_copy">Want to receive text message notifications? Upgrade this Circle to Premium to receive unlimited text messages and more.</string>
+    <string name="remove_from_x_circle">Remove from %s Circle</string>
+    <string name="remove_from_circle">Remove from Circle</string>
+    <string name="leave_x_circle">Leave %s Circle</string>
+    <string name="add_contact">Add Contact</string>
+
+    <string name="check_in_requesting">Requesting Check In</string>
+    <string name="check_in_requested">Request Sent!</string>
+    <string name="check_in_reqest_sent_to">A check-in request has been sent to %s</string>
+
+    <string name="delete_account_password_confirmation_title">"Please input your password to delete your account"</string>
+    <string name="delete_account_password_confirmation_progress_text">Checking password&#8230;</string>
+    <string name="delete_account_password_confirmation_error">Oops&#8230; wrong password. Please try again</string>
+    <string name="okay">Okay</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+    <string name="circle_details">Circle Details</string>
+    <string name="leave_circle">Leaving Circle</string>
+    <string name="leave_premium_circle">Leaving PREMIUM Circle</string>
+    <string name="deleting_member">Deleting Member</string>
+    <string name="leave_circle_body">Are you sure you want to leave this Circle? You\'ll need to be invited by a current member to rejoin.</string>
+    <string name="leave_premium_circle_body">Are you sure you want to leave this Premium Circle? Leaving the Circle will not automatically cancel your Premium Subscription.</string>
+    <string name="leave_last_circle_body">Because this is your last Circle, a new Circle will be created for your account. To delete Life360, go to account settings.</string>
+    <string name="fam_mem_info">Profile</string>
+    <string name="login_email">Login Email</string>
+    <string name="mobile">Mobile</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="logout_message">You will be logged out of all Circles and Life360</string>
+    <string name="my_account">Account</string>
+    <string name="delete_account">Delete Account</string>
+    <string name="edit_circle">Edit Circle</string>
+
+    <string name="circles_caps">CIRCLES</string>
+    <string name="invitations_caps">INVITATIONS</string>
+    <string name="circles_menu_add">Add Circle</string>
+    <string name="circles_add_title">Add Circle</string>
+    <string name="circles_name_title">Name your Circle</string>
+    <string name="circles_please_name">Please enter a name for your circle</string>
+    <string name="circles_preferences">%s Circle</string>
+    <string name="circle_saving">Saving Circle&#8230;</string>
+
+    <string name="circles_invited_title">%1$s Circle Invitation</string>
+    <string name="circles_invited_header">%1$s has invited you to the %2$s Circle. Would you like to join?</string>
+    <string name="circles_invited_no">No, Thanks</string>
+    <string name="circles_invited_join">Join Circle</string>
+    <string name="circles_join_a_circle">Join a Circle</string>
+    <string name="circles_invited_other_list_header">OTHER MEMBERS IN THIS CIRCLE:</string>
+
+    <string name="please_enter_email_or_phone">Please enter email or phone</string>
+
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_phone">Enter Phone</string>
+    <string name="enter_phone_number">Enter Phone Number</string>
+    <string name="login_with_email_instead">Login with email instead</string>
+
+    <string name="adding_members">Adding Members</string>
+    <string name="adding_members_elipse">Adding Members&#8230;</string>
+    <string name="add_member_body">Only admins can add members to a Circle. Create your own Circle to invite new members.</string>
+    <string name="create_circle">Create Circle</string>
+    <string name="ignore_btn">Ignore</string>
+    <string name="accept_btn">Accept</string>
+
+    <string name="cost_per_month">%1$s/Month</string>
+    <string name="cost_per_year_savings">%1$s/Yr (Save %2$.0f%%)</string>
+
+    <string name="location_request">Location Request</string>
+    <string name="location_request_message">Would you like %s to turn on location sharing?</string>
+    <string name="would_you_like_to_share_your_location_with">%1$s would like you to share your location with the %2$s Circle</string>
+    <string name="not_now">Not Now</string>
+    <string name="share_location">Share Location</string>
+    <string name="you_are_now_sharing_your_location">You are now sharing your location</string>
+
+    <string name="message_sent">Message Sent</string>
+
+
+    <string name="place_work">Work</string>
+    <string name="place_school">School</string>
+    <string name="place_grocery_store">Grocery Store</string>
+    <string name="place_gym">Gym</string>
+
+    <string name="arrives">Arrives</string>
+    <string name="leaves">Leaves</string>
+
+    <string name="located_note">%s has been located</string>
+    <string name="could_not_find_note">%s could not be located</string>
+
+    <string name="problem_loading_circle">Cannot Sync</string>
+    <string name="problem_loading_circle_text">This Circle either no longer exists or is unable to sync. If you wish to change the Circle displayed here, delete this widget and add another.</string>
+    <string name="widget_last_sync_failed">Last sync failed: %s</string>
+    <string name="widget_logged_out">You are not currently logged into Life360\nTap to log in now</string>
+    <string name="widget_add_member">You currently have no family members\nTap to add a member now</string>
+    <string name="widget_circle_gone">You are no longer in this circle\nTap to select a different circle</string>
+    <string name="widget_update_now">Update now</string>
+    <string name="widget_request_checkin">Request checkin</string>
+    <string name="widget_history">History</string>
+    <string name="widget_view_on_map">View on map</string>
+    <string name="widget_call">Call</string>
+    <string name="widget_directions">Driving Directions</string>
+    <string name="widget_last_sync">Last updated: %s</string>
+
+    <string name="widget_life360">Life360</string>
+    <string name="widget_get_circles_failed">Could not retrieve circles</string>
+    <string name="widget_choose_circle">Choose a circle</string>
+
+    <string name="panic_alert">Help alert</string>
+
+    <string name="failed_communication">An unknown error has occurred, please check your internet connection and try again</string>
+    <string name="failed_load_alert">We could not load your alerts, please check your internet connection and try again</string>
+
+    <string name="loading_prefs">Loading Preferences&#8230;</string>
+
+    <string name="could_not_access_circle">We could not access your circle data, please ensure you are still a part of this circle and try again</string>
+
+    <string name="network_failure_banner">Life360 is not responding.\nCheck your network connection.</string>
+
+    <string name="edit_profile_error_toast">Error when saving your profile</string>
+
+    <string name="feedback">Feedback</string>
+    <string name="could_not_contact_life360">Could not contact Life360</string>
+
+    <string name="loading_address">Loading address&#8230;</string>
+    <string name="getting_address">Getting address&#8230;</string>
+
+    <string name="password_changed">Password changed</string>
+
+    <!-- add_family_contact_list layout -->
+    <string name="family_add_manually">You have no saved contacts, please enter family member information manually.</string>
+    <string name="enter_manually">Enter Manually</string>
+
+    <!-- Checkout date picker -->
+    <string name="select_expire_date">Select card expire date</string>
+
+    <!-- Location accuracy dialog -->
+
+    <!-- You can disable offenders dialog -->
+
+    <!-- Rate out app dialog -->
+
+    <!-- Help Alert dialog -->
+    <string name="sending_panic_alert">Sending Help Alert</string>
+
+    <!-- Check-in/Help Alert sending/sent dialog. -->
+    <string name="sending_alert">Sending Alert</string>
+    <string name="checked_in_at">Checked in At:</string>
+
+    <!-- Locating dialog -->
+    <string name="locating">Locating&#8230;</string>
+    <string name="purchasing_in_progress">Purchasing&#8230;</string>
+
+    <!-- Confirm delete activity -->
+    <string name="delete_reason_battery">App drains the battery too quickly</string>
+    <string name="delete_reason_location">Locations are not accurate</string>
+    <string name="delete_reason_stagnant">App does not update enough</string>
+    <string name="delete_reason_competitor">Prefer a different application</string>
+    <string name="delete_reason_duplicate">This is a duplicate account</string>
+    <string name="delete_reason_other">Other</string>
+    <string name="delete_account_select_first">You must select one of the reasons above</string>
+    <string name="delete_account_sure_title">Are you sure?</string>
+    <string name="delete_account_sure_message">Your account will be deleted.</string>
+    <string name="delete_account_deleting">Deleting account&#8230;</string>
+    <string name="delete_account_text">Sorry to see you go. Please tell us why you\'re deleting your account</string>
+
+    <!-- Quick notes dialog -->
+
+    <!-- Forgot password activity -->
+    <string name="forgot_password_title">Forgot Password / PIN?</string>
+    <string name="forgot_password_instructions">Enter your email below and we\'ll send you instructions</string>
+
+    <!-- Could not locate dialog -->
+    <string name="btn_try_again">Try Again</string>
+
+    <!-- Edit user activity -->
+    <string name="change">Change</string>
+    <string name="first_name_required_hint">First name (required)</string>
+    <string name="last_name_hint_long">Last name</string>
+
+    <!-- Could not connect activity -->
+    <string name="could_not_connect">Could not connect to the Internet. Ensure you have a reliable connection and try again.</string>
+
+    <!-- Public office alert -->
+
+    <!-- Offender alert -->
+
+    <!-- Limited functionality device screen. -->
+    <string name="limited_device_banner_line1">Your Family Member is using a</string>
+    <string name="limited_device_banner_line2"><b>Limited Functionality Device</b></string>
+    <string name="limited_device_title">Some features require <b>iPhone</b> and <b>Android</b> devices</string>
+    <string name="limited_device_subtitle">What does this mean?</string>
+    <string name="limited_device_body0">You can locate this person <b>for free 5 times</b>, after which the service will cost <b>$5.00 a month.</b></string>
+    <string name="limited_device_body1">This person\'s location might be inaccurate depending on their phone and carrier.</string>
+    <string name="limited_device_body2"><i>This is outside of our control.</i></string>
+    <string name="limited_device_body3">To update this person\'s location, you will need to manually <b>push the Update button</b> in their profile. It won\'t update automatically.</string>
+
+    <!-- Messages view -->
+    <string name="address">Address</string>
+    <string name="zoom_or_pan_image">Zoom or pan your image</string>
+
+    <string name="dismiss">Dismiss</string>
+    <string name="add_place_tip_html"><b>Enter an address</b> or <b>drag the map</b> to find your Place</string>
+    <string name="cannot_access_invite">Cannot access invite at this time</string>
+    <string name="wait_initializing">Please wait while initializing</string>
+
+    <string name="bullet">&#8226;</string>
+    <string name="lost_connection_colon">Lost Connection:</string>
+    <string name="syncing">Syncing&#8230;</string>
+    <string name="to_use_this_feature">To use this feature, you\'ll need to upgrade to Life360 Premium</string>
+    <string name="live_advisor_limitation">Voice rates may apply. Available in USA and Canada only.</string>
+
+    <string name="issue_processing_subscription">There was an issue processing your subscription</string>
+    <string name="error_during_in_app_billing">Sorry, the subscription process did not complete through Google Play. Just tap below and finish the transaction through Life360\'s secure checkout.</string>
+    <string name="error_already_purchased">Someone else in this circle has already purchased Premium.\n\nPlease cancel this subscription to avoid being charged twice.</string>
+    <string name="error_app_not_installed">We\'re sorry, but this app isn\'t installed on your phone</string>
+    <string name="error_loading_alert">Error loading circle data, please try again.</string>
+    <string name="plus_generic_error">Life360 encountered an error</string>
+    <string name="external_sd_card_missing_or_corrupted_please_reformat">External SD card missing or corrupted. Please reformat.</string>
+
+    <string name="yesterday">Yesterday</string>
+    <string name="within_locate">Within %1$s \@ %2$s</string>
+    <string name="no_location_yet">No location yet</string>
+    <string name="select_profile_pic">Select Profile Picture</string>
+    <string name="sending_ellipsis">Sending&#8230;</string>
+    <string name="limited_functionality">Limited Functionality</string>
+    <string name="plus_mobile_number">+ Mobile Number</string>
+    <string name="plus_email">+ Email</string>
+    <string name="toast_email_sent">Email sent</string>
+    <string name="toast_email_sent_to">Email sent %1$s</string>
+    <string name="toast_invitations_sent">Invitations sent</string>
+    <string name="toast_place_added">Place added</string>
+    <string name="share_life360_header_message">Tell your family &amp; friends about Life360 (This will not invite your friends to your Circle)</string>
+    <string name="share_life360_success_message">Thanks for sharing Life360 with your friends!</string>
+    <string name="share_life360_error_message">There was an error sending your invites. Please try again.</string>
+    <string name="share_life360_select_contacts">Select Contacts</string>
+    <string name="share_life360_to_get_premium_text_title">Share the app, get free Premium!</string>
+    <string name="share_life360_to_get_premium_text_body">Tell %d friends and get a free month of Premium. Enjoy extra Places, extended History &amp; more!</string>
+    <string name="share_life360_to_get_premium_contrats_text_title">Free Premium is yours!</string>
+    <string name="share_life360_to_get_premium_congrats_text_body">Thanks for sharing Life360. Tell your Circle they can now view more Places, History &amp; more!</string>
+    <string name="share_life360_to_get_premium_congrats_text_button">View Premium Details</string>
+    <string name="share_life360_dialog_text_title">Spread the word!</string>
+    <string name="share_life360_dialog_text_body">Tell your friends that Life360 gives you and your family greater peace-of-mind</string>
+    <string name="share_life360_dialog_text_button">Share</string>
+    <string name="share_life360_to_get_free_premium_places_dialog_text_title">Share the app, get more Places</string>
+    <string name="share_life360_to_get_free_premium_places_dialog_text_body">Tell %d friends and get more Places with a free month of Premium </string>
+    <string name="share_life360_to_get_premium_history_dialog_text_title">Share the app, get more History</string>
+    <string name="share_life360_to_get_premium_history_dialog_text_body">Tell %d friends and get more History with a free month of Premium</string>
+    <string name="add_place_dialog_text_body">Choose a location and get notified when others arrive or leave</string>
+    <string name="you_have_shared_with">You\'ve shared with:</string>
+    <string name="x_friends">%d Friends</string>
+
+    <string name="share_invites_primary_text">Grow your Circle</string>
+    <string name="share_invites_secondary_text">Invite your friends and family on Messenger, Whatsapp, and Line!</string>
+    <string name="share_invites_address_book_text">Choose from Contacts</string>
+    <string name="invites_sent">Invites Sent</string>
+
+    <string name="build_info">%1$s build %2$d</string>
+    <string name="invalid_build">INVALID BUILD</string>
+    <string name="android_version">Android version %1$s</string>
+
+    <string name="unknown_address_near">Unknown address near %1$.4f, %2$.4f</string>
+    <string name="unknown_address">Unknown address</string>
+
+    <string name="offender_info">%1$s, %2$s, %3$s, %4$s lbs</string>
+    <string name="dob">DOB: %1$s</string>
+    <string name="address_split">%1$s\n%2$s</string>
+    <string name="offender_chargers"><b>Charges:</b> %1$s</string>
+
+    <string name="cant_load_pictures">Can not load picture</string>
+
+    <string name="your_email_was_sent">Your email was sent successfully</string>
+    <string name="sending_email">Sending email&#8230;</string>
+
+    <string name="please_enter_current_pswd">Please enter current password</string>
+    <string name="please_enter_new_pswd">Please enter new password</string>
+
+    <string name="this_user_has_lost_connection">This user has lost connection</string>
+    <string name="you_may_not_see_a_users_location">You may not see a user\'s location if:</string>
+    <string name="user_closed_life360">The user closed Life360 as an active app on their smartphone (Ask them to open Life360)</string>
+    <string name="user_turned_off_phone">The user turned off their phone</string>
+    <string name="user_has_no_network_connection_presently">The user entered an area where there is no network connection</string>
+    <string name="users_phone_in_airplane_mode">Their phone is in Airplane mode</string>
+    <string name="user_needs_update">The user needs to update to the latest version of Life360</string>
+    <string name="still_need_help">Still need help?</string>
+    <string name="feel_free_to_email_support">Feel free to email support at support@life360.com</string>
+    <string name="send_connection_instructions">Send Connection Instructions</string>
+
+    <string name="logged_in_as">Logged in as:</string>
+
+    <!--Profile-->
+    <string name="at_place_name">At %s</string>
+    <string name="since_time">Since %s</string>
+    <string name="since_yesterday_time">Since yesterday %s</string>
+    <string name="request_check_in">Request Check In</string>
+    <string name="x_min_all_caps">%s MIN</string> <!-- MIN as in MINutes -->
+    <string name="x_minutes_drive_to">%1$s min drive to %2$s</string>
+    <!-- Example: 2hr 15 min drive to Bob -->
+    <string name="x_hr_y_min_drive_to_z">%1$d hr %2$d min drive to %3$s</string>
+    <!-- Example: 2hr drive to Amy -->
+    <string name="x_hr_drive_to_y">%1$d hr drive to %2$s</string>
+
+    <string name="troubleshooting_all_caps">TROUBLESHOOTING</string>
+    <string name="get_notified_when_x_arrives_">Get notified when %s arrives or leaves the following places:</string>
+    <string name="add_new_place">Add New Place</string>
+    <string name="location">Location</string>
+    <string name="last_location">Last Location</string>
+    <string name="get_directions">Get Directions</string>
+    <string name="send_ride">Send a Ride</string>
+    <string name="notify_me">Notify Me</string>
+    <string name="notify_me_body">Get an alert when they leave</string>
+    <string name="travel_time">(%s by car)</string>
+    <string name="updated">Updated</string>
+    <string name="accuracy">Accuracy</string>
+    <string name="location_sharing_turned_off_capitalized">Location Sharing Turned Off</string>
+    <string name="emergency_instructions">Personal Emergency Instructions</string>
+    <string name="conditions">Medical Conditions</string>
+    <string name="allergies">Allergies</string>
+    <string name="medications">Medications</string>
+    <string name="doctors">Doctors</string>
+    <string name="to_edit_profile">To add emergency information to your profile, go to www.life360.com</string>
+
+    <string name="back_button_label">Back</string>
+    <string name="next_button_label">Next</string>
+
+    <string name="skip_button_label">Skip</string>
+
+    <string name="message">Message</string>
+    <string name="call">Call</string>
+    <string name="history">History</string>
+    <string name="history_all_caps">HISTORY</string>
+    <string name="request">Request</string>
+    <string name="add_place">Add Place</string>
+    <string name="add">Add</string>
+    <string name="route_all_caps">ROUTE</string>
+
+    <plurals name="x_members">
+        <item quantity="one">1 Member</item>
+        <item quantity="other">%d Members</item>
+    </plurals>
+
+
+    <string name="drawer_item_activity">Activity</string>
+    <string name="drawer_item_help_alert">Help Alert</string>
+    <string name="drawer_item_location_sharing">Location Sharing</string>
+    <string name="drawer_item_places">Places</string>
+    <string name="drawer_item_battery">Battery</string>
+    <string name="drawer_item_messages">Messages</string>
+    <string name="drawer_item_driving">Driving</string>
+    <string name="drawer_item_safety">Safety</string>
+    <string name="drawer_item_lists">Lists</string>
+    <string name="drawer_item_reminders">Reminders</string>
+    <string name="drawer_item_premium">Premium</string>
+    <string name="drawer_item_settings">Settings</string>
+    <string name="drawer_item_share">Share Life360</string>
+    <string name="drawer_item_help">Help</string>
+
+    <string name="my_circles_allcaps">MY CIRCLES</string>
+
+    <string name="share_the_app">Share the app</string>
+    <string name="no_thanks">No Thanks</string>
+
+    <string name="improve_your_location_accuracy">Improve your location accuracy</string>
+    <string name="turn_on_your_location_services">To ensure you get the most accurate location possible, turn on all of your location services</string>
+    <string name="gps">GPS</string>
+    <string name="wireless_networks">Wireless Networks</string>
+    <string name="wifi">Wi-Fi</string>
+    <string name="settings">Settings</string>
+
+    <!-- High Priority Dialogs -->
+    <string name="location_no_network_provider_dialog_title">Wrong location mode</string>
+    <string name="location_no_network_provider_dialog_message">Looks like your device is not in High Accuracy location mode. This prevents the app from functioning properly. Please click Change to fix this.</string>
+    <string name="location_no_network_provider_dialog_message_prekitkat">Looks like your device is not allowing location services to use wireless networks. This prevents the app from functioning properly. Please click Change to fix this.</string>
+
+    <string name="x_is_requesting_a_check_in">%s is requesting a check in</string>
+    <string name="i_need_help">I need help!</string>
+    <string name="check_in">Check in</string>
+
+    <string name="crime_spot">Crime Spot</string>
+
+    <string name="avatar_select">Select Profile Picture</string>
+
+    <string name="country_code_selected_display">%1$s (%2$s)</string>
+
+    <!-- Lonely Dialog -->
+
+
+    <!--Settings-->
+
+    <string name="circles_preference_item_title">Circle Options</string>
+    <string name="admin">Admin</string>
+    <string name="map_setting_title">Map Options</string>
+    <string name="alert_setting_title">Alert Options</string>
+    <string name="account_setting_title">Account</string>
+    <string name="logout_setting_title">Log Out</string>
+
+    <string name="hospital_map_setting_title">Hospitals</string>
+    <string name="fire_map_setting_title">Fire Stations</string>
+    <string name="police_map_setting_title">Police Stations</string>
+    <string name="sexoffender_map_setting_title">Sex Offenders</string>
+    <string name="crime_map_setting_title">Crime</string>
+    <string name="crime_map_setting_dialog_title">Show crimes from:</string>
+
+    <string name="my_account_setting_title">My Account</string>
+    <string name="change_password_setting_title">Change Password</string>
+    <string name="delete_account_setting_title">Delete Account</string>
+    <string name="location_update_setting_title">Location Updates</string>
+    <string name="distance_preferences_setting_title">Distance Units</string>
+
+    <string name="settings_alert_circles">VIEW ALERT OPTIONS FOR:</string>
+    <string name="settings_alert_general">GENERAL ALERTS</string>
+    <string name="alert_options">Alert Options</string>
+    <string name="alert_options_title">Crime in my area</string>
+    <string name="alert_sounds">Alert Sound</string>
+
+    <string name="send_me_alerts">SEND ME ALERTS FOR THIS CIRCLE USING:</string>
+    <string name="app_notifs">App Notifications</string>
+    <string name="sms">SMS</string>
+    <string name="other">Other</string>
+    <string name="place_alerts">Place Alerts</string>
+    <string name="place_alerts_all_caps">PLACE ALERTS</string>
+
+    <string name="map_options">Map Options</string>
+
+    <string name="imperial">Miles</string>
+    <string name="metric">Kilometers</string>
+    <!-- DO NOT TRANSLATE YET -->
+    <string name="n_mile">%d mile</string>
+    <string name="speed_unit">%d mph</string>
+    <!--Crime Setting-->
+
+    <string name="crime_off">Off</string>
+    <string name="crime_auto">Auto-select</string>
+    <string name="crime_1week">1 week</string>
+    <string name="crime_2weeks">2 weeks</string>
+    <string name="crime_1month">1 month</string>
+    <string name="crime_3months">3 months</string>
+    <string name="crime_6months">6 months</string>
+    <string name="crime_1year">1 year</string>
+
+    <!--Distance Imperial -->
+
+    <string name="foot">1 foot</string>
+    <string name="feet">%1$d feet</string>
+    <string name="mile">1 mile</string>
+    <string name="miles">%1$.1f miles</string>
+
+    <string name="within_foot">within 1 foot</string>
+    <string name="within_feet">within %1$d feet</string>
+    <string name="within_mile">within 1 mile</string>
+    <string name="within_miles">within %1$.1f miles</string>
+
+    <!--Distance Metric -->
+
+    <string name="meter">1 meter</string>
+    <string name="meters">%1$.0f meters</string>
+    <string name="kilometer">1 kilometer</string>
+    <string name="kilometers">%1$.1f kilometers</string>
+
+    <string name="within_meter">within 1 meter</string>
+    <string name="within_meters">within %1$.0f meters</string>
+    <string name="within_kilometer">within 1 kilometer</string>
+    <string name="within_kilometers">within %1$.1f kilometers</string>
+    <string name="km">%d km</string>
+    <string name="kmph">%d km/h"</string>
+
+    <!--Geofence Distance-->
+
+    <string name="geofence_radius_imperial_min_label">500 ft</string>
+    <string name="geofence_radius_imperial_max_label">2 mi</string>
+
+    <string name="geofence_radius_metric_min_label">150 m</string>
+    <string name="geofence_radius_metric_max_label">3.2 km</string>
+
+    <string name="geofence_radius_x_ft_zone">%d ft zone</string>
+    <string name="geofence_radius_x_mile_zone">%.1f mi zone</string>
+    <string name="geofence_radius_x_meter_zone">%d m zone</string>
+    <string name="geofence_radius_x_km_zone">%.1f km zone</string>
+
+    <string name="distance_x_ft">%d ft</string>
+    <string name="distance_x_mile">%d mi</string>
+    <string name="distance_x_meter">%d m</string>
+    <string name="distance_x_km">%.1f km</string>
+
+    <!-- Rate the app -->
+    <string name="tell_us_what_you_think">Tell us what you think</string>
+    <string name="do_you_love_this_app">Do you love this app?</string>
+    <string name="tell_us_whats_wrong">Tell us what went wrong or what we can improve</string>
+    <string name="sorry_to_hear_that">Sorry to hear that&#8230;</string>
+    <string name="awesome">Awesome!</string>
+    <string name="why_not_share_the_love">Why not share the love and rate the app?</string>
+
+
+    <!--History-->
+
+    <string name="history_today_and_time">Today %1$s</string>
+    <string name="general_month_at_time">%1$s at %2$s</string>
+    <!--First param is month abbrev, second is time-->
+
+    <!--Reinvite in language dialog-->
+    <string name="language_great_news">Great news, Life360 is now available in your language!</string>
+    <string name="language_copy_1">Now it\'s even easier to keep in touch with your family and close friends. Start by resending invites in your language.</string>
+    <string name="language_copy_2">Now it\'s even easier to keep in touch with your family and close friends. Start by sending invites in your language.</string>
+    <string name="language_copy_3">Now it\'s even easier to keep in touch with your family and close friends.</string>
+    <string name="language_invite_new_member">Invite New Member</string>
+    <string name="language_resend_invites">Resend Invites</string>
+
+    <!-- Update location failed screen -->
+    <string name="could_not_update_location">Could not update location for this user</string>
+    <string name="user_using_iphone_with_background_refresh_off">The user is using an iPhone and has turned off background refresh</string>
+
+    <!-- Update Frequency -->
+    <string name="min_15">15 Min</string>
+    <string name="min_30">30 Min</string>
+    <string name="min_60">60 Min</string>
+    <string name="half_day">Half a Day</string>
+    <string name="crime_on">ON:</string>
+
+    <string name="from_to_time">%1$s - %2$s</string>
+    <!--first param is start time second is end time-->
+
+    <!-- Mini-apps -->
+
+    <string name="track_your_family_and_friends">Track your family and friends in real time</string>
+
+    <string name="find_my_phone_caps">FIND MY LOST PHONE</string>
+    <string name="locate_the_phones_owned_by_anyone">Locate the phones owned by anyone in your family anytime, anywhere</string>
+
+    <string name="find_my_friends">Locate my Friends</string>
+    <string name="see_where_your_friends_are">See where your friends are anytime, anywhere</string>
+
+    <string name="find_my_kids">Find my Kids</string>
+    <string name="see_where_your_kids_are">See where your kids are anytime, anywhere</string>
+
+    <string name="sex_offender_caps">SEX OFFENDER</string>
+    <string name="t_r_a_c_k_e_r">T R A C K E R</string>
+    <string name="find_registered_sex_offenders">Find registered sex offenders living in your neighborhood</string>
+    <string name="sign_in_to_view_circles">Sign into Life360 to view your Circles</string>
+
+    <string name="still_not_accepted">%1$s is still not part of the %2$s Circle.</string>
+    <string name="send_another_invite">Send another invite?</string>
+    <string name="enter">Enter</string>
+
+    <!-- Feedback email -->
+
+    <string name="name_colon">Name:</string>
+    <string name="email_colon">Email:</string>
+    <string name="device_colon">Device:</string>
+    <string name="software_version_colon">Software Version:</string>
+    <string name="app_version_colon">App Version:</string>
+    <string name="your_account_details_help_us">Your account details help us solve your problem and are kept private. Please enter your feedback below.</string>
+    <string name="problem_profile_image_message">We encountered a problem while creating your profile image, but don\'t worry you can add one later.</string>
+    <string name="problem_profile_image_title">Problem Creating Image</string>
+
+    <!-- Notification Center -->
+
+    <string name="notifications">Notifications</string>
+    <string name="notification_center_title">Notifications</string>
+    <string name="you_can_dismiss_any_card_by">You can dismiss any card by swiping it to the right</string>
+    <string name="youre_caught_up">You\'re caught up!</string>
+    <plurals name="new_notifications">
+        <item quantity="one">%d New Notification</item>
+        <item quantity="other">%d New Notifications</item>
+    </plurals>
+    <string name="has_been_located_colon">Has been located:</string>
+    <string name="could_not_be_located">Could not be located</string>
+    <string name="x_needs_help_exclamation">%s needs help!</string>
+    <string name="checked_in_at_colon">Checked in at:</string>
+    <string name="panic_sent_from_colon">Help Alert sent from:</string>
+    <string name="accuracy_colon">Accuracy:</string>
+    <string name="arrived_at_x">Arrived at %s</string>
+    <string name="left_x">Left %s</string>
+    <string name="to_colon">To:</string>
+    <plurals name="plus_x_more">
+        <item quantity="one">+1 More</item>
+        <item quantity="other">+%d More</item>
+    </plurals>
+    <string name="plus_x">+%d</string>
+    <string name="joined_the_x_circle">Joined the %s Circle!</string>
+    <string name="added_x">Added \"%s\"</string> <!-- Place name -->
+    <string name="id_like_you_to_share_your_location">I\'d like you to share your location with the %s Circle</string>
+    <string name="is_now_sharing_their_location_with">Is now sharing their location with the %s Circle</string>
+    <string name="you_are_now_sharing_your_location_with_x_circle">You are now sharing your location with the %s Circle</string>
+    <string name="requesting_a_check_in">Requesting a check in</string>
+    <string name="you_checked_in">You checked in</string>
+    <string name="x_was_invited_to_join_x_circle_but">%1$s was invited to join the %2$s Circle but hasn\'t accepted yet</string>
+    <string name="you_resent_an_invitation_to_x_to_join">You resent an invitation to %1$s to join the %2$s Circle</string>
+    <string name="looks_like_your_location_settings_are_off">Looks like some of your phone\'s location settings are turned off. To make it easier to connect with me on Life360 go to your phone\'s settings and turn location options on.</string>
+    <string name="created_the_new_list_x">Created the new list \"%s\"</string>
+    <string name="chip_in_by_adding_or_checking">Chip in by adding or checking off items from this list</string>
+    <string name="updated_x">Updated \"%s\"</string>
+    <string name="deleted_the_list_x">Deleted the list \"%s\"</string>
+    <plurals name="added_x_items">
+        <item quantity="one">Added %d item</item>
+        <item quantity="other">Added %d items</item>
+    </plurals>
+    <plurals name="edited_x_items">
+        <item quantity="one">Edited %d item</item>
+        <item quantity="other">Edited %d items</item>
+    </plurals>
+    <plurals name="completed_x_items">
+        <item quantity="one">Completed %d item</item>
+        <item quantity="other">Completed %d items</item>
+    </plurals>
+    <plurals name="deleted_x_items">
+        <item quantity="one">Deleted %d item</item>
+        <item quantity="other">Deleted %d items</item>
+    </plurals>
+    <string name="message_all_caps">MESSAGE</string>
+    <string name="edit_alerts_all_caps">EDIT ALERTS</string>
+    <string name="view_history_all_caps">VIEW HISTORY</string>
+    <string name="reply_all_caps">REPLY</string>
+    <string name="view_thread_all_caps">VIEW THREAD</string>
+    <string name="view_thread_x_new_all_caps">VIEW THREAD (%d NEW)</string>
+    <string name="view_place_all_caps">VIEW PLACE</string>
+    <string name="view_profile_all_caps">VIEW PROFILE</string>
+    <string name="i_need_help_all_caps">I NEED HELP!</string>
+    <string name="check_in_all_caps">CHECK IN</string>
+    <string name="ignore_all_caps">IGNORE</string>
+    <string name="call_all_caps">CALL</string>
+    <string name="go_to_troubleshooting_all_caps">GO TO TROUBLESHOOTING</string>
+    <string name="add_place_all_caps">ADD PLACE</string>
+    <string name="create_circle_all_caps">CREATE CIRCLE</string>
+    <string name="invite_all_caps">INVITE</string>
+    <string name="add_picture_all_caps">ADD PICTURE</string>
+    <string name="edit_invitation_all_caps">EDIT INVITATION</string>
+    <string name="send_reminder_all_caps">SEND REMINDER</string>
+    <string name="settings_all_caps">SETTINGS</string>
+    <string name="share_location_all_caps">SHARE LOCATION</string>
+    <string name="view_list_all_caps">VIEW LIST</string>
+    <string name="view_reminder_all_caps">VIEW REMINDER</string>
+    <string name="list_does_not_exist_error_message">\"%s\" has been deleted</string>
+    <string name="this_user_isnt_part_of_this_circle_anymore">This user isn\'t part of this Circle anymore</string>
+    <string name="this_place_doesnt_exist_anymore">This Place doesn\'t exist anymore</string>
+    <string name="checkin_i_am_safe">I am safe</string>
+    <string name="panic_i_need_help">I need help</string>
+    <string name="welcome_card_message">Welcome to the party! Check in or send a message to say you are here.</string>
+
+    <!-- Messaging -->
+
+    <string name="got_it_all_caps">GOT IT</string>
+    <string name="x_new_messages">%s new messages</string>
+    <string name="type_your_message">Type your message&#8230;</string>
+    <string name="type_message">Type message</string>
+    <string name="you">You</string>
+    <string name="failed_to_send">Failed to send</string>
+    <string name="we_can_try_to_resend_or_you_can_delete">What would you like to do? We can try to resend or you can delete it.</string>
+    <string name="failed_to_send_tap_to_retry">Failed to send. Tap to retry.</string>
+    <string name="resend">Resend</string>
+    <string name="sent_near_x_at_x">Sent near: %1$s %2$s at %3$s</string>
+    <string name="sent_at_x">Sent at %s</string>
+    <string name="seen_by_x">Seen by %s</string>
+    <string name="seen_x">Seen %s</string>
+    <string name="seen_by_everyone">Seen by everyone</string>
+    <string name="everyone">Everyone</string>
+    <string name="messaging_no_threads">Tap on \'New Message\' to send a message to anyone in your Circle</string>
+    <string name="messaging_no_members">To send a message you need to have at least one person in this Circle</string>
+    <string name="messaging_circle_of_one_state_text">You\'ll need to add at least one member to your circle to be able to chat</string>
+    <string name="unsupported_message_photo"><![CDATA[Looks like you don\'t have the latest version of Life360.<br/><br/><u>Upgrade to see the photo just shared with you.</u>]]></string>
+    <string name="unsupported_message_video"><![CDATA[Looks like you don\'t have the latest version of Life360.<br/><br/><u>Upgrade to see the video just shared with you.</u>]]></string>
+    <string name="unsupported_message_sticker"><![CDATA[Looks like you don\'t have the latest version of Life360.<br/><br/><u>Upgrade to see the sticker just shared with you.</u>]]></string>
+    <string name="unsupported_message_type"><![CDATA[Looks like you don\'t have the latest version of Life360.<br/><br/><u>Upgrade to see what was just shared with you.</u>]]></string>
+    <string name="do_you_want_to_delete_this_thread">Do you want to delete this thread? You will still receive new messages.</string>
+    <string name="view_people">View People</string>
+    <string name="people">People</string>
+    <string name="you_sent_a_photo">You sent a photo.</string>
+
+    <!-- Activity Messages -->
+    <string name="place_reaction_activity_message_sender">You \u2764 that %1$s is at %2$s</string>
+    <string name="place_reaction_activity_message_receiver">%1$s \u2764 that you are at %2$s</string>
+    <string name="place_reaction_activity_message_third_person">%1$s \u2764 that %2$s is at %3$s</string>
+
+    <string name="check_in_reaction_activity_message_sender">You \u2764 that %1$s checked in at %2$s</string>
+    <string name="check_in_reaction_activity_message_receiver">%1$s \u2764 that you checked in at %2$s</string>
+    <string name="check_in_reaction_activity_message_third_person">%1$s \u2764 that %2$s checked in at %3$s</string>
+
+    <!-- Photo Messaging -->
+    <string name="choose_photo">Choose photo</string>
+    <string name="sending_photo">Sending photo&#8230;</string>
+    <string name="photo_saved">Photo saved</string>
+    <string name="oops_something_went_wrong">Oops, something went wrong</string>
+    <string name="tap_to_try_again">Please tap to try again.</string>
+    <string name="update_app_to_view_photo">Update app to view photo.</string>
+
+    <!-- Other -->
+    <string name="now">Now</string>
+    <string name="_new">New</string>
+
+    <!-- lists -->
+    <string name="todos_list_item_text">item</string>
+    <string name="todos_list_items_text">items</string>
+    <string name="todos_list_items_loading_text">&#8230;</string>
+    <string name="todos_list_add_item">Add an item</string>
+    <string name="todos_list_add_list_hint">Name this list</string>
+    <string name="todos_list_share_with_members_text_create_list">Share with:</string>
+    <string name="todos_list_share_with_members_text_edit_list">Shared with:</string>
+    <string name="todos_list_share_with_everyone_in_circle_text">Everyone in this Circle</string>
+    <string name="todos_list_future_members_can_view_this_list_text">Future members can view this list</string>
+    <string name="todos_list_completed_items_header">Completed</string>
+    <string name="todos_list_add_list">New List</string>
+    <string name="todos_list_created_text">List created</string>
+    <string name="todos_list_creator_text">List Creator</string>
+    <string name="todos_list_alerts_label_text">List alerts:</string>
+    <string name="todos_list_alerts_description_text">Get updates when items have been added or completed on this list</string>
+    <string name="todos_list_alerts_on_text">On</string>
+    <string name="todos_list_alerts_off_text">Off</string>
+    <string name="todos_list_add_name_hint_text">Add a name to save a list</string>
+    <string name="todos_list_settings_text">List settings</string>
+    <string name="todos_list_option_hide_text">Hide list</string>
+
+    <string name="todos_list_delete_confirmation_title">Are you sure?</string>
+    <string name="todos_list_delete_confirmation_message">This will permanently delete this list for you and everyone in the Circle</string>
+    <string name="dialog_button_cancel">Cancel</string>
+    <string name="dialog_button_delete">DELETE</string>
+    <string name="dialog_button_hide">HIDE</string>
+
+    <string name="todos_list_hide_confirmation_title">Are you sure?</string>
+    <string name="todos_list_hide_confirmation_message">You will not be able to access this list after you hide it</string>
+    <string name="list_item_completed_by">by %s</string>
+
+    <string name="todos_empty_main_list_illustration_message">No lists here. Add one below!</string>
+    <string name="todos_empty_list_illustration_message">Whoa, this list is empty!</string>
+    <string name="todos_error_loading_alert">This list is no longer available</string>
+
+    <string name="go">Go</string>
+    <string name="email_existing_user">Email already in use. Enter a different email address or sign in with your email.</string>
+    <string name="phone_exiting_user">Phone number already in use. Enter a different phone number or sign in with your phone number.</string>
+    <string name="forgot_password_instructions_phone">Enter the phone number associated with your account and we will send you instructions</string>
+    <string name="toast_sms_sent_to">An SMS with instructions to reset your password has been sent to: %1$s</string>
+    <string name="please_enter_phone">Please enter a phone number</string>
+    <string name="please_enter_email">Please enter an email address</string>
+    <string name="new_account_phone_not_verified">For security purposes, please enter in the mobile number that matches this device. If this is not possible, please continue creating a new account with just an email.</string>
+    <string name="edit_profile_phone_not_verified">For security purposes, please enter in the mobile number that matches this device. If this is not possible, please update your profile without a phone number.</string>
+    <string name="phone_claim_text">A verification code will be sent to the mobile number below</string>
+
+    <!--So, depending on languages we can get "Arrived at Work" in the correct order with "4:00 PM", so it will merge to "Arrived at Work 4:00 PM" -->
+
+    <!-- progress dialog -->
+    <string name="you_have_completed_your_circle">You\'ve completed your Circle.</string>
+    <string name="almost_there">You\'re almost there. Take a minute and complete your Circle.</string>
+    <string name="ok_thanks">OK, Thanks!</string>
+    <string name="maybe_later">Maybe later</string>
+
+    <!--Yahoo Japan -->
+    <string name="partner_login_label">You can register and log in with Yahoo! JAPAN</string>
+    <string name="partner_login_description"> Life360 is operated by Life360,Inc, and the promotion in Japan is operated by Yahoo! Japan corporation.</string>
+    <string name="yj_tos_signup">By signing in you accept our &lt;a href="com.life360.webview://app-tos"&gt;TOS&lt;/a&gt; and &lt;a href="com.life360.webview://app-privacy"&gt;Privacy Policy&lt;/a&gt;.</string>
+    <string name="yj_parental_consent">This app collects location information. If you are under 13 years old, you are available only when you are invited from the parent and get the consent from parents.</string>
+    <string name="yj_id_unavailable">Your Yahoo! JAPAN ID is not available. Please use a different Yahoo! JAPAN ID or e-mail address.</string>
+    <!--TIM-->
+    <string name="carrier_billing_error">It looks like something went wrong. Please try again later.</string>
+    <string name="verify">(verify)</string>
+
+    <string name="circle_setup">Circle Setup</string>
+
+    <!--Coachmarks-->
+
+    <string name="swipe_anywhere_to_continue">Swipe anywhere to continue</string>
+    <string name="instantly_share_your_">Instantly share your current location with Check in</string>
+    <string name="alert_anyone_in_case_">Send your location to emergency contacts with Help Alerts</string>
+
+    <!-- IOT -->
+    <string name="adt_login_title">Connect ADT Pulse</string>
+    <string name="username">Username</string>
+    <string name="adt_login_desc">Sign into your ADT Pulse account to control your system through Life360</string>
+    <string name="adt_login_footer">Your information is secured with ADT</string>
+    <string name="adt_add_home_desc">Please add the address where you currently have an ADT system installed.</string>
+    <string name="add_home_address">Add Home Address</string>
+    <string name="empty_user_or_password">Username or Password empty</string>
+    <string name="adt_error_no_sites">Sorry, we could not find any ADT sites. Try again later!</string>
+    <string name="home_circle">Home Circle</string>
+    <string name="home_address">Home Address</string>
+    <string name="signing_out">Signing out&#8230;</string>
+    <string name="signed_in_as">Logged in as %s</string>
+    <string name="whos_home_in">Who is home in %s Circle</string>
+    <string name="tripped">Tripped</string>
+    <string name="security_trouble">Security Troubles</string>
+    <string name="tampered">Tampered</string>
+    <string name="bypassed">Bypassed</string>
+    <string name="low_battery">Battery Low</string>
+    <string name="no_activity">No Activity</string>
+    <string name="n_alerts">%d Alerts</string>
+    <string name="one_alert">One Alert</string>
+    <string name="one_numeral_alert">1 Alert</string>
+    <string name="missing">Missing</string>
+    <string name="no_alerts">No Alerts</string>
+    <string name="sensors">Sensors</string>
+    <string name="locks">Locks</string>
+    <string name="lights">Lights</string>
+    <string name="reminder_all_away_arm">If everyone is away remind me to arm my system</string>
+    <string name="reminder_disarm_when_home">When I arrive home, remind me to disarm my system</string>
+    <string name="thermostat">Thermostat</string>
+    <string name="garage_door">Garage Door</string>
+    <string name="garage_doors">Garage Doors</string>
+    <string name="all_switched_off">All Switched Off</string>
+    <string name="one">One</string>
+    <string name="n_turned_on">%s Turned On</string>
+    <string name="all_locked">All Locked</string>
+    <string name="n_unlocked">%s Unlocked</string>
+    <string name="all_closed">All Closed</string>
+    <string name="n_open">%s Open</string>
+    <string name="one_notification_on">1 Notification On</string>
+    <string name="n_notifications_on">%d Notifications On</string>
+    <string name="notifications_off">Notifications Off</string>
+    <string name="armed">Armed</string>
+    <string name="disarmed">Disarmed</string>
+    <string name="system_off">System Off</string>
+    <string name="home_controls">Home Controls</string>
+    <string name="arm">Arm</string>
+    <string name="disarm">Disarm</string>
+    <string name="cool_to">Cool to</string>
+    <string name="heat_to">Heat to</string>
+    <string name="cool_to_t">Cool to %d</string>
+    <string name="heat_to_t">Heat to %d</string>
+    <string name="target">Target %d</string>
+    <!-- TODO need string from UX -->
+    <string name="generic_processing_error">Operation could not be completed.</string>
+    <string name="login_error">Could not sign in. Please check and try again.</string>
+    <string name="adt_error_no_connected_home">No Smarthome connected or setup</string>
+
+    <string name="adt_leadgen_overlay_title">Keep your home and family safe</string>
+    <string name="adt_leadgen_overlay_text">Connect ADT Pulse® and Life360 \n to enjoy location-aware home security</string>
+    <string name="tell_me_more">TELL ME MORE</string>
+    <string name="adt_learnmore_title_text_1a">Provides 24/7</string>
+    <string name="adt_learnmore_title_text_1b">Home Security &amp; Automation</string>
+    <string name="i_am_already_adt_pulse_user">I\'m already an ADT Pulse® user</string>
+    <string name="title_adt_leadgen">ADT &amp; Life360</string>
+    <string name="adt_promo_text" formatted="false">Life360 users receive\n 20% off installation on\n a new ADT Pulse account&#42;</string>
+    <string name="adt_promo_desc">Peace of mind is at your fingertips,\n simply call now to get this special offer</string>
+    <string name="call_adt">Call ADT</string>
+    <string name="tap_to_call">Tap to Call</string>
+    <string name="adt_pulse_and_life360">ADT Pulse® and Life360</string>
+    <string name="adt_leadgen_thanks">If you\'ve decided to purchase an ADT Pulse home automation solution, once your installation is complete, tap the \"My Home\" button to login and control your system."</string>
+    <string name="adt_pulse_fine_print">&#42; With 36 month monitoring contract and enrollment in Easy Pay and Extended Warranty plan. See important terms and pricing &lt;a href="http://www.adt.com//about-adt/legal/life360-terms-and-conditions"&gt;here.&lt;/a&gt; </string>
+    <string name="thank_you">Thank you!</string>
+    <string name="keep_your_family_home_safe">Keep your family &amp; home safe</string>
+    <string name="adt_intro_dialog_msg">Remotely arm your home security system with Life360. Tap the \"Home\" button to learn more.</string>
+    <string name="view_demo">VIEW DEMO</string>
+    <string name="arm_away">Arm Away</string>
+    <string name="arm_stay">Arm Stay</string>
+    <string name="turn_on_lights">Turn On Lights</string>
+    <string name="heat">Heat</string>
+    <string name="cool">Cool</string>
+    <string name="auto">Auto</string>
+    <string name="off">Off</string>
+    <string name="on">On</string>
+    <string name="fan_auto">Fan Auto</string>
+    <string name="fan_on">Fan On</string>
+    <string name="aux_heat">AUX Heat</string>
+    <string name="cameras">Cameras</string>
+    <string name="coming_soon">Coming Soon</string>
+    <string name="target_temperature">Target Temperature</string>
+    <string name="connected">Connected!</string>
+    <string name="adt_connected_description">You\'re ready to control ADT Pulse® by tapping the \"My Home\" button on the map</string>
+    <string name="show_my_home_controls">Show My Home Controls</string>
+    <string name="connect_adt_pulse">Connect ADT Pulse</string>
+    <string name="disarmed_with_alarm">Disarmed with Alarm</string>
+    <string name="away_auto_stay">Away Auto Stay</string>
+    <string name="night">Night</string>
+    <string name="adt_network_error_message">Your ADT system cannot be reached.\nCheck your network connection.</string>
+    <string name="adt_operation_error">We could not complete your action. Check your connection and try again.</string>
+    <string name="adt_system_armed">ADT System Armed</string>
+    <string name="adt_system_disarmed">ADT System Disarmed</string>
+    <string name="your_security_system_armed">Your security system is armed</string>
+    <string name="would_you_like_to_arm">Would you like to arm your security system?</string>
+    <string name="adt_persistent_notification_setting_description">Always show status in notification dropdown</string>
+    <string name="turning_on_lights">Turning on lights. Please wait&#8230;</string>
+    <string name="lights_turned_on">Lights turned ON.</string>
+    <string name="arming_security_system_stay">Your security system is being armed to Arm Stay&#8230;</string>
+    <string name="arming_security_system_away">Your security system is being armed to Arm Away&#8230;</string>
+    <string name="disarming_security_system">Your security system is being Disarmed&#8230;</string>
+    <string name="unable_to_access_system">Unable to access system</string>
+    <string name="adt_system_was_not_armed">Your ADT system was not armed.</string>
+    <string name="adt_system_was_not_disarmed">Your ADT system was not disarmed.</string>
+    <string name="failed_to_turn_on_lights">Failed to turn on lights.</string>
+    <string name="away">Away</string>
+    <string name="updating">Updating&#8230;</string>
+    <string name="arm_dialog_title">Sensor Warning</string>
+    <string name="arm_dialog_message">A door is open or motion is detected. Are you sure you want to arm?</string>
+    <string name="adt_onboarding_notification_setting">Want to see your system\'s status in your notifications?</string>
+    <string name="adt_onboarding_arm_notifications">Want to be reminded to arm when your family leaves?</string>
+    <string name="see_whos_at_home">See who is at home</string>
+    <string name="coach_arming_message">Arm your system with the tap of a button</string>
+    <string name="enter_passcode">Enter Passcode</string>
+    <string name="pin_code_error">PIN Code Error. Please try again with your ADT Pulse PIN code</string>
+    <string name="choose_a_pin_code">Choose a PIN code</string>
+    <string name="confirm">Confirm</string>
+    <string name="renter_to_confrim">Please reenter to confirm</string>
+    <string name="pin_code">PIN code</string>
+    <string name="pin_doesnt_match_retry">Entered PIN does not match. Please try again.</string>
+    <string name="is_this_where_adt_system_is_located">Is this where your ADT system is located?</string>
+    <string name="change_location">Change location</string>
+    <string name="adt_leadgen_learnmore_text1">Get 20% off installation on a new Pulse account&#42; as a Life360 user.</string>
+    <string name="adt_leadgen_learnmore_text2">Remotely arm/disarm your system, lock your doors and turn off your lights seamlessly from your Life360 app.</string>
+    <string name="adt_security_and_automation">ADT Security &amp; Automation</string>
+    <string name="save_now">Save Now</string>
+    <string name="system">System</string>
+    <string name="alerts">Alerts</string>
+    <string name="call_now_to_save">Call Now to Save</string>
+    <string name="adt_leadgen_form_description">Please confirm your contact information and an ADT specialist will contact you at the phone number provided about ADT offers</string>
+    <string name="i_am_an_adt_customer">I am an ADT customer</string>
+    <string name="last_name">Last Name</string>
+    <string name="reset_pin">Reset PIN</string>
+    <string name="reset_pin_message">Resetting your PIN will automatically log you out of ADT Pulse® in Life360. Would you like to proceed?</string>
+    <string name="resetting_pin">PIN reset in progress&#8230;</string>
+    <string name="connected_home">Connected Home</string>
+    <string name="adt_logout_message">You will be signed out of ADT Pulse® in Life360.</string>
+    <string name="logout_of_adt_pulse">Log Out of ADT Pulse®</string>
+
+
+    <!--Sending Location Feedback-->
+    <string name="send_location_feedback">Send Location Feedback</string>
+    <string name="successful_upload">Log successfully uploaded</string>
+    <string name="unsuccessful_upload">Unable to upload log, please try again later</string>
+
+    <!-- Stale location warning-->
+
+    <!-- Nudges -->
+
+    <string name="nudge_invite_title_1">Welcome %s!</string>
+    <string name="nudge_invite_text_1">Add someone to locate them on the map.</string>
+    <string name="nudge_invite_text_2">Take a second to add someone.</string>
+    <string name="nudge_invite_text_3">Don\'t forget to invite your favorite people! It\'s really easy.</string>
+    <string name="nudge_invite_text_4">Add your favorite people to know they\'re safe at all times.</string>
+    <string name="nudge_invite_text_5">Invite someone to join you! It only takes a second.</string>
+    <string name="nudge_invite_text_6">Don\'t let your circle expire. Add someone today.</string>
+    <plurals name="nudge_activate_title_1">
+        <item quantity="one">%d pending invite</item>
+        <item quantity="other">%d pending invites</item>
+    </plurals>
+    <string name="nudge_activate_text_1">Ask %s to accept.</string>
+    <string name="nudge_activate_text_2">Send a quick text or call as a reminder to accept.</string>
+    <string name="nudge_activate_text_3">Send a quick invite reminder.</string>
+    <string name="nudge_activate_text_4">Take a second to send a reminder.</string>
+    <string name="nudge_activate_text_5">Send a quick reminder. It\'s really easy.</string>
+    <string name="nudge_activate_text_6">Last chance to send a reminder!</string>
+    <string name="nudge_firstplace_title_1">Tip: Add Home</string>
+    <string name="nudge_firstplace_text_1">Get notified when others arrive or leave.</string>
+    <string name="nudge_firstplace_title_2">Tip: Add Place</string>
+    <string name="nudge_firstplace_text_2">Get notified when others arrive at a place.</string>
+    <string name="nudge_firstplace_title_3">Free Place Alerts</string>
+    <string name="nudge_firstplace_text_3">It\'s easy, and free. Add a place!</string>
+    <string name="nudge_secondplace_title">Free Places</string>
+    <string name="nudge_secondplace_text">Set up another place alert for free.</string>
+
+    <!-- Banners -->
+    <string name="banner_lonely_title">Add those closest to you</string>
+    <string name="banner_lonely_message">This app was made to be used with others. Tap to add someone now.</string>
+    <string name="banner_talk_to_family_title">Don\'t forget</string>
+    <string name="banner_talk_to_family_message">This app works best with others. Tap to resend invitations.</string>
+
+    <!-- Blocked Until Invite Screen v1-->
+    <string name="blocked_until_invite_header">Get started by adding the people you care about</string>
+    <string name="blocked_until_invite_body">When someone joins you, you\'ll be able to locate, message, and coordinate in this private Circle</string>
+    <string name="no_texting_app_found">No texting app found</string>
+    <string name="no_phone_app_found">No phone app found</string>
+    <string name="hey_everyone_accept_my_invite_to_life360">Hey everyone. Please accept my invite to Life360. Or else! www.life360.com/download</string>
+
+    <!-- Blocked Until Invite Screen v2-->
+    <string name="waiting_for_others_to_join">Waiting for others to join&#8230;</string>
+    <string name="setup_your_circle">Setup your Circle</string>
+    <string name="step_one">Step One</string>
+    <string name="gather_your_circle_members_smartphones">Gather your circle member\'s smartphones</string>
+    <string name="step_two">Step Two</string>
+    <string name="tap_the_link_you_sent_them_through_sms">Tap the link you sent them through SMS</string>
+    <string name="step_three">Step Three</string>
+    <string name="download_life360_from_the_app_store">Download Life360 from the App Store</string>
+    <string name="tell_everyone_why_they_should_join_your_circle">Tell everyone why they should join your Circle</string>
+    <string name="let_your_invitees_know_what_life360_is_all_about">Let your invitees know what Life360 is all about</string>
+    <string name="send_message">Send Message</string>
+    <string name="are_you_with_someone_youve_invited">Are you with someone you\'ve invited?</string>
+    <string name="help_them_get_started_all_you_need_is_your_phone">Help them get started.\nAll you need is their phone.</string>
+    <string name="set_them_up">Set Them Up</string>
+
+    <!-- FUE Questions -->
+    <string name="keep_connected_to_those_who_matter_most">Keep connected to those who matter most</string>
+    <string name="sign_in_with_email">Sign in with email</string>
+    <string name="create_account">Create Account</string>
+    <string name="email_optional">Email (optional)</string>
+    <string name="email_already_in_use">Email already in use</string>
+    <string name="email_not_found">Email not found</string>
+    <string name="sign_in_with_phone">Sign in with phone</string>
+    <string name="phone_number_already_in_use">Phone number already in use</string>
+    <string name="phone_number_not_found">Phone number not found</string>
+    <string name="pending_invites_found">Pending invites found</string>
+    <string name="welcome_back_user">Welcome back, %s!</string>
+    <string name="welcome_back_no_name">Welcome back!</string>
+    <string name="hi_user">Hi %s!</string>
+    <string name="lets_create_your_private_map">Let\'s create your private map</string>
+    <string name="find_me">Find Me</string>
+    <string name="want_to_see_others_on_your_map">Want to see others on your map?</string>
+    <string name="want_to_know_when_your_family_arrives_home">Want to know when your family arrives home?</string>
+    <string name="know_when_your_best_friends_are_nearby">Know when your best friends are nearby?</string>
+    <string name="nah">Nah</string>
+    <string name="yes_please">Yes, please</string>
+    <string name="sure">Sure</string>
+    <string name="nope">Nope</string>
+    <string name="want_to_be_notified_when_someone_arrives_home">Want to be notified when someone arrives home?</string>
+    <string name="add_a_different_place_you_love">Add a different place you love?</string>
+    <string name="definitely">Definitely</string>
+    <string name="ill_do_it_later">I\'ll do it later</string>
+    <string name="finish_up_by_choosing_a_profile_pic">Finish up by choosing a profile pic?</string>
+    <string name="want_to_see_friends_on_your_map">Want to see friends on your map?</string>
+    <string name="want_to_know_what_your_friends_are_up_to">Want to know what your friends are up to?</string>
+    <string name="get_notified_when_friends_come_and_go">Get notified when friends come and go?</string>
+    <string name="want_to_see_kids_on_your_map">Want to see kids on your map?</string>
+    <string name="want_to_know_what_your_kids_are_up_to">Want to know what your kids are up to?</string>
+    <string name="get_notified_when_kids_come_and_go">Get notified when kids come and go?</string>
+    <string name="add_a_place_you_hang_out">Add a place you hang out?</string>
+
+    <!-- Places -->
+    <string name="search_address">Search address</string>
+    <string name="could_not_load_places">Could not load places</string>
+    <string name="you_have_no_places">You have no places.</string>
+
+    <!-- Map Marker Info Window -->
+
+    <string name="low_battery_warning_short">Low Battery</string>
+    <string name="low_battery_warning">Looks like their battery is very low, which can prevent their device from updating location.</string>
+    <string name="wifi_off_warning_short">WiFi turned off</string>
+    <string name="wifi_off_warning">Looks like their WiFi is turned off, which can delay place alerts  and cause low location accuracy.</string>
+
+    <!-- SMS Invite Failed -->
+    <string name="sms_send_fail_retry">Invite could not be sent. We will retry when your reception improves.</string>
+    <string name="sms_send_airplane_retry">Invite could not be sent. Please check that airplane mode is off.</string>
+
+    <string name="sms_could_not_be_sent_through_platform">Invite could not be sent. Please try again later.</string>
+    <string name="resend_invite_not_supported_for_your_country">The resend invite feature is not available in your country.</string>
+    <string name="unable_to_send_resend_invite">Unable to resend invitation. Check your connection and try again or send an email invite.</string>
+
+    <!-- Location Permission OFF Dialog -->
+    <string name="location_permission_off_dialog_title">Location Permissions are off</string>
+    <string name="location_permission_off_dialog_message">Location is used for Place Alerts and lets you instantly connect with your circle. To update, please toggle Location on under App Info > Permissions > Location</string>
+    <string name="location_permission_off_to_edit_place">Location is required to edit places. Please turn Location on under Phone Settings > App Info > Permissions > Location</string>
+    <string name="location_permission_off_to_add_place">Location is required to create places. Please turn Location on under Phone Settings > App Info > Permissions > Location</string>
+    <string name="location_permission_off_banner_text">Tap to turn on Location Permissions</string>
+
+    <!-- Contacts Permission OFF Dialog -->
+    <string name="contacts_permission">Contacts Permission</string>
+    <string name="contacts_permission_instructions">To invite members, turn on contacts by going to App Info > Permissions > Contacts</string>
+
+    <!-- Contacts Permission Explanation Dialog -->
+    <string name="contacts_permission_explanation_message">Contacts permission is required to access your contacts</string>
+
+    <!-- Sms Permission OFF Dialog -->
+    <string name="sms_permission">SMS Permission</string>
+    <string name="sms_permission_instructions">To send your invitations, turn on SMS by going to App Info > Permissions > SMS</string>
+
+    <!-- Sms Permission Explanation Dialog -->
+    <string name="sms_permission_explanation_message">SMS permission is required to send invitations to your selected contacts</string>
+
+    <!-- Phone Permission OFF Dialog -->
+    <string name="phone_permission_off_dialog_title">Phone Permission is off</string>
+    <string name="phone_permission_off_dialog_message">In order to automatically dial your phone, please set Phone Permission to ON in App Info > Permissions > Contacts</string>
+
+    <!-- Camera permissions OFF Dialog -->
+    <string name="camera_permission_off_dialog_title">Camera Permissions are off</string>
+    <string name="camera_permission_off_dialog_message">To enable camera access, go to App Info > Permissions > Camera</string>
+
+    <!-- Storage permissions OFF Dialog -->
+    <string name="storage_permission_off_dialog_title">Storage Permissions are off</string>
+    <string name="storage_permission_off_dialog_message">To enable access to your photo gallery, go to App Info > Permissions > Storage</string>
+
+    <!-- Photo permissions OFF Dialog -->
+    <string name="multiple_permissions_off_dialog_title">Some required permissions are off</string>
+    <string name="multiple_permissions_off_dialog_message">To enable permissions go to App Info > Permissions</string>
+
+
+    <!-- Address Field -->
+    <string name="near">Near %s</string> <!-- %s is an address -->
+    <string name="moving">Moving</string>
+    <string name="moving_near_address">Moving near %s</string>
+
+    <!-- Promo Codes-->
+    <string name="congrats">Congrats!</string>
+    <string name="validate">Validate</string>
+    <string name="promo_code">Promo code</string>
+    <string name="enter_promo_code_title">Enter Your Promo Code</string>
+    <string name="promo_code_invalid">Promo Code is Invalid</string>
+
+    <!-- Pillar -->
+    <string name="_help_is_just_a_call_away">24/7 Help is just a call away</string>
+    <string name="from_lost_phones_to_flat_tires_">From lost phones to flat tires, Live Advisor is here to help</string>
+    <string name="try_for_free">Try for Free</string>
+    <string name="add_someone">Add Someone</string>
+    <string name="add_phone_number">Add Phone Number</string>
+    <string name="requires_phone_number">Your account requires a phone number</string>
+    <string name="get_notified_when_someone_arrives_">Get notified when someone arrives Home safely</string>
+    <string name="welcome_home">Welcome Home</string>
+    <string name="pillar_add_home_body">Get notified when someone arrives home safely</string>
+
+    <!-- Reactions -->
+    <string name="request_check_in_question">Request Check In?</string>
+    <string name="request_x_to_check_in">Would you like %s to share a more specific location?</string>
+    <string name="request_x_to_turn_on_location_sharing">Would you like %s to turn on location sharing?</string>
+    <string name="send_request">Send Request</string>
+    <string name="request_location">Request Location</string>
+    <string name="check_in_request_send_to_x">Check in request sent to %s</string>
+    <string name="heart_x_is_at_place_y">You liked that %1$s is at %2$s</string>
+    <string name="x_requested_to_check_in">%s would like you to check in</string>
+    <string name="x_ignored_check_in_request">%s has ignored your request to check in</string>
+    <string name="x_unavailable_what_to_do_next">%s is unavailable right now. What would you like to do next?</string>
+    <string name="wheres_x">Where\'s %s?</string>
+    <string name="for_a_more_specific_location_choose_one">For a more specific location choose one of the options below</string>
+    <string name="name_this_location">Name This Location</string>
+    <string name="name_xs_current_location">Name %s\'s current location</string>
+    <string name="location_added">Location Added</string>
+
+    <!-- Premium Upsell Screen (Version 1) -->
+    <string name="premium_upsell_try_cancel">Try it for free. Cancel anytime.</string>
+    <string name="premium_upsell_title_for_all">Premium for All!</string>
+    <string name="premium_upsell_message_for_all">Upgrade to share Premium features with everyone in the Circle</string>
+    <string name="premium_upsell_title_extended_history">Extended History</string>
+    <string name="premium_upsell_message_extended_history">Easily view the places you\'ve been</string>
+    <string name="premium_upsell_title_more_places">More Places</string>
+    <string name="premium_upsell_message_more_places">Know when others come and go from anywhere</string>
+    <string name="premium_upsell_title_roadside_assistance">24/7 Roadside Assistance</string>
+    <string name="premium_upsell_message_roadside_assistance">A location assistant is always ready to help your Circle with car trouble</string>
+
+    <!-- Premium Upsell Screen -->
+    <string name="go_premium">Go Premium!</string>
+    <string name="premium_upsell_start_free_trial">Start %d-Day Free Trial Now</string>
+    <string name="premium_upsell_try_free">Try it for free. %1$s a month after %2$d days</string>
+    <string name="premium_upsell_title_things">Free Item Tracker</string>
+    <string name="premium_upsell_message_things">We\'ll send you a free item tracker so you\'ll never lose your keys again</string>
+    <string name="premium_upsell_title_places_history">Unlimited Places &amp; History</string>
+    <string name="premium_upsell_message_places_history">Stay close to loved ones with more place alerts &amp; extended history</string>
+    <string name="premium_upsell_alert_places_history">Anna arrived at Home</string>
+    <string name="premium_upsell_title_roadside_advisor">Safety on the Road</string>
+    <string name="premium_upsell_message_roadside_advisor">A 24/7 Live Advisor will arrange a free tow truck</string>
+    <string name="premium_upsell_alert_roadside">A tow truck is on the way!</string>
+    <string name="premium_upsell_title_premium">Life360 Premium</string>
+    <string name="premium_upsell_title_try_premium">Try Life360 Premium</string>
+    <string name="premium_upsell_message_premium">Premium covers your Circle and includes:</string>
+    <string name="premium_upsell_title_tracker">1 Free Item Tracker -</string>
+    <string name="premium_upsell_message_tracker">Easily find lost things using the app</string>
+    <string name="premium_upsell_tracker_price">$29 Value</string>
+    <string name="premium_upsell_title_places">Unlimited Places</string>
+    <string name="premium_upsell_message_places">Know when others arrive or leave</string>
+    <string name="premium_upsell_title_history">Extended History</string>
+    <string name="premium_upsell_message_history">30 days of location history</string>
+    <string name="premium_upsell_title_roadside">Roadside Assistance</string>
+    <string name="premium_upsell_message_roadside">One free tow within 50 miles each year</string>
+    <string name="premium_upsell_title_insurance">%1$s Stolen Phone Insurance</string>
+    <string name="premium_upsell_title_priority_updates">Enhanced Location</string>
+    <string name="premium_upsell_message_priority_updates">Priority updates for everyone in your circle</string>
+
+    <!-- Premium Upsell Hook Dialogs -->
+    <string name="premium_plus">Plus</string>
+    <string name="premium_driver_protect">Driver Protect</string>
+    <string name="premium_total_protect">Total Protect</string>
+    <string name="premium_hook_message_places">Know when your loved ones get home or leave work.</string>
+    <string name="premium_hook_places_bubble_text">Home</string>
+    <string name="premium_hook_places_bubble_time">5:30pm - 11:35am</string>
+    <string name="premium_hook_message_history">Stay close to loved ones with more places &amp; extended history.</string>
+    <string name="premium_hook_rapid_acceleration">Rapid\n Acceleration</string>
+    <string name="premium_hook_hard_braking">Hard\n Braking</string>
+    <string name="premium_hook_phone_usage">Phone\n Usage</string>
+    <string name="premium_hook_rapid_acceleration_value">8</string>
+    <string name="premium_hook_hard_braking_value">5</string>
+    <string name="premium_hook_phone_usage_value">3</string>
+    <string name="premium_hook_crash_detection_bubble_text">We detected an accident</string>
+    <string name="premium_hook_crash_detection_bubble_text2">Emergency Services Dispatched</string>
+    <string name="premium_hook_title_crime">Stay Informed about Local Crime</string>
+    <string name="premium_hook_message_crime">Get full details and alerts about crime happening in your area with Life360 Plus.</string>
+
+    <!-- Premium in Pillar -->
+    <string name="premium_pillar_live_advisor_title">24/7 Driver Care Support</string>
+    <string name="premium_pillar_live_advisor_body">Your family\'s direct hotline for roadside assistance. From flat tires to tows, we\'re here to help.</string>
+    <string name="premium_unlock_trial">Unlock Free Trial</string>
+    <string name="premium_pillar_plus_body">Stay connected to your family with Unlimited Places and 30-day History</string>
+
+    <!-- Premium Promo Dialogs -->
+    <string name="premium_promo_plus_tier">Life360 PLUS</string>
+    <string name="premium_promo_driver_protect_tier">Life360 DRIVER PROTECT</string>
+    <string name="try_plus">Try Life360 PLUS</string>
+    <string name="try_driver_protect">Try Life360 DRIVER PROTECT</string>
+    <string name="premium_promo_title_places">Get Unlimited Place Alerts</string>
+    <string name="premium_promo_title_history">30-Day History</string>
+    <string name="premium_promo_title_liveadvisor">Live Advisor is there when you need it</string>
+    <string name="premium_promo_title_driver_behavior">Safe Drive Review</string>
+    <string name="premium_promo_title_crash_detection">24/7 Crash Detection &amp; Response</string>
+    <string name="premium_promo_body_text_places">You currently have 2 free Places. Try Life360 Plus for FREE to add more!</string>
+    <string name="premium_promo_body_text_history">You have 2 days of free location history. With Life360 Plus, get access to 30 days of your circle\'s history.</string>
+    <string name="premium_promo_body_text_liveadvisor">Reach a real person, 24/7 for instant roadside assistance and help in any emergency</string>
+    <string name="premium_promo_body_text_driver_behavior">Get driving alerts for your family, including unsafe texting and phone use, aggressive driving, speeding and more</string>
+    <string name="premium_promo_body_text_crash_detection">When we detect a crash, we will send emergency services to your loved one\'s location, even if they can’t ask for help</string>
+    <string name="life360_crash_detection">Crash Detection</string>
+    <string name="you_cant_always_be_there">You can\'t always be there, but we can</string>
+    <string name="when_life360_detects_a_crash">When Life360 detects a crash, we can immediately send emergency services to the location. We notify emergency contacts right away to always keep loved ones informed</string>
+    <string name="free_trial_available">Free trial available</string>
+    <string name="life360_driving_analysis">Safe Drive Review</string>
+    <string name="keep_your_family_safe_on_the_road">Keep your family safe on the road</string>
+    <string name="get_notified_about_driving_events">Get notified about driving events:\nPhone use &amp; texting\nRapid acceleration\nHard braking</string>
+
+    <!-- Premium Screen (Post Purchase) -->
+    <string name="premium_circle">This is a Premium Circle</string>
+    <string name="premium_call_live_advisor">Call Live Advisor</string>
+    <string name="premium_live_advisor_desc">Call Live Advisor for instant roadside assistance and help in any emergency</string>
+    <string name="premium_help_center">Premium Help Center</string>
+    <string name="plus_circle">This is a Life360 Plus Circle</string>
+    <string name="driverprotect_circle">This is a Life360 Driver Protect Circle</string>
+    <string name="driver_care_button">Call Driver Care Support</string>
+    <string name="driver_care_description">Call Driver Care Support for instant roadside assistance and help in any emergency</string>
+
+    <!-- Premium Edit Shipping Info -->
+    <string name="shipping_title">Get Your Free Item Tracker</string>
+    <string name="shipping_message">Premium subscribers receive a free item tracker device. Where should we send yours?</string>
+    <string name="shipping_name">Name</string>
+    <string name="shipping_email_address">Email address</string>
+    <string name="shipping_address">Shipping address</string>
+    <string name="shipping_address2">Apt / Suite / Unit, etc.</string>
+    <string name="shipping_address_city">City</string>
+    <string name="shipping_address_state">State</string>
+    <string name="shipping_address_zip">ZIP</string>
+    <string name="shipping_send_item_tracker">Send Item Tracker</string>
+
+    <!-- Premium Purchase Confirmation Dialog -->
+    <string name="purchase_confirm_title">Premium is yours!</string>
+    <string name="purchase_confirm_message">Premium features are now available to this Circle.</string>
+    <string name="purchase_confirm_message_item_tracker">We\'ll notify you when your free item tracker ships. In the meantime, Premium features are now available to this Circle.</string>
+
+    <!-- Premium Tracker Experiment -->
+    <string name="premium_fue_roadside_question">Want to keep your family safe on the road?</string>
+    <string name="premium_fue_tracker_question">Want help finding your keys?</string>
+    <string name="premium_fue_tracker_callout">Last location:\n123 Main Street</string>
+
+    <!-- Premium Multi-Tier Upsell Screens -->
+    <string name="prem_multi_tier_life360_plus">Life360\nPlus</string>
+    <string name="prem_multi_tier_life360_driver_protect">Life360\nDriver Protect</string>
+    <string name="prem_multi_tier_plus">Plus</string>
+    <string name="prem_multi_tier_driver_protect">Driver Protect</string>
+    <string name="prem_multi_tier_total_protect">Life360\nTotal Protect</string>
+    <string name="prem_multi_tier_button_text">Start %d-Day Free Trial</string>
+    <string name="prem_multi_tier_explore">Explore all features</string>
+    <string name="prem_multi_tier_per_month_label">%s/mo</string>
+    <string name="prem_multi_tier_per_year_label">%s/yr</string>
+    <string name="prem_multi_tier_unlimited_places">Unlimited Place Alerts</string>
+    <string name="prem_multi_tier_extended_history">30 Days of History</string>
+    <string name="prem_multi_tier_priority_location_updates">Priority Location Updates</string>
+    <string name="prem_multi_tier_lists_reminders">Lists &amp; Reminders</string>
+    <string name="prem_multi_tier_crime">Crime Hotspots &amp; Alerts</string>
+    <string name="prem_multi_tier_email_support">Same Day Email Support</string>
+    <string name="prem_multi_tier_driver_protect_includes">Includes all Plus features</string>
+    <string name="prem_multi_tier_driver_analysis">Safe Drive Review</string>
+    <string name="prem_multi_tier_crash_detection">Crash Detection &amp; Emergency Response</string>
+    <string name="prem_multi_tier_live_advisor">24/7 Driver Care Support</string>
+    <string name="prem_multi_tier_total_protect_includes">Includes all Plus &amp; Driver Protect features</string>
+    <string name="prem_multi_tier_emergency_help">24/7 Emergency Help Line</string>
+    <string name="prem_multi_tier_document_storage">Secure Document Storage</string>
+    <string name="prem_multi_tier_phone_insurance">Stolen Phone Insurance</string>
+    <string name="prem_multi_tier_identity_theft">Identity Theft Insurance</string>
+    <string name="life360_driver_protect">Life360 Driver Protect</string>
+    <string name="prem_multi_tier_upgrade">Thank you for your interest in our newest subscription! Upgrading from an existing subscription in the app will be available soon. In order to upgrade to this service now, please contact support.</string>
+    <string name="upgrade_to_driver_protect">Upgrade to Driver Protect</string>
+    <string name="upgrade_email_prefill">Hello,\nI\'m interested in upgrading to Life360 Driver Protect. Could you please help me with next steps?\nThank you</string>
+    <string name="upgrade_original_purchaser_title">Upgrading to Driver Protect</string>
+    <string name="upgrade_original_purchaser_message">Thank you for your interest in our new subscription! This circle already has %1$s. Only %2$s can manage this existing subscription. Please ask them to upgrade this circle.</string>
+    <string name="upgrade_not_supported_title">Upgrade Not Supported</string>
+    <string name="upgrade_not_supported_message">Upgrading between subscriptions is not supported on this device\'s version of Android. Please update Android to the latest version supported by your device to enable upgrading.</string>
+
+    <!-- Premium Upgrade -->
+    <string name="upgrade_to">Upgrade To</string>
+    <string name="includes_all_your_current_features">Includes all your current features plus</string>
+    <string name="your_new_plan_will_be">Your new plan will be:</string>
+    <string name="select_your_new_payment_plan">Select your new payment plan and upgrade now</string>
+    <string name="upgrade_your_plan">Upgrade Your Plan</string>
+
+    <string name="save_percent">save %d%%</string>
+    <string name="x_months_for">%d months for</string>
+    <string name="active">Active</string>
+    <string name="basic">Basic</string>
+    <string name="this_circle_has">This circle has %s</string>
+    <string name="your_plan_contains">Your plan contains</string>
+
+    <!-- Premium Multi-Tier Details Screens -->
+    <string name="prem_detail_plus_header">More of what you love from Life360</string>
+    <string name="prem_detail_places_title">Unlimited Places</string>
+    <string name="prem_detail_places_body">Set up unlimited Place alerts for the whole family. Get notified when your family members come and go from home, work, school, and any other important locations.</string>
+    <string name="prem_detail_history_title">30 Days of Location History</string>
+    <string name="prem_detail_history_body">See where your family is coming and going. We store 30 days of history so you can look back in time.</string>
+    <string name="prem_detail_priority_title">Priority Location Updates</string>
+    <string name="prem_detail_priority_body">Get faster location updates for any family member with an Android device.</string>
+    <string name="prem_detail_lists_title">Lists &amp; Reminders</string>
+    <string name="prem_detail_lists_body">The ultimate lifeline for everyone in your Circle, to aid in a crisis or everyday assistance.</string>
+    <string name="prem_detail_crime_title">Crime Hotspots &amp; Alerts</string>
+    <string name="prem_detail_crime_body">Stay informed about local crime, including details about the incident (e.g. theft, burglary, vandalism) and location. You\'ll also be able to see registered sex offenders who live in your neighborhood.</string>
+    <string name="prem_detail_email_title">Same Day Email Support</string>
+    <string name="prem_detail_email_body">Questions about how the app works? Need help with your account? When you contact support, we\'ll give you priority service, and respond within 24 hours.</string>
+    <string name="prem_detail_driver_protect_header">Driving Peace of Mind for the Entire Family</string>
+    <string name="prem_detail_driver_protect_includes">Includes all %s features</string>
+    <string name="prem_detail_driver_protection_title">Driver &amp; Passenger Protection</string>
+    <string name="prem_detail_driver_protection_body">Everyone in your circle is covered. Whether drivers or passengers, any car or a carpool, if anyone in your family is on the road, we have them protected.</string>
+    <string name="prem_detail_driver_behavior_title">Safe Drive Review</string>
+    <string name="prem_detail_driver_behavior_body">Be a family of better, safer drivers. The Safe Drive Review feature automatically detects when a user is driving, and provides in-depth information about the trip, including alerts for aggressive driving, hard acceleration, hard braking, unsafe texting and phone use, and speeding.</string>
+    <string name="prem_detail_crash_title">Crash Detection &amp; Emergency Response</string>
+    <string name="prem_detail_crash_body">Keep your family safe on the road with our automatic crash response system. We detect when a car accident occurs, and call the driver or passenger involved. If they need immediate emergency assistance, or don\'t respond, we send their location data to emergency services to dispatch an ambulance and will stay on the line with them until help arrives. We will call you and your emergency contacts to let you know what occurred afterwards.</string>
+    <string name="prem_detail_driver_email_title">Driving Summary Email</string>
+    <string name="prem_detail_driver_email_body">The ultimate lifeline for everyone in your Circle, to aid in a crisis or everyday assistance.</string>
+    <string name="prem_detail_roadside_title">Roadside Assistance</string>
+    <string name="prem_detail_roadside_body">Get peace of mind with comprehensive roadside assistance for your family. Whether they need to jump start their battery, were locked out of their car, ran out of gas, need to change a flat tire, or need a tow, we got you covered. Up to 2 incidents per year for $100 per incident, and 2 gallons of gas for refueling.</string>
+    <string name="prem_detail_driver_care_title">24/7 Driver Care Support</string>
+    <string name="prem_detail_driver_care_body">Give your family access to a direct hotline, where a trained advisor can help a driver find nearby garages, hospitals, help contacting emergency contacts, or minor accident support. A real person will be available to support you and your family, 24/7.</string>
+    <string name="prem_detail_total_protect_header">Security, freedom and peace mind for the people, places and things that matter most</string>
+    <string name="prem_detail_total_protect_includes">Includes all Plus &amp; Driver Protect features</string>
+    <string name="prem_detail_help_line_title">24/7 Emergency Family Help Line</string>
+    <string name="prem_detail_help_line_body">The ultimate lifeline for everyone in your Circle, to aid in a crisis or everyday assistance.</string>
+    <string name="prem_detail_tech_support_title">24/7 Technical Support</string>
+    <string name="prem_detail_tech_support_body">The ultimate lifeline for everyone in your Circle, to aid in a crisis or everyday assistance.</string>
+    <string name="prem_detail_document_title">Secure Document Storage</string>
+    <string name="prem_detail_document_body">The ultimate lifeline for everyone in your Circle, to aid in a crisis or everyday assistance.</string>
+    <string name="prem_detail_phone_insurance_title">Stolen Phone Insurance</string>
+    <string name="prem_detail_phone_insurance_body">The ultimate lifeline for everyone in your Circle, to aid in a crisis or everyday assistance.</string>
+    <string name="prem_detail_identity_theft_title">Identity Theft Insurance</string>
+    <string name="prem_detail_identity_theft_body">The ultimate lifeline for everyone in your Circle, to aid in a crisis or everyday assistance.</string>
+
+    <!-- Premium Multi-Tier Confirmation Dialogs -->
+    <string name="prem_confirmation_title_plus">Welcome to Life360 PLUS!</string>
+    <string name="prem_confirmation_body_plus">You now have unlimited places, extended history, and more.</string>
+    <string name="prem_confirmation_title_driver_protect">Welcome to Life360 DRIVER PROTECT!</string>
+    <string name="prem_confirmation_body_driver_protect">For crash detection to be activated for a circle member, they must have a phone number tied to their account.</string>
+    <string name="get_started">Get Started!</string>
+
+    <!-- Add Phone Dialog-->
+    <string name="add_phone_title_life360">Make sure you can always sign into Life360</string>
+    <string name="add_phone_title_finder">Make sure you can always sign in</string>
+    <string name="add_phone_body">We will only use your phone number to keep your account secure</string>
+
+    <!-- Create Circle Screen -->
+    <string name="welcome">Welcome</string>
+    <string name="youve_joined_your_friends_circle">You\'ve joined your friend\'s Circle!</string>
+    <string name="youve_joined_x_friend_circle">You\'ve joined %s\'s friend Circle!</string>
+    <string name="want_to_start_your_own_friend_circle">Want to start your own friend Circle?</string>
+    <string name="no_view_this_circle">No, view this Circle</string>
+    <string name="no_view_x_circle">No, view %s\'s Circle</string>
+
+    <!-- Reccomender v2-->
+    <string name="invite_family">Invite Family</string>
+    <string name="deselect_caps">DESELECT</string>
+    <string name="select_all_caps">SELECT ALL</string>
+    <string name="invite_amount_token">Invite (%d)</string>
+    <string name="we_have_sent_the_first_15_invites_selected">You can only send up to 15 invites at once. We have sent the first 15 invites selected.</string>
+
+    <!-- Consecutive Actions -->
+    <string name="while_you_wait_for_others_to_join_ellipsis">While you wait for others to join&#8230;</string>
+    <string name="add_photos_for_circle_members">Add photos for Circle members</string>
+    <string name="send_a_welcome_message">Send a welcome message</string>
+    <string name="add_profile_photos">Add Profile Photos</string>
+    <string name="tap_to_add">Tap to add</string>
+    <string name="tap_to_change">Tap to change</string>
+    <string name="great_picture">Great Picture!</string>
+    <string name="send_sms_for_avatar_message">We\'ll send a text message to let them know a photo has been added.</string>
+
+    <string name="in_transit">In-transit</string>
+    <!-- Check In w/ Places-->
+    <string name="nearby_places_caps">NEARBY PLACES</string>
+    <string name="send_current_location">Send Current Location</string>
+    <string name="check_in_first_letters_cap">Check In</string>
+    <string name="search_for_places_to_check_in">Search for places to check in</string>
+    <string name="no_results_found_for">No results found for</string>
+    <string name="you_checked_in_at_address">You checked in to %s</string>
+
+    <!-- Driver Behavior -->
+    <string name="driver_behavior_notifications_page_title">Driving Alerts\n&amp; Analysis</string>
+    <string name="driver_behavior_notifications_page_description">Get notified if someone in your circle is in a\n vehicle that’s speeding, driving aggressively,\n or a phone is being used during a drive.</string>
+    <string name="driver_behavior_notifications_page_subtitle_bar">RECEIVE DRIVING ALERTS FOR</string>
+    <string name="driving_analysis">Drive Detection</string>
+    <string name="my_driving_analysis">My drive detection:</string>
+    <string name="my_drive_detection">My Drive Detection</string>
+    <string name="driver_behavior_admin_dialog_message">You’re invited to try out a new beta feature we’ve been working on: get notified how safely your family is driving.</string>
+    <string name="driver_behavior_toast_on_network_failure">Oops, there was an error saving your Driving Notification settings. Please try again.</string>
+    <string name="unsupported_phone">Unsupported phone</string>
+    <string name="drive_detection_paused">Drive Detection paused</string>
+    <string name="the_more_stars_the_better">The more stars, the better</string>
+    <string name="drives_can_be_risky">Drives can be \'Risky,\' \'Okay,\' or \'Good,\' depending on how safe the drive was – driving aggressively, using the phone, and driving fast all contribute to the overall drive score.</string>
+
+    <string name="toggle_drive_detection_in_settings">Don’t want Life360 to log your own drives?\nToggle Drive Detection in %s</string>
+
+    <!-- Driving Analysis Settings -->
+    <string name="each_circle_member_must_enable_this_feature">Each Circle member must enable this feature for themselves for their drives to appear</string>
+    <string name="please_note_you_may_see_increased_battery_usage">Please note, you may see increased battery usage during drives</string>
+    <string name="when_this_feature_is_off">When this feature is off:</string>
+    <string name="your_drives_will_not_show_on_your_profile">Your drives will not show on your profile\nIf you’re a Driver Protect subscriber, Crash Detection will be disabled</string>
+    <string name="our_driving_feature_is_in_BETA">Our driving feature is in BETA as we work to make it the best we can. If you have feedback, we’d love to hear from you: %s and let us know!</string>
+    <string name="contact_us_lower_case">contact us</string>
+
+    <!-- Personal Invites-->
+    <string name="all_set">All set!</string>
+    <string name="personal_welcome_header">Welcome %1$s! Join The %2$s circle</string>
+    <string name="im_not_name">I\'m not %s</string>
+
+    <string name="join_me_on_life360">Join me on Life360</string>
+
+    <!-- Multi step create account-->
+    <string name="enter_your_phone_number">Enter your phone number</string>
+    <string name="you_will_use_your_phone_number_to_log_in">You will use your phone number to log in</string>
+    <string name="create_a_password">Create a password</string>
+    <string name="your_profile">Your Profile</string>
+    <string name="this_is_the_name_your_family_will_see">This is the name your family will see</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="six_characters_or_more">6 characters or more</string>
+    <string name="are_you_sure_you_dont_want_x_in_circle">Are you sure you don\'t want %1$s in your %2$s Circle?</string>
+    <string name="secure_your_account">Secure Your Account</string>
+    <string name="enter_your_email_address">Enter your email address</string>
+    <string name="add_your_email_to_recover_password">Add your email to make sure you can recover your password if you forget it</string>
+    <string name="this_email_is_already_in_use">This email is already in use</string>
+    <string name="please_use_a_different_email_address">Please use a different email address</string>
+    <string name="this_is_how_youll_appear_on_your_map">This is how you\'ll appear on your map</string>
+    <string name="choose_country_code">Choose Country Code</string>
+    <string name="must_be_6_characters_or_more">Must be 6 characters or more</string>
+    <string name="photos_make_it_easier_for">Photos make it easier for your Circle members to spot you on the map</string>
+    <string name="youre_missing_a_photo">You\'re missing a photo</string>
+    <string name="sign_in_with_phone_number">Sign in with phone number</string>
+    <string name="forgot_password_question">Forgot password?</string>
+
+    <!-- Profile 2.0 -->
+    <string name="earlier_today">EARLIER TODAY</string>
+    <string name="in_transit_for">In-Transit for %d miles</string>
+    <string name="in_transit_for_singular">In-Transit for 1 mile</string>
+    <string name="moving_for_x_miles">Moving for %d miles</string>
+    <string name="moving_for_1_mile">Moving for 1 mile</string>
+    <string name="x_mile_trip">%d mile Trip</string>
+    <string name="short_trip">Short Trip"</string>
+    <string name="short_drive">Short Drive"</string>
+
+    <string name="in_transit_capital">In-Transit</string>
+    <string name="format_mins">%dmin</string>
+    <string name="format_hrs_mins">%1$dhr %2$dmin</string>
+    <string name="format_day_hrs">%1$dday %2$dhr</string>
+    <string name="drive_details">Drive Details</string>
+    <string name="somewhere_else">Somewhere Else&#8230;</string>
+    <string name="tag_location">Tag Location</string>
+    <string name="was_he_at_one_of_these_locations">Was %s at one of these locations?</string>
+    <string name="unprotected_drive">This is an unprotected drive. Tap to learn why.</string>
+    <string name="location_update_failed">Location update failed. Try Again</string>
+    <string name="location_updated_successfully">Location updated successfully</string>
+    <string name="updating_bar">Updating</string>
+    <string name="last_update_minutes_ago">Last update %d minutes ago. Tap to refresh</string>
+    <string name="last_update_s_ago">Last update %s ago. Tap to refresh</string>
+    <string name="place_detail">Place Details</string>
+    <string name="transit_details">Transit Details</string>
+    <string name="no_more_recorded_history">NO MORE RECORDED HISTORY</string>
+    <string name="no_recorded_history">NO RECORDED HISTORY</string>
+    <string name="this_is_the_start_of_history">This is the start of %s\'s History</string>
+    <string name="scroll_down_to_view">Scroll down to view locations, drives and trips</string>
+    <string name="this_is_the_end_of_history">This is the end of %s\'s History</string>
+    <string name="this_is_the_end_of_free_history">This is the end of %s\'s Free 2 Day History</string>
+    <string name="upgrade_to_plus">Upgrade to PLUS to get a full month</string>
+    <string name="you_have_reached_the_end_of_history">You have reached the end of %s\'s History</string>
+    <string name="you_have_reached_the_end_of_free">You have reached the end of %s\'s free History</string>
+    <string name="you_have_reached_the_end_of_30day">You have reached the end of %s\'s 30 day History</string>
+    <string name="upgrade_to_life360_plus_to_unlock">Upgrade to %s to unlock a full 30 days of your Circle\'s History</string>
+    <string name="your_circle_has_2_free_days">Your Circle has 2 free days of History. Upgrade to %s to access up to 30 days of your Circle\'s History</string>
+    <string name="free">Free</string>
+    <string name="plus_all_caps">PLUS</string>
+    <string name="two_days">2 Days</string>
+    <string name="thirty_days">30 Days</string>
+    <!-- for example 3 mile Drive -->
+    <string name="s_drive">%s Drive</string>
+    <string name="s_trip">%s Trip</string>
+    <string name="trip_completed">Trip Completed</string>
+    <string name="top_speed_s">Top Speed %s</string>
+    <string name="top_speed">Top Speed</string>
+    <string name="events">Events</string>
+    <string name="event">Event</string>
+    <string name="top_speed_unavailable">Top Speed Unavailable</string>
+    <string name="trip_started">Trip Started</string>
+    <string name="try_premium_history">Try premium to unlock more history</string>
+    <string name="unable_to_load_more_history">UNABLE TO LOAD MORE HISTORY</string>
+
+    <!-- Circle Codes-->
+    <string name="do_you_have_a_circle_code">Do you have an Invite Code?</string>
+    <string name="this_lets_you_join_an_existing_circle">This lets you join an existing Circle</string>
+    <string name="no_im_creating_a_circle">No, I\'m creating a Circle</string>
+    <string name="circle_code_send_message">%s is the code you need to join our family\'s Map on Life360. Get the app and enter the code so we can use it together!</string>
+    <string name="your_circle_code_is">Your Invite Code is:</string>
+    <string name="share_this_invite_code_with">Share this invite code with the people you want in your Circle:</string>
+    <string name="invite_people_to_this_map">Invite people to this map by giving them your code</string>
+    <string name="send_code">Send Code</string>
+    <string name="invite_code_token">Invite Code: %s</string>
+    <string name="add_members_to_this_map">Add members to this map</string>
+    <string name="share_code_using">Share code using</string>
+    <string name="this_code_will_refresh_every_4_days">This code will refresh every 4 days</string>
+    <string name="invite_code">Invite Code</string>
+    <string name="youve_been_added_to_our_family_map">You\'ve been added to our family map</string>
+    <string name="enter_your_invite_code">Enter your invite code</string>
+    <string name="get_the_code_from_your">Get the code from your Circle’s admin</string>
+    <string name="youre_already_a_member_of_this_circle">You\'re already a member of this map.</string>
+    <string name="join">Join</string>
+    <string name="dont_have_a_code">Don\'t have a code?</string>
+    <string name="well_give_you_a_new_code_to_share">We\'ll give you a code to share</string>
+    <string name="create_a_circle">Create a New Circle</string>
+    <string name="join_or_create_circle">Join or Create New Circle</string>
+    <string name="just_now">Just now</string>
+    <string name="share_your_code_out_loud_or">Share your code out loud or send it in a message</string>
+    <string name="this_code_will_be_active_for">This code will be active for %d days</string>
+    <string name="this_code_will_be_active_for_one_day">This code will be active for 1 day</string>
+    <string name="share_your_code">Share Your Code</string>
+    <string name="x_would_like_to_join_y_circle">%1$s would like to join the %2$s Circle</string>
+    <string name="allow">Allow</string>
+    <string name="dont_allow">Don\'t Allow</string>
+    <string name="enter_an_invite_code">Enter an Invite Code</string>
+    <string name="invite_new_members">Invite New Members</string>
+    <string name="circle_invitation">Circle Invitation</string>
+    <string name="would_you_like_to_join_these_people">Would you like to join these people?</string>
+
+    <!-- Revised Invitation Accept Dialog-->
+    <string name="youre_part_of_this_familys_map">You’re part of this family’s map</string>
+    <string name="decline_invitation">Decline Invitation</string>
+    <string name="great">Great!</string>
+    <string name="circle_code_is_expired">Code has changed. Ask the sender for a new invitation.</string>
+    <string name="circle_code_not_found">Code not found. Please try again.</string>
+
+    <!-- Rate Location Accuracy Pillar View -->
+    <string name="rate_todays_location_accuracy">Rate today’s location accuracy</string>
+    <string name="your_feedback_is_appreciated">Your feedback is appreciated</string>
+    <string name="thanks_for_rating_location">Thanks for rating today’s location accuracy</string>
+    <string name="drive_detction_active">Drive Detection active</string>
+
+    <!-- TODO: DO NOT TRANSLATE THESE. Need these to compile with translated strings from 04/04/2016 -->
+    <string name="reminder_remind_everyone">Notify everyone</string>
+    <string name="reminder_no_reminders">No reminders</string>
+    <string name="remind_x">Notify %s</string>
+    <string name="remind_x_and_y">Notify %1$s &#38; %2$s</string>
+    <string name="remind_x_y_and_n_more">Notify %1$s, %2$s &#38; %3$s others</string>
+
+    <!-- Crash Response Cancellation Screen -->
+    <string name="crash_detected">Crash Detected</string>
+    <string name="crash_response_cancellation_text">We are contacting emergency response services. We will dispatch an ambulance to the crash location if you don\'t cancel this alert.</string>
+    <string name="cancel_dispatch">Cancel Crash Alert</string>
+    <string name="crash_detected_message">Potential crash detected. An agent will contact you. Open the app to cancel this alert.</string>
+    <string name="crash_question_message">We detected a potential collision. When you are safe, please let us know if this was correct.</string>
+    <string name="crash_detected_not_connected_message">Life360 could not send the crash alert. If this is an emergency, please contact 911.</string>
+    <string name="crash_question_title_driver_protect">Help Us Improve Our Service</string>
+    <string name="crash_question_title">We are testing a new driving feature and would appreciate your help in improving our product</string>
+    <string name="crash_question_body">We show you were in a collision near\n%1$s\n%2$s.</string>
+    <string name="crash_question_body_no_address">We show you were in a collision %s.</string>
+    <string name="on_date">on %s</string>
+    <string name="crash_question_question">Was this an actual collision?</string>
+
+    <!-- Drive details profile2-->
+    <string name="turn_on_crash_detection">Turn On Crash Detection</string>
+    <string name="crash_detection_on">Crash Detection On</string>
+    <string name="crash_detection_off">Crash Detection Off</string>
+    <string name="crash_detection_and_response">Crash Detection &amp; Response:</string>
+    <string name="crash_detection_off_description">This drive is unprotected and not set up for assistance in the event of a crash.</string>
+    <string name="good_drive">Good Drive</string>
+    <string name="okay_drive">Okay Drive</string>
+    <string name="risky_drive">Risky Drive</string>
+    <string name="drive_details_unavailable">Drive Details Unavailable</string>
+    <string name="drive_details_unavailable_body">When battery is low, drive detection is automatically paused, which may lead to less accurate trip details.</string>
+    <string name="drive_detection_paused_overlay">Drive Detection Paused</string>
+    <string name="drive_detection_paused_overlay_body">Looks like this user had drive detection paused during this trip. To get drive details make sure they have drive detection turned on in the Driving menu.</string>
+
+    <!-- Map Tour Fue -->
+    <string name="stay_connected_with_to_people_that_matter_most">Stay connected to the people that matter most</string>
+    <string name="already_have_an_account_login">Already have an account? <b>Log In</b></string>
+    <string name="permissions">Permissions</string>
+    <string name="allow_access">Allow Access</string>
+    <string name="storage_speeds_up_your_loading_time">Storage speeds up your loading time</string>
+    <string name="sensors_tell_us_when_youre_moving">Sensors tell us when you’re moving</string>
+    <string name="location_lets_us_place_you_on_the_map">You will be able to adjust your visibility on the map via ‘Location Settings’</string>
+    <string name="life360_needs_access_to_your_location_sensors_and_storage">Life360 needs access to your Location</string>
+    <string name="life360_needs_access_to_your_location_to_place">Life360 needs access to your Location to place you on your map</string>
+    <string name="creating_your_map">Creating your map&#8230;</string>
+    <string name="joining_map">Joining map&#8230;</string>
+    <string name="welcome_to_your_map">Welcome to Your Map!</string>
+    <string name="welcome_to_your_circle">Welcome to Your Circle!</string>
+    <string name="now_lets_add_the_most_important_part_your_family">Let’s add your family and friends. Once they join your Circle, you’ll be able to see them on your map</string>
+    <string name="invite_family_members">Invite Family Members</string>
+    <string name="add_your_home_exclamation">Add Your Home!</string>
+    <string name="customize_your_map">Customize Your Map</string>
+    <string name="add_your_home">Add Your Home</string>
+    <string name="put_important_places_on_your_map_to_receive_alerts_when_family_members_come_and_go">Put important Places on your map to receive alerts when family members come and go</string>
+    <string name="one_last_thing">One Last Thing!</string>
+    <string name="make_sure_everyone_accepts_your_circle_invitation_on_their_phones_so_you_ll_always_know_they_re_safe">Make sure everyone accepts your Circle invitation on their phones so you’ll always know they’re safe</string>
+    <string name="you_re_now_free_to_explore_the_app">You’re now free to explore the app or leave it in the background until you need it</string>
+    <string name="peace_of_mind_is_near">Peace of Mind is Near!</string>
+    <string name="got_it">Got It</string>
+
+    <string name="make_sure_your_invitees_download">Make sure your invitees download the app and accept your invitation</string>
+    <string name="make_it_easy_with_places">Make it easy to see where everyone is by adding Places like ‘Home’, ‘School’, or ‘Work’</string>
+    <string name="get_realtime_alerts_as">Get real-time alerts as your family members come and go</string>
+    <string name="sarah_checked_in_at">Sarah checked in at Lara’s House</string>
+    <string name="location_time_battery_example">Taylor Ave · 11:24am · Battery: 78%</string>
+    <string name="coordinate_plans_without_dist">Coordinate plans without\ndistracting text messages</string>
+    <string name="mark_will_be_home">Mark will be home in 14 min</string>
+    <string name="left_school_at">Left school at 3:28pm</string>
+    <string name="share_lists_with_the_family">Share lists with the\nwhole family</string>
+    <string name="mom_checked_milk_off">Mom checked milk off the list</string>
+
+    <string name="enable_location_sharing">Enable Location Sharing</string>
+    <string name="location_sharing_enabled">Location Sharing Enabled</string>
+
+    <!-- Drive Detailed Page -->
+    <string name="view_unread_alerts">View Unread Alerts</string>
+    <string name="aggressive_acceleration">Aggressive Acceleration</string>
+    <string name="aggressive_braking">Aggressive Braking</string>
+    <string name="distracted_driving">Phone Usage</string>
+    <string name="view_n_events">View %d Events</string>
+    <string name="view_one_event">View 1 Event</string>
+    <string name="to_see_unread_events">Try Life360 Driver Protect to see unread events</string>
+
+    <!-- Add Places from Pillar -->
+    <string name="add_work">Add Work</string>
+    <string name="add_school">Add School</string>
+    <string name="add_grocery_store">Add Store</string>
+    <string name="add_gym">Add Gym</string>
+    <string name="add_work_copy">Get notified when someone leaves Work"</string>
+    <string name="add_school_copy">Get notified when someone arrives at or leaves School</string>
+    <string name="add_grocery_store_copy">Get notified when someone arrives at the Grocery Store</string>
+    <string name="add_gym_copy">Get notified when someone leaves the Gym</string>
+
+    <!-- Driving Analysis Beta from Pillar -->
+    <string name="driving_analysis_beta_pillar_header">Try Our BETA Driving Features</string>
+    <string name="driving_analysis_beta_pillar_body">Be the first to try our new driving features and see top speed, phone usage, and unsafe drives for you and your Circle</string>
+
+    <!-- Misc -->
+    <string name="enabled">Enabled</string>
+    <string name="disabled">Disabled</string>
+    <string name="beta">Beta</string>
+
+    <!--Splin screen sign in-->
+    <string name="number_not_found_create_account">Phone number not found, create new account</string>
+    <string name="email_not_found_create_account">Email not found, create a new account</string>
+    <string name="hello_x">Hello, %s!</string>
+
+</resources>
